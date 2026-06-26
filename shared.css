@@ -1,0 +1,204 @@
+/* ═══════════════════════════════════════
+   BIRD LIST J — SHARED STYLES
+   All pages import this file.
+═══════════════════════════════════════ */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --white: #ffffff;
+  --off-white: #f8f7f4;
+  --stone: #e8e4dd;
+  --mist: #c8c4bc;
+  --ink-light: #888077;
+  --ink: #3a3630;
+  --ink-dark: #1a1714;
+  --accent: #5a7a5a;
+  --accent-light: #edf2ed;
+  --serif: 'Playfair Display', Georgia, serif;
+  --sans: 'Inter', system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  background: var(--white);
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── HEADER ── */
+header {
+  border-bottom: 1px solid var(--stone);
+  padding: 0 2rem;
+  position: sticky;
+  top: 0;
+  background: rgba(255,255,255,0.96);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+
+.site-logo {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  color: var(--ink-dark);
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.site-logo span { color: var(--accent); font-style: italic; }
+
+nav { display: flex; gap: 1.5rem; align-items: center; }
+nav a {
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+nav a:hover { color: var(--ink-dark); }
+nav a.active { color: var(--accent); border-bottom: 2px solid var(--accent); padding-bottom: 2px; }
+
+/* ── BANNER ── */
+.banner {
+  width: 100%;
+  height: 340px;
+  background: var(--off-white);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+}
+
+.banner-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  background: linear-gradient(160deg, #e8e6e0 0%, #d4d0c8 100%);
+}
+
+.banner-placeholder svg { opacity: 0.18; }
+
+.banner-placeholder-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mist);
+}
+
+.banner-placeholder-hint {
+  font-size: 0.68rem;
+  color: var(--mist);
+  opacity: 0.7;
+}
+
+/* ── PAGE HERO (below banner) ── */
+.page-hero {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 2rem;
+  border-bottom: 1px solid var(--stone);
+}
+
+.page-eyebrow {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.6rem;
+}
+
+.page-title {
+  font-family: var(--serif);
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
+  font-weight: 400;
+  color: var(--ink-dark);
+  line-height: 1.15;
+  margin-bottom: 0.6rem;
+}
+
+.page-title em { font-style: italic; color: var(--accent); }
+
+.page-desc {
+  font-size: 0.95rem;
+  color: var(--ink-light);
+  max-width: 520px;
+  line-height: 1.7;
+}
+
+/* ── STATS ROW ── */
+.stats-row { display: flex; gap: 2.5rem; flex-wrap: wrap; margin-top: 1.5rem; }
+.stat { display: flex; flex-direction: column; }
+.stat-number {
+  font-family: var(--serif);
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: var(--ink-dark);
+  line-height: 1;
+}
+.stat-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  margin-top: 0.2rem;
+}
+
+/* ── BADGES ── */
+.badge {
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+.badge-habitat { background: var(--accent-light); color: var(--accent); }
+.badge-video { background: #fff3e0; color: #b06000; }
+
+/* ── FOOTER ── */
+footer {
+  border-top: 1px solid var(--stone);
+  padding: 1.75rem 2rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--mist);
+  letter-spacing: 0.03em;
+  margin-top: 4rem;
+}
+
+/* ── UTILS ── */
+.page-content { max-width: 900px; margin: 0 auto; padding: 2rem; }
+
+@media (max-width: 600px) {
+  header { padding: 0 1rem; }
+  nav { gap: 0.85rem; }
+  nav a { font-size: 0.72rem; }
+  .banner { height: 220px; }
+  .page-hero { padding: 1.75rem 1rem 1.5rem; }
+  .page-content { padding: 1.5rem 1rem; }
+  .stats-row { gap: 1.5rem; }
+}
