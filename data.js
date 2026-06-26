@@ -25,7 +25,7 @@ const BIRDS = [
     location: "Backyard, Alexandria, VA",
     habitat: ["urban", "woodland"],
     notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
-    photos: [],
+    photos: [{ file: "AmericanRobin.jpg", caption: "In Holly Tree, backyard" },],
     videoUrl: ""
   },
   {
@@ -47,10 +47,7 @@ const BIRDS = [
     location: "Huntley Meadows Park, VA",
     habitat: ["wetland"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
-    photos: [
-      { file: "heron-1.jpg", caption: "Hunting in the shallows, Huntley Meadows" },
-      { file: "heron-2.jpg", caption: "In flight over the wetland" }
-    ],
+    photos: [],
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
   },
   {
