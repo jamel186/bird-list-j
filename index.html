@@ -589,9 +589,7 @@
 
   <select id="sort-select">
     <option value="lifer">Lifer order</option>
-    <option value="taxonomic">Taxonomic order</option>
     <option value="alpha">Alphabetical</option>
-    <option value="date-desc">Most recent</option>
   </select>
 
   <div class="filter-tabs" id="habitat-filters"></div>
@@ -640,7 +638,6 @@ const BIRDS = [
     number: 1,
     commonName: "American Robin",
     scientificName: "Turdus migratorius",
-    taxonomicOrder: 52100,
     dateFirstSeen: "2018-04-03",
     location: "Backyard, Alexandria, VA",
     habitat: ["urban", "woodland"],
@@ -652,7 +649,6 @@ const BIRDS = [
     number: 2,
     commonName: "Northern Cardinal",
     scientificName: "Cardinalis cardinalis",
-    taxonomicOrder: 63200,
     dateFirstSeen: "2018-04-05",
     location: "Backyard, Alexandria, VA",
     habitat: ["urban", "shrubland"],
@@ -664,7 +660,6 @@ const BIRDS = [
     number: 3,
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
-    taxonomicOrder: 6100,
     dateFirstSeen: "2018-05-12",
     location: "Huntley Meadows Park, VA",
     habitat: ["wetland"],
@@ -676,7 +671,6 @@ const BIRDS = [
     number: 4,
     commonName: "Painted Bunting",
     scientificName: "Passerina ciris",
-    taxonomicOrder: 63500,
     dateFirstSeen: "2021-03-18",
     location: "Brazos Bend State Park, TX",
     habitat: ["shrubland", "woodland"],
@@ -688,7 +682,6 @@ const BIRDS = [
     number: 5,
     commonName: "Belted Kingfisher",
     scientificName: "Megaceryle alcyon",
-    taxonomicOrder: 23400,
     dateFirstSeen: "2019-07-22",
     location: "Occoquan Bay NWR, VA",
     habitat: ["wetland", "coastal"],
@@ -700,7 +693,6 @@ const BIRDS = [
     number: 6,
     commonName: "Snowy Owl",
     scientificName: "Bubo scandiacus",
-    taxonomicOrder: 27100,
     dateFirstSeen: "2022-01-08",
     location: "Jones Beach, NY",
     habitat: ["coastal", "open field"],
@@ -712,7 +704,6 @@ const BIRDS = [
     number: 7,
     commonName: "Wood Duck",
     scientificName: "Aix sponsa",
-    taxonomicOrder: 2200,
     dateFirstSeen: "2019-04-14",
     location: "Huntley Meadows Park, VA",
     habitat: ["wetland", "woodland"],
@@ -724,7 +715,6 @@ const BIRDS = [
     number: 8,
     commonName: "Roseate Spoonbill",
     scientificName: "Platalea ajaja",
-    taxonomicOrder: 8200,
     dateFirstSeen: "2021-03-16",
     location: "Brazos Bend State Park, TX",
     habitat: ["wetland"],
@@ -736,7 +726,6 @@ const BIRDS = [
     number: 9,
     commonName: "Ruby-throated Hummingbird",
     scientificName: "Archilochus colubris",
-    taxonomicOrder: 18100,
     dateFirstSeen: "2018-08-30",
     location: "Backyard, Alexandria, VA",
     habitat: ["urban", "woodland"],
@@ -748,7 +737,6 @@ const BIRDS = [
     number: 10,
     commonName: "Eastern Bluebird",
     scientificName: "Sialia sialis",
-    taxonomicOrder: 51200,
     dateFirstSeen: "2020-02-22",
     location: "Shenandoah Valley, VA",
     habitat: ["open field", "woodland"],
@@ -834,7 +822,6 @@ function sortedFiltered() {
   });
 
   if (currentSort === 'lifer') list.sort((a,b) => a.number - b.number);
-  else if (currentSort === 'taxonomic') list.sort((a,b) => a.taxonomicOrder - b.taxonomicOrder);
   else if (currentSort === 'alpha') list.sort((a,b) => a.commonName.localeCompare(b.commonName));
   else if (currentSort === 'date-desc') list.sort((a,b) => new Date(b.dateFirstSeen) - new Date(a.dateFirstSeen));
   return list;
