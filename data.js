@@ -25,7 +25,7 @@ const BIRDS = [
     location: "Backyard, Alexandria, VA",
     habitat: ["urban", "woodland"],
     notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
-    photos: [{ file: "AmericanRobin.jpg", caption: "In Holly Tree, backyard" },],
+    photos: [{ file: "AmericanRobin.jpg", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
