@@ -126,5 +126,16 @@ const BIRDS = [
     notes: "A dozen of them working a fence line in February sun. The blue is almost ceramic — a color that doesn't feel like it belongs to a living thing.",
     photos: [],
     videoUrl: ""
+  },
+    {
+    number: 11,
+    commonName: "American Coot",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck",
+    habitat: ["urban", "woodland"],
+    notes: "very nice",
+    photos: [],
+    videoUrl: ""
   }
 ];
