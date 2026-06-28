@@ -122,7 +122,7 @@ const BIRDS = [
     scientificName: "Sialia sialis",
     dateFirstSeen: "2020-08-22",
     location: "Meadowlark Botanical Gardens, VA",
-    habitat: ["open field", "woodland"],
+    habitat: ["open field"],
     notes: "Meadowlark was where.",
     photos: [{ file: "EasternBluebird.JPG"}],
     videoUrl: ""
@@ -133,7 +133,7 @@ const BIRDS = [
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
     location: "mason neck",
-    habitat: ["urban", "woodland"],
+    habitat: ["lake"],
     notes: "very nice",
     photos: [],
     videoUrl: ""
@@ -144,7 +144,7 @@ const BIRDS = [
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
     location: "mason neck",
-    habitat: ["urban", "woodland"],
+    habitat: ["woodland", "swamp"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
@@ -155,7 +155,7 @@ const BIRDS = [
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
     location: "mason neck",
-    habitat: ["urban", "woodland"],
+    habitat: ["woodland", "lake"],
     notes: "very nice",
     photos: [{file:"TreeSwallow.JPG"}],
     videoUrl: ""
@@ -166,7 +166,7 @@ const BIRDS = [
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
     location: "mason neck",
-    habitat: ["urban", "woodland"],
+    habitat: ["wetland"],
     notes: "very nice",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
@@ -177,7 +177,7 @@ const BIRDS = [
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
     location: "mason neck",
-    habitat: ["urban", "woodland"],
+    habitat: ["meadow", "woodland"],
     notes: "very nice",
     photos: [{file:"BrownHeadedCowbird.JPG"}],
     videoUrl: ""
