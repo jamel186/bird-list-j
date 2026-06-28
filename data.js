@@ -120,14 +120,14 @@ const BIRDS = [
     number: 10,
     commonName: "Eastern Bluebird",
     scientificName: "Sialia sialis",
-    dateFirstSeen: "2020-02-22",
-    location: "Shenandoah Valley, VA",
+    dateFirstSeen: "2020-08-22",
+    location: "Meadowlark Botanical Gardens, VA",
     habitat: ["open field", "woodland"],
-    notes: "A dozen of them working a fence line in February sun. The blue is almost ceramic — a color that doesn't feel like it belongs to a living thing.",
-    photos: [],
+    notes: "Meadowlark was where.",
+    photos: [{ file: "EasternBluebird.JPG"}],
     videoUrl: ""
   },
-    {
+  {
     number: 11,
     commonName: "American Coot",
     scientificName: "hello",
@@ -136,6 +136,50 @@ const BIRDS = [
     habitat: ["urban", "woodland"],
     notes: "very nice",
     photos: [],
+    videoUrl: ""
+  },
+  {
+    number: 12,
+    commonName: "Yellow Warbler",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck",
+    habitat: ["urban", "woodland"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
+   {
+    number: 13,
+    commonName: "Tree Swallow",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck",
+    habitat: ["urban", "woodland"],
+    notes: "very nice",
+    photos: [{file:"TreeSwallow.JPG"}],
+    videoUrl: ""
+  },
+   {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck",
+    habitat: ["urban", "woodland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+   {
+    number: 15,
+    commonName: "Brown-headed Cowbird",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck",
+    habitat: ["urban", "woodland"],
+    notes: "very nice",
+    photos: [{file:"BrownHeadedCowbird.JPG"}],
     videoUrl: ""
   }
 ];
