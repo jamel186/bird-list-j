@@ -74,14 +74,14 @@ const BIRDS = [
   },
   {
     number: 6,
-    commonName: "Snowy Owl",
-    scientificName: "Bubo scandiacus",
-    dateFirstSeen: "2022-01-08",
-    location: "Jones Beach, NY, USA",
-    habitat: ["coastal", "open field"],
-    notes: "Irruption year. This ghostly bird sat on a dune for two hours in flat winter light. No words for the stillness of a snowy owl watching the ocean.",
+    commonName: "Red-flanked Bluetail",
+    scientificName: "Tarsiger cyanurus",
+    dateFirstSeen: "2026-01-02",
+    location: "Great Falls Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Vagrant from East Asia. Found in the brambles right by the northernmost parking lot.",
     photos: [],
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    videoUrl: ""
   },
   {
     number: 7,
