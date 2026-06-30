@@ -239,5 +239,16 @@ const BIRDS = [
     notes: "On a roadtrip all the way to Acadia National Park. Heard the wheezy fitz-bew as I got out of the car in the parking lot of the park.",
     photos: [{file:"willowF.JPG"}],
     videoUrl: ""
-  }
+  },
+   {
+    number: 252,
+    commonName: "Common Tern",
+    scientificName: "Sterna hirundo",
+    dateFirstSeen: "2024-07-27",
+    location: "Hammonasset Beach State Park, CT, USA",
+    habitat: ["beach"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
 ];
