@@ -161,7 +161,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 14,
+    number: 259,
     commonName: "White-crowned Sparrow",
     scientificName: "Zonotrichia leucophrys",
     dateFirstSeen: "2025-11-29",
@@ -172,13 +172,13 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 15,
-    commonName: "Brown-headed Cowbird",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
-    habitat: ["meadow", "woodland"],
-    notes: "very nice",
+    number: 258,
+    commonName: "Worm-eating Warbler",
+    scientificName: "Helmitheros vermivorum",
+    dateFirstSeen: "2025-09-09",
+    location: "Monticello Park, VA, USA",
+    habitat: ["woodland"],
+    notes: "Went out in the late afternoon after a long day of studying for some fall migration birding. The woods were very quite, with there only being one Magnolia Warbler. While sitting on a bench getting ready to head out, I spotted a bird high in the treetops. Turned out to be this Worm-eating Warbler.",
     photos: [{file:"BrownHeadedCowbird.JPG"}],
     videoUrl: ""
   },
