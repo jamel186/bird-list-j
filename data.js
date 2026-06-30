@@ -216,13 +216,13 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 14,
-    commonName: "Snowy Egret",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
-    habitat: ["wetland"],
-    notes: "very nice",
+    number: 254,
+    commonName: "Piping Plover",
+    scientificName: "Charadrius melodus",
+    dateFirstSeen: "2024-07-28",
+    location: "Wells Reserve at Laudholm, ME, USA",
+    habitat: ["beach"],
+    notes: "On a roadtrip all the way to Acadia National Park. Knew that there were Pipers on the way so I had to stop by. Initially had no luck, only finding a Semipalmated Plover. I went in a little further to a more secluded part of the beach and found one juvenile foraging. Very cute seeing in person.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
