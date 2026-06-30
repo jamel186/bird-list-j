@@ -162,12 +162,12 @@ const BIRDS = [
   },
    {
     number: 14,
-    commonName: "Snowy Egret",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
-    habitat: ["wetland"],
-    notes: "very nice",
+    commonName: "White-crowned Sparrow",
+    scientificName: "Zonotrichia leucophrys",
+    dateFirstSeen: "2025-11-29",
+    location: "Meadowood Hidden Pond, VA, USA",
+    habitat: ["forest"],
+    notes: "Found this in a mixed flock of sparrows on a crisp morning in the late fall. I still can't forget just how many birds there were that morning.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
@@ -180,6 +180,72 @@ const BIRDS = [
     habitat: ["meadow", "woodland"],
     notes: "very nice",
     photos: [{file:"BrownHeadedCowbird.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 14,
+    commonName: "Snowy Egret",
+    scientificName: "hello",
+    dateFirstSeen: "2018-04-03",
+    location: "mason neck, VA, USA",
+    habitat: ["wetland"],
+    notes: "very nice",
+    photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   }
 ];
