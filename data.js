@@ -73,14 +73,14 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 261,
+    number: 260,
     commonName: "Red-flanked Bluetail",
     scientificName: "Tarsiger cyanurus",
     dateFirstSeen: "2026-01-02",
     location: "Great Falls Park, VA, USA",
     habitat: ["forest"],
     notes: "Vagrant from East Asia. Found in the brambles right by the northernmost parking lot.",
-    photos: [],
+    photos: [{file: "RedFlankedBluetail.JPG"}],
     videoUrl: ""
   },
   {
@@ -102,7 +102,10 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["forest"],
     notes: "My nemesis bird for a long while. Was on the hunt for an Orange-crowned Warbler when I stumbled upon a flock of Purple Finches. Larger and more red than I imagined.",
-    photos: [{ file: "PurpleFinchMale.JPG", file: "PurpleFinchFemale.JPG"}],
+    photos: [
+      {file: "PurpleFinchMale.JPG"}, 
+      {file: "PurpleFinchFemale.JPG"}
+    ],
     videoUrl: ""
   },
   {
@@ -168,7 +171,7 @@ const BIRDS = [
     location: "Monticello Park, VA, USA",
     habitat: ["woodland"],
     notes: "Went out in the late afternoon after a long day of studying for some fall migration birding. The woods were very quite, with there only being one Magnolia Warbler. While sitting on a bench getting ready to head out, I spotted a bird high in the treetops. Turned out to be this Worm-eating Warbler.",
-    photos: [{file:"BrownHeadedCowbird.JPG"}],
+    photos: [{file:"Wormie.JPG"}],
     videoUrl: ""
   },
     {
@@ -179,7 +182,7 @@ const BIRDS = [
     location: "Changgyeonggung, Seoul, South Korea",
     habitat: ["forest"],
     notes: "It was a hot day. I was walking along a path in the park when I heard some weird sounds. I looked up, and there was a whole family of Dollarbirds in a tree.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"dollarbird.JPG"}],
     videoUrl: ""
   },
     {
@@ -190,7 +193,7 @@ const BIRDS = [
     location: "Manassas Battlefield Brawner Farm, VA, USA",
     habitat: ["open field"],
     notes: "A bird I had been wanting to see for a long time. Heard about there being an abundance of Grasshopper Sparrows in this park, so I headed there as soon as possible. They were all over the park, singing their buzzy songs. Yet, they were quite hard to see.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"grasshoppersparrow.JPG"}],
     videoUrl: "<iframe width="560" height="315" src="https://www.youtube.com/embed/DqEm_EjREFU?si=3ndbAKkFj4xLsNi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
   },
     {
@@ -201,7 +204,7 @@ const BIRDS = [
     location: "Mckee Beshers Hughes Hollow, MD, USA",
     habitat: ["wetland"],
     notes: "A vagrant species from much further south. Heard reports about it and had to go see it. Got quite close and was very colorful. Its feet were huge and it had a habit of flicking its tail constantly.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"purpleG.JPG"}],
     videoUrl: ""
   },
     {
@@ -212,7 +215,7 @@ const BIRDS = [
     location: "Wells Reserve at Laudholm, ME, USA",
     habitat: ["beach"],
     notes: "On a roadtrip all the way to Acadia National Park. Knew that there were Pipers on the way so I had to stop by. Initially had no luck, only finding a Semipalmated Plover. I went in a little further to a more secluded part of the beach and found one juvenile foraging. Very cute seeing in person.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"piper.JPG"}],
     videoUrl: ""
   },
     {
@@ -223,7 +226,7 @@ const BIRDS = [
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["beach"],
     notes: "On a roadtrip all the way to Acadia National Park. Saw a couple on rocky areas and cliffs by the seaside.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"seasideS.JPG"}],
     videoUrl: ""
   },
     {
@@ -234,7 +237,7 @@ const BIRDS = [
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["wetland"],
     notes: "On a roadtrip all the way to Acadia National Park. Heard the wheezy fitz-bew as I got out of the car in the parking lot of the park.",
-    photos: [{file:"SnowyEgret.JPG"}],
+    photos: [{file:"willowF.JPG"}],
     videoUrl: ""
   }
 ];
