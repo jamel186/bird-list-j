@@ -196,8 +196,19 @@ const BIRDS = [
     photos: [{file:"grasshoppersparrow.JPG"}],
     videoUrl: "https://www.youtube.com/embed/DqEm_EjREFU"
   },
-    {
+  {
     number: 256,
+    commonName: "Bobolink",
+    scientificName: "Dolichonyx oryzivorus",
+    dateFirstSeen: "2025-05-11",
+    location: "Meadowood Mustang Trailhead, VA, USA",
+    habitat: ["open field"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 255,
     commonName: "Purple Gallinule",
     scientificName: "Porphyrio martinica",
     dateFirstSeen: "2025-04-19",
@@ -208,7 +219,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 255,
+    number: 254,
     commonName: "Piping Plover",
     scientificName: "Charadrius melodus",
     dateFirstSeen: "2024-07-28",
@@ -219,7 +230,7 @@ const BIRDS = [
     videoUrl: "https://www.youtube.com/embed/tUHagSJ6cTo"
   },
     {
-    number: 254,
+    number: 253,
     commonName: "Seaside Sparrow",
     scientificName: "Ammospiza maritima",
     dateFirstSeen: "2024-07-27",
@@ -230,7 +241,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 253,
+    number: 252,
     commonName: "Willow Flycatcher",
     scientificName: "Empidonax traillii",
     dateFirstSeen: "2024-07-27",
@@ -241,12 +252,23 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 252,
+    number: 251,
     commonName: "Common Tern",
     scientificName: "Sterna hirundo",
     dateFirstSeen: "2024-07-27",
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["beach"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
+     {
+    number: 250,
+    commonName: "Tennessee Warbler",
+    scientificName: "Leiothlypis peregrina",
+    dateFirstSeen: "2024-05-11",
+    location: "Meadowood Mustang Trailhead, VA, USA",
+    habitat: ["forest", "swamp"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
