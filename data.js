@@ -229,8 +229,19 @@ const BIRDS = [
     photos: [{file:"piper.JPG"}],
     videoUrl: "https://www.youtube.com/embed/tUHagSJ6cTo"
   },
-    {
+  {
     number: 253,
+    commonName: "Marsh Wren",
+    scientificName: "Cistothorus palustris",
+    dateFirstSeen: "2024-07-28",
+    location: "Newbury Salt Marsh, MA, USA",
+    habitat: ["marsh"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
+    {
+    number: 252,
     commonName: "Seaside Sparrow",
     scientificName: "Ammospiza maritima",
     dateFirstSeen: "2024-07-27",
@@ -241,7 +252,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 252,
+    number: 251,
     commonName: "Willow Flycatcher",
     scientificName: "Empidonax traillii",
     dateFirstSeen: "2024-07-27",
@@ -252,7 +263,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 251,
+    number: 250,
     commonName: "Common Tern",
     scientificName: "Sterna hirundo",
     dateFirstSeen: "2024-07-27",
@@ -263,12 +274,23 @@ const BIRDS = [
     videoUrl: ""
   },
      {
-    number: 250,
+    number: 249,
     commonName: "Tennessee Warbler",
     scientificName: "Leiothlypis peregrina",
     dateFirstSeen: "2024-05-11",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["forest", "swamp"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
+       {
+    number: 248,
+    commonName: "Canvasback",
+    scientificName: "Aythya valisineria",
+    dateFirstSeen: "2024-01-27",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["lake"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
