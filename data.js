@@ -233,7 +233,7 @@ const BIRDS = [
     dateFirstSeen: "2024-07-27",
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["beach"],
-    notes: "On a roadtrip all the way to Acadia National Park. Saw a couple not on the beach but on rocky areas and cliffs by the seashore.",
+    notes: "On a roadtrip all the way to Acadia National Park. Saw a couple on rocky areas and cliffs by the seaside.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
@@ -244,7 +244,7 @@ const BIRDS = [
     dateFirstSeen: "2024-07-27",
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["wetland"],
-    notes: "very nice",
+    notes: "On a roadtrip all the way to Acadia National Park. Heard the wheezy fitz-bew as I got out of the car in the parking lot of the park.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   }
