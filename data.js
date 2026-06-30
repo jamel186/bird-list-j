@@ -194,7 +194,7 @@ const BIRDS = [
     habitat: ["open field"],
     notes: "A bird I had been wanting to see for a long time. Heard about there being an abundance of Grasshopper Sparrows in this park, so I headed there as soon as possible. They were all over the park, singing their buzzy songs. Yet, they were quite hard to see.",
     photos: [{file:"grasshoppersparrow.JPG"}],
-    videoUrl: "<iframe width="560" height="315" src="https://www.youtube.com/embed/DqEm_EjREFU?si=3ndbAKkFj4xLsNi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+    videoUrl: ""
   },
     {
     number: 256,
