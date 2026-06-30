@@ -205,13 +205,13 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 14,
-    commonName: "Snowy Egret",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
+    number: 255,
+    commonName: "Purple Gallinule",
+    scientificName: "Porphyrio martinica",
+    dateFirstSeen: "2025-04-19",
+    location: "Mckee Beshers Hughes Hollow, MD, USA",
     habitat: ["wetland"],
-    notes: "very nice",
+    notes: "A vagrant species from much further south. Heard reports about it and had to go see it. Got quite close and was very colorful. Its feet were huge and it had a habit of flicking its tail constantly.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
