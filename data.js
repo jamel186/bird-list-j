@@ -96,12 +96,12 @@ const BIRDS = [
   },
   {
     number: 8,
-    commonName: "Roseate Spoonbill",
-    scientificName: "Platalea ajaja",
-    dateFirstSeen: "2021-03-16",
-    location: "Brazos Bend State Park, VA, USA",
-    habitat: ["wetland"],
-    notes: "Pink beyond what you'd expect, and the spatula bill is even stranger in person. Swept it back and forth through the shallows in a trance-like rhythm.",
+    commonName: "Purple Finch",
+    scientificName: "Haemorhous purpureus",
+    dateFirstSeen: "2026-01-17",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["forest"],
+    notes: "My nemesis bird for a long while. Was on the hunt for an Orange-crowned Warbler when I stumbled upon a flock of Purple Finches. Larger and more red than I imagined.",
     photos: [],
     videoUrl: ""
   },
