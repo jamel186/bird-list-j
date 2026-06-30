@@ -189,12 +189,12 @@ const BIRDS = [
     number: 257,
     commonName: "Grasshopper Sparrow",
     scientificName: "Ammodramus savannarum",
-    dateFirstSeen: "2026-07-04",
+    dateFirstSeen: "2025-07-04",
     location: "Manassas Battlefield Brawner Farm, VA, USA",
     habitat: ["open field"],
     notes: "A bird I had been wanting to see for a long time. Heard about there being an abundance of Grasshopper Sparrows in this park, so I headed there as soon as possible. They were all over the park, singing their buzzy songs. Yet, they were quite hard to see.",
     photos: [{file:"grasshoppersparrow.JPG"}],
-    videoUrl: ""
+    videoUrl: "https://www.youtube.com/embed/DqEm_EjREFU"
   },
     {
     number: 256,
