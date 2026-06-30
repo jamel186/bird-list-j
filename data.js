@@ -73,7 +73,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 260,
+    number: 261,
     commonName: "Red-flanked Bluetail",
     scientificName: "Tarsiger cyanurus",
     dateFirstSeen: "2026-01-02",
@@ -95,7 +95,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 261,
+    number: 262,
     commonName: "Purple Finch",
     scientificName: "Haemorhous purpureus",
     dateFirstSeen: "2026-01-17",
@@ -161,7 +161,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 259,
+    number: 260,
     commonName: "White-crowned Sparrow",
     scientificName: "Zonotrichia leucophrys",
     dateFirstSeen: "2025-11-29",
@@ -172,7 +172,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 258,
+    number: 259,
     commonName: "Worm-eating Warbler",
     scientificName: "Helmitheros vermivorum",
     dateFirstSeen: "2025-09-09",
@@ -183,7 +183,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 257,
+    number: 258,
     commonName: "Dollarbird",
     scientificName: "Eurystomus orientalis",
     dateFirstSeen: "2025-07-19",
@@ -194,7 +194,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 256,
+    number: 257,
     commonName: "Grasshopper Sparrow",
     scientificName: "Ammodramus savannarum",
     dateFirstSeen: "2026-07-04",
@@ -205,7 +205,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 255,
+    number: 256,
     commonName: "Purple Gallinule",
     scientificName: "Porphyrio martinica",
     dateFirstSeen: "2025-04-19",
@@ -216,7 +216,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 254,
+    number: 255,
     commonName: "Piping Plover",
     scientificName: "Charadrius melodus",
     dateFirstSeen: "2024-07-28",
@@ -227,7 +227,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 253,
+    number: 254,
     commonName: "Seaside Sparrow",
     scientificName: "Ammospiza maritima",
     dateFirstSeen: "2024-07-27",
@@ -238,7 +238,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 252,
+    number: 253,
     commonName: "Willow Flycatcher",
     scientificName: "Empidonax traillii",
     dateFirstSeen: "2024-07-27",
