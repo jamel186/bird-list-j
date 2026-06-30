@@ -73,7 +73,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 6,
+    number: 260,
     commonName: "Red-flanked Bluetail",
     scientificName: "Tarsiger cyanurus",
     dateFirstSeen: "2026-01-02",
@@ -95,7 +95,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 8,
+    number: 261,
     commonName: "Purple Finch",
     scientificName: "Haemorhous purpureus",
     dateFirstSeen: "2026-01-17",
