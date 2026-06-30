@@ -183,13 +183,13 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 14,
-    commonName: "Snowy Egret",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
-    habitat: ["wetland"],
-    notes: "very nice",
+    number: 257,
+    commonName: "Dollarbird",
+    scientificName: "Eurystomus orientalis",
+    dateFirstSeen: "2025-07-19",
+    location: "Changgyeonggung, Seoul, South Korea",
+    habitat: ["forest"],
+    notes: "It was a hot day. I was walking along a path in the park when I heard some weird sounds. I looked up, and there was a whole family of Dollarbirds in a tree.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
