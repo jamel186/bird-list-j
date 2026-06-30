@@ -194,13 +194,13 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 14,
-    commonName: "Snowy Egret",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
-    location: "mason neck, VA, USA",
-    habitat: ["wetland"],
-    notes: "very nice",
+    number: 256,
+    commonName: "Grasshopper Sparrow",
+    scientificName: "Ammodramus savannarum",
+    dateFirstSeen: "2026-07-04",
+    location: "Manassas Battlefield Brawner Farm, VA, USA",
+    habitat: ["open field"],
+    notes: "A bird I had been wanting to see for a long time. Heard about there being an abundance of Grasshopper Sparrows in this park, so I headed there as soon as possible. They were all over the park, singing their buzzy songs. Yet, they were quite hard to see.",
     photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
