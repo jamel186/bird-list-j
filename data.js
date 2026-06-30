@@ -95,14 +95,14 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 262,
+    number: 261,
     commonName: "Purple Finch",
     scientificName: "Haemorhous purpureus",
     dateFirstSeen: "2026-01-17",
     location: "Dyke Marsh, VA, USA",
     habitat: ["forest"],
     notes: "My nemesis bird for a long while. Was on the hunt for an Orange-crowned Warbler when I stumbled upon a flock of Purple Finches. Larger and more red than I imagined.",
-    photos: [],
+    photos: [{ file: "PurpleFinchMale.JPG", file: "PurpleFinchFemale.JPG"}],
     videoUrl: ""
   },
   {
@@ -158,17 +158,6 @@ const BIRDS = [
     habitat: ["woodland", "lake"],
     notes: "very nice",
     photos: [{file:"TreeSwallow.JPG"}],
-    videoUrl: ""
-  },
-   {
-    number: 260,
-    commonName: "White-crowned Sparrow",
-    scientificName: "Zonotrichia leucophrys",
-    dateFirstSeen: "2025-11-29",
-    location: "Meadowood Hidden Pond, VA, USA",
-    habitat: ["forest"],
-    notes: "Found this in a mixed flock of sparrows on a crisp morning in the late fall. I still can't forget just how many birds there were that morning.",
-    photos: [{file:"SnowyEgret.JPG"}],
     videoUrl: ""
   },
    {
