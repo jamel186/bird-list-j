@@ -69,7 +69,10 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "pintailM.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [
+              { file: "pintailM.JPG", caption: "In Holly Tree, backyard" },
+              { file: "pintailF.JPG", caption: "In Holly Tree, backyard" }
+            ],
     videoUrl: ""
   },
     {
@@ -102,7 +105,8 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "shov.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "shovFlock.JPG", caption: "In Holly Tree, backyard" }
+            { file: "shov.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
