@@ -128,7 +128,7 @@ const BIRDS = [
     location: "Backyard, Alexandria, VA, USA",
     habitat: ["urban", "shrubland"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [],
+    photos: [{file: "cardinalM.JPG"}],
     videoUrl: ""
   },
   {
@@ -146,11 +146,11 @@ const BIRDS = [
     number: 4,
     commonName: "Painted Bunting",
     scientificName: "Passerina ciris",
-    dateFirstSeen: "2021-03-18",
-    location: "Brazos Bend State Park, TX, USA",
+    dateFirstSeen: "2021-01-16",
+    location: "Great Falls, MD, USA",
     habitat: ["shrubland", "woodland"],
     notes: "Absolutely electric — the male looks hand-painted. Found him in a thicket near the wetland loop. Spent an hour photographing him as he worked through the brambles.",
-    photos: [],
+    photos: [{file:"paintedB.JPG"}],
     videoUrl: ""
   },
   {
