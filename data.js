@@ -68,7 +68,7 @@ const BIRDS = [
     dateFirstSeen: "2020-12-19",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in places like Huntley Meadows in the late fall and early winter. It's always a treat to see the Pintails. Apparently they also taste the best?",
     photos: [
               { file: "pintailM.JPG", caption: "In Holly Tree, backyard" },
               { file: "pintailF.JPG", caption: "In Holly Tree, backyard" }
@@ -82,7 +82,7 @@ const BIRDS = [
     dateFirstSeen: "2021-01-24",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in places like Huntley Meadows. I don't know what it is, but Gadwalls look boring in a way.",
     photos: [{ file: "gad.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -93,7 +93,7 @@ const BIRDS = [
     dateFirstSeen: "2021-12-19",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "It was a very cold evening in Long Island. I saw that there was a pond on the road we were traveling on, so I asked if I could go birdwatching in the pond. Surprisingly, there were many ducks, geese, and even swans there. Amongst all the ducks, there was a lone American Wigeon.",
     photos: [{ file: "wig.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -104,7 +104,7 @@ const BIRDS = [
     dateFirstSeen: "2020-12-19",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in Huntley, slowly swaying its beak in the water in large flocks.",
     photos: [{ file: "shovFlock.JPG", caption: "In Holly Tree, backyard" }
             { file: "shov.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
