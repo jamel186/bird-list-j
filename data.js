@@ -269,8 +269,8 @@ const BIRDS = [
     dateFirstSeen: "2024-07-27",
     location: "Hammonasset Beach State Park, CT, USA",
     habitat: ["beach"],
-    notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    notes: "There was a flock of them far out on the rocks in the ocean",
+    photos: [{file:"commonT.JPG"}],
     videoUrl: ""
   },
      {
@@ -281,7 +281,7 @@ const BIRDS = [
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["forest", "swamp"],
     notes: "Heard but did not see the bird in a swampy area in the park right by some development",
-    photos: [{file:"YellowWarbler.JPG"}],
+    photos: [],
     videoUrl: ""
   },
        {
@@ -291,8 +291,8 @@ const BIRDS = [
     dateFirstSeen: "2024-01-27",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["lake"],
-    notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    notes: "Right at the head of the bayview trail, there was a raft of them on the bay",
+    photos: [{file:"canvas.JPG"}],
     videoUrl: ""
   },
 ];
