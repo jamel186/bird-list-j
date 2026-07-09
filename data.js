@@ -19,6 +19,61 @@
 const BIRDS = [
   {
     number: 1,
+    commonName: "American Black Duck",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    number: 1,
+    commonName: "Northern Pintail",
+    scientificName: "Anas acuta",
+    dateFirstSeen: "2020-12-19",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    number: 1,
+    commonName: "Gadwall",
+    scientificName: "Mareca strepera",
+    dateFirstSeen: "2021-01-24",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    number: 1,
+    commonName: "American Wigeon",
+    scientificName: "Mareca americana",
+    dateFirstSeen: "2021-12-19",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    number: 1,
+    commonName: "Northern Shoveler",
+    scientificName: "Spatula clypeata",
+    dateFirstSeen: "2020-12-19",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    number: 1,
     commonName: "American Robin",
     scientificName: "Turdus migratorius",
     dateFirstSeen: "2018-04-03",
