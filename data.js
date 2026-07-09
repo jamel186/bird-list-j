@@ -18,7 +18,6 @@
 
 const BIRDS = [
   {
-    number: 1,
     commonName: "American Black Duck",
     scientificName: "Anas rubripes",
     dateFirstSeen: "2020-11-22",
@@ -29,7 +28,6 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 1,
     commonName: "Virginia Rail",
     scientificName: "Rallus limicola",
     dateFirstSeen: "2021-12-25",
@@ -40,7 +38,6 @@ const BIRDS = [
     videoUrl: ""
   },
      {
-    number: 1,
     commonName: "Brant",
     scientificName: "Branta bernicla",
     dateFirstSeen: "2021-12-20",
@@ -51,7 +48,6 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 1,
     commonName: "Blue-winged Teal",
     scientificName: "Spatula discors",
     dateFirstSeen: "2025-04-19",
@@ -62,7 +58,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 1,
+
     commonName: "Northern Pintail",
     scientificName: "Anas acuta",
     dateFirstSeen: "2020-12-19",
@@ -76,7 +72,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 1,
+
     commonName: "Gadwall",
     scientificName: "Mareca strepera",
     dateFirstSeen: "2021-01-24",
@@ -87,7 +83,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 1,
+
     commonName: "American Wigeon",
     scientificName: "Mareca americana",
     dateFirstSeen: "2021-12-19",
@@ -98,7 +94,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 1,
+
     commonName: "Northern Shoveler",
     scientificName: "Spatula clypeata",
     dateFirstSeen: "2020-12-19",
@@ -110,7 +106,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 1,
+
     commonName: "American Robin",
     scientificName: "Turdus migratorius",
     dateFirstSeen: "2018-04-03",
@@ -121,7 +117,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 2,
+
     commonName: "Northern Cardinal",
     scientificName: "Cardinalis cardinalis",
     dateFirstSeen: "2018-04-05",
@@ -132,7 +128,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 3,
+
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
     dateFirstSeen: "2018-05-12",
@@ -143,7 +139,7 @@ const BIRDS = [
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
   },
   {
-    number: 4,
+
     commonName: "Painted Bunting",
     scientificName: "Passerina ciris",
     dateFirstSeen: "2021-01-16",
@@ -154,7 +150,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 5,
+
     commonName: "Belted Kingfisher",
     scientificName: "Megaceryle alcyon",
     dateFirstSeen: "2019-07-22",
@@ -165,7 +161,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 260,
+
     commonName: "Red-flanked Bluetail",
     scientificName: "Tarsiger cyanurus",
     dateFirstSeen: "2026-01-02",
@@ -176,7 +172,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 7,
+
     commonName: "Wood Duck",
     scientificName: "Aix sponsa",
     dateFirstSeen: "2019-04-14",
@@ -187,7 +183,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 261,
+
     commonName: "Purple Finch",
     scientificName: "Haemorhous purpureus",
     dateFirstSeen: "2026-01-17",
@@ -201,7 +197,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 9,
+
     commonName: "Ruby-throated Hummingbird",
     scientificName: "Archilochus colubris",
     dateFirstSeen: "2018-08-30",
@@ -212,7 +208,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 10,
+
     commonName: "Eastern Bluebird",
     scientificName: "Sialia sialis",
     dateFirstSeen: "2020-08-22",
@@ -223,7 +219,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 11,
+
     commonName: "American Coot",
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
@@ -234,7 +230,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    number: 12,
+
     commonName: "Yellow Warbler",
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
@@ -245,7 +241,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 13,
+
     commonName: "Tree Swallow",
     scientificName: "hello",
     dateFirstSeen: "2018-04-03",
@@ -256,7 +252,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 259,
+
     commonName: "Worm-eating Warbler",
     scientificName: "Helmitheros vermivorum",
     dateFirstSeen: "2025-09-09",
@@ -267,7 +263,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 258,
+
     commonName: "Dollarbird",
     scientificName: "Eurystomus orientalis",
     dateFirstSeen: "2025-07-19",
@@ -278,7 +274,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 257,
+
     commonName: "Grasshopper Sparrow",
     scientificName: "Ammodramus savannarum",
     dateFirstSeen: "2025-07-04",
@@ -289,7 +285,7 @@ const BIRDS = [
     videoUrl: "https://www.youtube.com/embed/DqEm_EjREFU"
   },
   {
-    number: 256,
+
     commonName: "Bobolink",
     scientificName: "Dolichonyx oryzivorus",
     dateFirstSeen: "2025-05-11",
@@ -300,7 +296,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 255,
+
     commonName: "Purple Gallinule",
     scientificName: "Porphyrio martinica",
     dateFirstSeen: "2025-04-19",
@@ -311,7 +307,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 254,
+
     commonName: "Piping Plover",
     scientificName: "Charadrius melodus",
     dateFirstSeen: "2024-07-28",
@@ -322,7 +318,7 @@ const BIRDS = [
     videoUrl: "https://www.youtube.com/embed/tUHagSJ6cTo"
   },
   {
-    number: 253,
+
     commonName: "Marsh Wren",
     scientificName: "Cistothorus palustris",
     dateFirstSeen: "2024-07-28",
@@ -333,7 +329,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 252,
+
     commonName: "Seaside Sparrow",
     scientificName: "Ammospiza maritima",
     dateFirstSeen: "2024-07-27",
@@ -344,7 +340,7 @@ const BIRDS = [
     videoUrl: ""
   },
     {
-    number: 251,
+
     commonName: "Willow Flycatcher",
     scientificName: "Empidonax traillii",
     dateFirstSeen: "2024-07-27",
@@ -355,7 +351,7 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    number: 250,
+
     commonName: "Common Tern",
     scientificName: "Sterna hirundo",
     dateFirstSeen: "2024-07-27",
@@ -366,7 +362,7 @@ const BIRDS = [
     videoUrl: ""
   },
      {
-    number: 249,
+
     commonName: "Tennessee Warbler",
     scientificName: "Leiothlypis peregrina",
     dateFirstSeen: "2024-05-11",
@@ -377,7 +373,7 @@ const BIRDS = [
     videoUrl: ""
   },
        {
-    number: 248,
+
     commonName: "Canvasback",
     scientificName: "Aythya valisineria",
     dateFirstSeen: "2024-01-27",
