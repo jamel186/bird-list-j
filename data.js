@@ -280,7 +280,7 @@ const BIRDS = [
     dateFirstSeen: "2024-05-11",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["forest", "swamp"],
-    notes: "very nice",
+    notes: "Heard but did not see the bird in a swampy area in the park right by some development",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
   },
