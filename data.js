@@ -25,7 +25,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
    {
@@ -36,7 +36,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
      {
@@ -47,7 +47,7 @@ const BIRDS = [
     location: "Jamaica Bay NWR, NY, USA",
     habitat: ["coastal"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "brant.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -58,7 +58,7 @@ const BIRDS = [
     location: "Mckee Beshers Hughes Hollow, MD, USA",
     habitat: ["marsh"],
     notes: "A long time nemesis bird. Saw through the scope of a fellow birdwatcher far out in the eastern marsh of the park",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blueTeal.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -69,7 +69,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "pintailM.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -80,7 +80,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "gad.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -91,7 +91,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "wig.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -102,7 +102,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "shov.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
