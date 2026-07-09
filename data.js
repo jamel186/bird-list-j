@@ -28,6 +28,17 @@ const BIRDS = [
     photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+    {
+    number: 1,
+    commonName: "Blue-winged Teal",
+    scientificName: "Spatula discors",
+    dateFirstSeen: "2025-04-19",
+    location: "Mckee Beshers Hughes Hollow, MD, USA",
+    habitat: ["marsh"],
+    notes: "A long time nemesis bird. Saw through the scope of a fellow birdwatcher far out in the eastern marsh of the park",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
   {
     number: 1,
     commonName: "Northern Pintail",
