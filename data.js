@@ -137,7 +137,7 @@ const BIRDS = [
     location: "Huntley Meadows Park, VA, USA",
     habitat: ["wetland"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
-    photos: [],
+    photos: [{file: "bheron.JPG"}],
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
   },
   {
