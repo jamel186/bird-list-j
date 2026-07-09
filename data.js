@@ -46,7 +46,7 @@ const BIRDS = [
     dateFirstSeen: "2021-12-20",
     location: "Jamaica Bay NWR, NY, USA",
     habitat: ["coastal"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "It was winter when I went to New York City for vacation. I heard that Jamaica Bay NWR was a great birdwatching spot, so I headed there. It was a windy winter morning and there were geese everywhere. It was the first time I had seen so many before. The Brant were near the parking lot right on the beach.",
     photos: [{ file: "brant.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
