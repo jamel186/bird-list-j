@@ -35,7 +35,7 @@ const BIRDS = [
     dateFirstSeen: "2021-12-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Rare. The first time I saw was when I went to Huntley Meadows for a regular outing when I saw a crowd of birders on the boardwalk. I asked what they were seeing and they told me it was the rail. This was my second rail stakeout in Huntley Meadows. We waited and the rail stuck its head out of a clump of cattails before revealing itself completely and sitting still. I took as many photos as I could. I was especially intrigued at its eyes.",
     photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -268,7 +268,7 @@ const BIRDS = [
   },
     {
     number: 258,
-    commonName: "Dollarbird (파랑새)",
+    commonName: "Dollarbird",
     scientificName: "Eurystomus orientalis",
     dateFirstSeen: "2025-07-19",
     location: "Changgyeonggung, Seoul, South Korea",
