@@ -268,7 +268,7 @@ const BIRDS = [
   },
     {
     number: 258,
-    commonName: "Dollarbird",
+    commonName: "Dollarbird (파랑새)",
     scientificName: "Eurystomus orientalis",
     dateFirstSeen: "2025-07-19",
     location: "Changgyeonggung, Seoul, South Korea",
@@ -296,7 +296,7 @@ const BIRDS = [
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["open field"],
     notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    photos: [{file:"bobo.JPG"}],
     videoUrl: ""
   },
     {
@@ -329,7 +329,7 @@ const BIRDS = [
     location: "Newbury Salt Marsh, MA, USA",
     habitat: ["marsh"],
     notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    photos: [{file:"marshW.JPG"}],
     videoUrl: ""
   },
     {
