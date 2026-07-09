@@ -394,7 +394,7 @@ function render(){
     card.className='bird-card';card.setAttribute('role','button');card.setAttribute('tabindex','0');
     const firstPhoto=bird.photos.length?bird.photos[0]:null;
     const imgHTML=firstPhoto?`<img class="card-img" src="photos/${firstPhoto.file}" alt="${bird.commonName}" loading="lazy">`:`<div class="card-no-photo">${birdIcon(44)}<span class="card-no-photo-label">No photo</span></div>`;
-    const badgesHTML=[...bird.habitat.map(h=>`<span class="badge badge-habitat">${h}</span>`),bird.videoUrl?`<span class="badge badge-video">▶ song</span>`:``].join('');
+    const badgesHTML=[...bird.habitat.map(h=>`<span class="badge badge-habitat">${h}</span>`),bird.videoUrl?`<span class="badge badge-video">▶ video</span>`:``].join('');
     card.innerHTML=`${imgHTML}<div class="card-body"><p class="card-number">Lifer #${bird.liferNumber}</p><p class="card-name">${bird.commonName}</p><p class="card-sci">${bird.scientificName}</p><p class="card-meta">📍 ${bird.location.split(',')[0]}</p><div class="card-badges">${badgesHTML}</div></div>`;
     card.addEventListener('click',()=>openModal(bird));
     card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')openModal(bird);});
