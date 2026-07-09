@@ -28,6 +28,28 @@ const BIRDS = [
     photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+   {
+    number: 1,
+    commonName: "Virginia Rail",
+    scientificName: "Rallus limicola",
+    dateFirstSeen: "2021-12-25",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+     {
+    number: 1,
+    commonName: "Brant",
+    scientificName: "Branta bernicla",
+    dateFirstSeen: "2021-12-20",
+    location: "Jamaica Bay NWR, NY, USA",
+    habitat: ["coastal"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     number: 1,
     commonName: "Blue-winged Teal",
