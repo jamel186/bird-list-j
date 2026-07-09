@@ -101,7 +101,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Common in Huntley, slowly swaying its beak in the water in large flocks.",
-    photos: [{ file: "shovFlock.JPG", caption: "In Holly Tree, backyard" }
+    photos: [{ file: "shovFlock.JPG", caption: "In Holly Tree, backyard" },
             { file: "shov.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
