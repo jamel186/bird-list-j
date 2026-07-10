@@ -75,8 +75,8 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["swamp"],
     notes: "A very common breeder in swamps and riverside woods in the area. I still can't forget my first time really getting to see this bird. It amazed me how bright this bird was; it was like a highlighter. I took the video below during that time, and I still remember this moment to this day. I think that the ringtone adds something interesting to the song.",
-    photos: [{ file: "proth.JPG", caption: "In Holly Tree, backyard" },
-            { file: "pro2.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "proth.JPG", caption: "Huntley Meadows, 5/2/21" },
+            { file: "pro2.JPG", caption: "Jug Bay, 5/15/22" }],
     videoUrl: ""
   },
   {
