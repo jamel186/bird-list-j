@@ -154,8 +154,8 @@ const BIRDS = [
     habitat: ["marsh"],
     notes: "Common in Huntley, slowly swaying its beak in the water in large flocks.",
     photos: [
-        { file: "shovFlock.JPG"},
-        { file: "shov.JPG"}
+        { file: "shov.JPG"},
+        { file: "shovFlock.JPG"}
     ],
     videoUrl: ""
   },
