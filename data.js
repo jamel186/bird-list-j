@@ -27,17 +27,17 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-    {
+  {
     commonName: "Ovenbird",
     scientificName: "Seiurus aurocapilla",
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree  }],
     videoUrl: ""
   },
-     {
+  {
     commonName: "Louisiana Waterthrush",
     scientificName: "Parkesia motacilla",
     dateFirstSeen: "2021-05-01",
@@ -47,7 +47,7 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-       {
+  {
     commonName: "Northern Waterthrush",
     scientificName: "Parkesia noveboracensis",
     dateFirstSeen: "2021-08-28",
@@ -57,7 +57,7 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-         {
+  {
     commonName: "Black-and-white Warbler",
     scientificName: "Mniotilta varia",
     dateFirstSeen: "2021-05-01",
@@ -67,7 +67,7 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-         {
+  {
     commonName: "Prothonotary Warbler",
     scientificName: "Protonotaria citrea",
     dateFirstSeen: "2021-04-17",
@@ -77,7 +77,7 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-   {
+  {
     commonName: "Virginia Rail",
     scientificName: "Rallus limicola",
     dateFirstSeen: "2021-12-25",
