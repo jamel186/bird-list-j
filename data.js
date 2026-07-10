@@ -34,7 +34,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree  }],
+    photos: [{ file: "blackDuck.JPG", caption: "Glencarlyn Park, 4/28/24"  }],
     videoUrl: ""
   },
   {
