@@ -44,7 +44,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Have only seen a few times. This is probably because they are early migrants and I don't go birdwatching that often in March and April. If you know where to look, they are common.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blackDuck.JPG", caption: "Riverbend Park, 3/28/24" }],
     videoUrl: ""
   },
   {
@@ -52,9 +52,9 @@ const BIRDS = [
     scientificName: "Parkesia noveboracensis",
     dateFirstSeen: "2021-08-28",
     location: "Dyke Marsh, VA, USA",
-    habitat: ["swamp"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    habitat: ["marsh"],
+    notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
+    photos: [{ file: "blackDuck.JPG", caption: "Dyke Marsh, 8/28/21" }],
     videoUrl: ""
   },
   {
