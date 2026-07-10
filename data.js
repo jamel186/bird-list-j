@@ -73,7 +73,7 @@ const BIRDS = [
     dateFirstSeen: "2021-04-17",
     location: "Dyke Marsh, VA, USA",
     habitat: ["swamp"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "A very common breeder in swamps and riverside woods in the area. I still can't forget my first time really getting to see this bird. It amazed me how bright this bird was; it was like a highlighter. I took the video below during that time, and I still remember this moment to this day. I think that the ringtone adds something interesting to the song.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
