@@ -63,7 +63,7 @@ const BIRDS = [
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
