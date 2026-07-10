@@ -34,7 +34,8 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "blackDuck.JPG", caption: "Glencarlyn Park, 4/28/24"  }],
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24"  },
+            { file: "oven2.JPG", caption: "Prince William Forest Park, 5/1/21"  }],
     videoUrl: ""
   },
   {
@@ -44,7 +45,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Have only seen a few times. This is probably because they are early migrants and I don't go birdwatching that often in March and April. If you know where to look, they are common.",
-    photos: [{ file: "blackDuck.JPG", caption: "Riverbend Park, 3/28/24" }],
+    photos: [{ file: "lowa.JPG", caption: "Riverbend Park, 3/28/24" }],
     videoUrl: ""
   },
   {
@@ -54,7 +55,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
-    photos: [{ file: "blackDuck.JPG", caption: "Dyke Marsh, 8/28/21" }],
+    photos: [{ file: "nowa.JPG", caption: "Dyke Marsh, 8/28/21" }],
     videoUrl: ""
   },
   {
@@ -64,7 +65,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blw.JPG", caption: "Meadowood Recreation Area, 9/21/24" }],
     videoUrl: ""
   },
   {
@@ -74,7 +75,8 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["swamp"],
     notes: "A very common breeder in swamps and riverside woods in the area. I still can't forget my first time really getting to see this bird. It amazed me how bright this bird was; it was like a highlighter. I took the video below during that time, and I still remember this moment to this day. I think that the ringtone adds something interesting to the song.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "proth.JPG", caption: "In Holly Tree, backyard" },
+            { file: "pro2.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
