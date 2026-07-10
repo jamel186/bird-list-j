@@ -163,7 +163,7 @@ const BIRDS = [
 
     commonName: "American Robin",
     scientificName: "Turdus migratorius",
-    dateFirstSeen: "2018-04-03",
+    dateFirstSeen: "2020-04-03",
     location: "Backyard, Alexandria, VA, USA",
     habitat: ["urban", "woodland"],
     notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
@@ -174,7 +174,7 @@ const BIRDS = [
 
     commonName: "Northern Cardinal",
     scientificName: "Cardinalis cardinalis",
-    dateFirstSeen: "2018-04-05",
+    dateFirstSeen: "2020-04-05",
     location: "Backyard, Alexandria, VA, USA",
     habitat: ["urban", "shrubland"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
@@ -185,7 +185,7 @@ const BIRDS = [
 
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
-    dateFirstSeen: "2018-05-12",
+    dateFirstSeen: "2020-05-12",
     location: "Huntley Meadows Park, VA, USA",
     habitat: ["wetland"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
