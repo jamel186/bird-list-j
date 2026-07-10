@@ -205,7 +205,7 @@ const BIRDS = [
 
     commonName: "Belted Kingfisher",
     scientificName: "Megaceryle alcyon",
-    dateFirstSeen: "2019-07-22",
+    dateFirstSeen: "2021-07-22",
     location: "Occoquan Bay NWR, VA, USA",
     habitat: ["wetland", "coastal"],
     notes: "Rattling call announced it before I spotted it — perched on a dead branch over the creek, then plunged headfirst for a fish. Females have the rufous belly band.",
@@ -227,7 +227,7 @@ const BIRDS = [
 
     commonName: "Wood Duck",
     scientificName: "Aix sponsa",
-    dateFirstSeen: "2019-04-14",
+    dateFirstSeen: "2020-04-14",
     location: "Huntley Meadows Park, VA, USA",
     habitat: ["wetland", "woodland"],
     notes: "Drake in full breeding plumage. The iridescent green, burgundy, and white face pattern looks almost artificial — like a decoy come to life.",
@@ -252,7 +252,7 @@ const BIRDS = [
 
     commonName: "Ruby-throated Hummingbird",
     scientificName: "Archilochus colubris",
-    dateFirstSeen: "2018-08-30",
+    dateFirstSeen: "2020-06-30",
     location: "Backyard, Alexandria, VA, USA",
     habitat: ["urban", "woodland"],
     notes: "First hummingbird ever — appeared at the salvia in late August. The gorget only flashes red at the right angle; otherwise appears dark.",
@@ -273,8 +273,8 @@ const BIRDS = [
   {
 
     commonName: "American Coot",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
+    scientificName: "Fulica americana",
+    dateFirstSeen: "2020-12-03",
     location: "mason neck, VA, USA",
     habitat: ["lake"],
     notes: "very nice",
@@ -283,9 +283,9 @@ const BIRDS = [
   },
   {
 
-    commonName: "Yellow Warbler",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
+    commonName: "Northern Yellow Warbler",
+    scientificName: "Setophaga aestiva",
+    dateFirstSeen: "2022-04-03",
     location: "mason neck, VA, USA",
     habitat: ["woodland", "swamp"],
     notes: "very nice",
@@ -295,8 +295,8 @@ const BIRDS = [
    {
 
     commonName: "Tree Swallow",
-    scientificName: "hello",
-    dateFirstSeen: "2018-04-03",
+    scientificName: "Tachycineta bicolor",
+    dateFirstSeen: "2021-04-03",
     location: "mason neck, VA, USA",
     habitat: ["woodland", "lake"],
     notes: "very nice",
