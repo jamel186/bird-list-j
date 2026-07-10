@@ -43,7 +43,7 @@ const BIRDS = [
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Have only seen a few times. This is probably because they are early migrants and I don't go birdwatching that often in March and April. If you know where to look, they are common.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
