@@ -33,7 +33,7 @@ const BIRDS = [
     dateFirstSeen: "2022-07-18",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -43,7 +43,7 @@ const BIRDS = [
     dateFirstSeen: "2021-02-20",
     location: "Sandy Point State Park, MD, USA",
     habitat: ["beach", "open field"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -53,7 +53,7 @@ const BIRDS = [
     dateFirstSeen: "2022-07-01",
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["river"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Supposedly quite common in streams and riparian areas in Korea, but I have only seen twice. Maybe I am overlooking them.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -63,7 +63,7 @@ const BIRDS = [
     dateFirstSeen: "2022-07-01",
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["forest", "river"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. To my understanding, they prefer to be near water. Reminds me of Black-throated Blue Warblers in America.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -73,7 +73,7 @@ const BIRDS = [
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -83,7 +83,7 @@ const BIRDS = [
     dateFirstSeen: "2021-03-12",
     location: "Fort CF Smith Park, VA, USA",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. I checked eBird and saw that someone reported there being a nest in a local park. I went over and did a stakeout. Eventually I was able to spot the owls off in the distance. They were very well camoflauged. I believe that was the last year those owls bred there.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -93,7 +93,7 @@ const BIRDS = [
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
