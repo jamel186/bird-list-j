@@ -44,7 +44,7 @@ const BIRDS = [
     location: "Sandy Point State Park, MD, USA",
     habitat: ["beach", "open field"],
     notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -85,7 +85,7 @@ const BIRDS = [
     location: "Fort CF Smith Park, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon. I checked eBird and saw that someone reported there being a nest in a local park. I went over and did a stakeout. Eventually I was able to spot the owls off in the distance. They were very well camoflauged. I believe that was the last year those owls bred there.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "horned.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -95,7 +95,8 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp"],
     notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar.JPG", caption: "In Holly Tree, backyard" },
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" },
+             { file: "bar2.JPG", caption: "In Holly Tree, backyard" },
             { file: "babybar.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
