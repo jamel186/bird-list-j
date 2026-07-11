@@ -54,7 +54,7 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["river"],
     notes: "Supposedly quite common in streams and riparian areas in Korea, but I have only seen twice. Maybe I am overlooking them.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "wag.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -64,7 +64,8 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["forest", "river"],
     notes: "Uncommon. To my understanding, they prefer to be near water. Reminds me of Black-throated Blue Warblers in America.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blue&white.JPG", caption: "In Holly Tree, backyard" },
+            { file: "blue&whiteF.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -74,7 +75,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -94,7 +95,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp"],
     notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "bar.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
