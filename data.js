@@ -30,7 +30,7 @@ const BIRDS = [
     {
     commonName: "Warbling White-eye",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2022-07-18",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
@@ -40,7 +40,7 @@ const BIRDS = [
     {
     commonName: "American Pipit",
     scientificName: "Anthus rubescens",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2021-02-20",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
@@ -50,7 +50,7 @@ const BIRDS = [
     {
     commonName: "White Wagtail",
     scientificName: "Motacilla alba",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2022-07-01",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
@@ -60,7 +60,7 @@ const BIRDS = [
     {
     commonName: "Blue-and-white Flycatcher",
     scientificName: "Cyanoptila cyanomelana",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2022-07-01",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
@@ -70,7 +70,7 @@ const BIRDS = [
     {
     commonName: "Daurian Redstart",
     scientificName: "Phoenicurus auroreus",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2021-07-13",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
