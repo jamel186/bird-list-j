@@ -80,7 +80,7 @@ const BIRDS = [
     {
     commonName: "Great Horned Owl",
     scientificName: "Bubo virginianus",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2021-03-12",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
@@ -90,7 +90,7 @@ const BIRDS = [
     {
     commonName: "Barred Owl",
     scientificName: "Strix varia",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2021-01-23",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
