@@ -34,7 +34,7 @@ const BIRDS = [
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
@@ -95,7 +95,8 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp"],
     notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "bar.JPG", caption: "In Holly Tree, backyard" },
+            { file: "babybar.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
