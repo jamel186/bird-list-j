@@ -27,6 +27,76 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+    {
+    commonName: "Warbling White-eye",
+    scientificName: "Zosterops japonicus",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "American Pipit",
+    scientificName: "Anthus rubescens",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "White Wagtail",
+    scientificName: "Motacilla alba",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Blue-and-white Flycatcher",
+    scientificName: "Cyanoptila cyanomelana",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Daurian Redstart",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Great Horned Owl",
+    scientificName: "Bubo virginianus",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Barred Owl",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
   {
     commonName: "Ovenbird",
     scientificName: "Seiurus aurocapilla",
