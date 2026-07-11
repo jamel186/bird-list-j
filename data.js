@@ -32,7 +32,7 @@ const BIRDS = [
     scientificName: "Zosterops japonicus",
     dateFirstSeen: "2022-07-18",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
-    habitat: ["marsh"],
+    habitat: ["forest"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -41,8 +41,8 @@ const BIRDS = [
     commonName: "American Pipit",
     scientificName: "Anthus rubescens",
     dateFirstSeen: "2021-02-20",
-    location: "Sandy Point, MD, USA",
-    habitat: ["marsh"],
+    location: "Sandy Point State Park, MD, USA",
+    habitat: ["beach", "open field"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -52,7 +52,7 @@ const BIRDS = [
     scientificName: "Motacilla alba",
     dateFirstSeen: "2022-07-01",
     location: "Odaesan National Park, Gangwon-do, South Korea",
-    habitat: ["marsh"],
+    habitat: ["river"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -62,7 +62,7 @@ const BIRDS = [
     scientificName: "Cyanoptila cyanomelana",
     dateFirstSeen: "2022-07-01",
     location: "Odaesan National Park, Gangwon-do, South Korea",
-    habitat: ["marsh"],
+    habitat: ["forest", "river"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -72,7 +72,7 @@ const BIRDS = [
     scientificName: "Phoenicurus auroreus",
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
-    habitat: ["marsh"],
+    habitat: ["forest"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -82,7 +82,7 @@ const BIRDS = [
     scientificName: "Bubo virginianus",
     dateFirstSeen: "2021-03-12",
     location: "Fort CF Smith Park, VA, USA",
-    habitat: ["marsh"],
+    habitat: ["forest"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -92,7 +92,7 @@ const BIRDS = [
     scientificName: "Strix varia",
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["marsh"],
+    habitat: ["swamp"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
