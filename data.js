@@ -27,6 +27,66 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Red-breasted Merganser",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-03",
+    location: "Tommy Thompson Park, ON, Canada",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "American Tree Sparrow",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-03",
+    location: "Tommy Thompson Park, ON, Canada",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Long-tailed Duck",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-03",
+    location: "Tommy Thompson Park, ON, Canada",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Common Goldeneye",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-03",
+    location: "Tommy Thompson Park, ON, Canada",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Common Loon",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-06",
+    location: "Presque Isle State Park, PA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Wild Turkey",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2023-04-06",
+    location: "Presque Isle State Park, PA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "Warbling White-eye",
     scientificName: "Zosterops japonicus",
