@@ -313,7 +313,7 @@ const BIRDS = [
 
     commonName: "Northern Cardinal",
     scientificName: "Cardinalis cardinalis",
-    dateFirstSeen: "2020-04-05",
+    dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "shrubland"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
