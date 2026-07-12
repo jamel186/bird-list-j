@@ -55,7 +55,9 @@ const BIRDS = [
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "longTM.JPG", caption: "4/3/2023" },
+            { file: "longTF.JPG", caption: "4/3/2023" },
+            { file: "longTRaft.JPG", caption: "4/3/2023" }],
     videoUrl: ""
   },
   {
