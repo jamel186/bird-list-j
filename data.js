@@ -284,7 +284,9 @@ const BIRDS = [
     location: "Occoquan Bay NWR, VA, USA",
     habitat: ["wetland", "coastal"],
     notes: "Rattling call announced it before I spotted it — perched on a dead branch over the creek, then plunged headfirst for a fish. Females have the rufous belly band.",
-    photos: [],
+    photos: [{ file: "beltedM.JPG"},
+            { file: "beltedF.JPG"},
+            { file: "beltedBack.JPG"}],
     videoUrl: ""
   },
   {
@@ -306,7 +308,8 @@ const BIRDS = [
     location: "Huntley Meadows Park, VA, USA",
     habitat: ["wetland", "woodland"],
     notes: "Drake in full breeding plumage. The iridescent green, burgundy, and white face pattern looks almost artificial — like a decoy come to life.",
-    photos: [],
+    photos: [{ file: "woodD.JPG"},
+            { file: "woodDFlock.JPG"}],
     videoUrl: ""
   },
   {
@@ -331,7 +334,8 @@ const BIRDS = [
     location: "Backyard, Alexandria, VA, USA",
     habitat: ["urban", "woodland"],
     notes: "First hummingbird ever — appeared at the salvia in late August. The gorget only flashes red at the right angle; otherwise appears dark.",
-    photos: [],
+    photos: [{ file: "hum.JPG"},
+            { file: "humF.JPG"}],
     videoUrl: ""
   },
   {
@@ -353,7 +357,7 @@ const BIRDS = [
     location: "mason neck, VA, USA",
     habitat: ["lake"],
     notes: "very nice",
-    photos: [],
+    photos: [{ file: "coot.JPG"}],
     videoUrl: ""
   },
   {
