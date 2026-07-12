@@ -27,6 +27,17 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+    {
+    commonName: "Red-winged Blackbird",
+    scientificName: "Mergus serrator",
+    dateFirstSeen: "2020-05-25",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
+            { file: "redMergF.JPG", caption: "4/3/2023" }],
+    videoUrl: ""
+  },
   {
     commonName: "Red-breasted Merganser",
     scientificName: "Mergus serrator",
@@ -324,7 +335,7 @@ const BIRDS = [
 
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
-    dateFirstSeen: "2020-05-12",
+    dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["wetland"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
@@ -396,7 +407,7 @@ const BIRDS = [
 
     commonName: "Ruby-throated Hummingbird",
     scientificName: "Archilochus colubris",
-    dateFirstSeen: "2020-06-30",
+    dateFirstSeen: "2020-08-14",
     location: "Central Library, VA, USA",
     habitat: ["urban", "woodland"],
     notes: "First hummingbird ever — appeared at the salvia in late August. The gorget only flashes red at the right angle; otherwise appears dark.",
@@ -408,7 +419,7 @@ const BIRDS = [
 
     commonName: "Eastern Bluebird",
     scientificName: "Sialia sialis",
-    dateFirstSeen: "2020-08-22",
+    dateFirstSeen: "2020-09-19",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["open field"],
     notes: "Meadowlark was where.",
