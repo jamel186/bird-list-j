@@ -67,7 +67,9 @@ const BIRDS = [
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "goldeneye.JPG", caption: "4/3/2023" },
+            { file: "goldeneyeF.JPG", caption: "4/3/2023" },
+            { file: "goldeneyeWeird.JPG", caption: "4/3/2023" }],
     videoUrl: ""
   },
   {
@@ -77,7 +79,7 @@ const BIRDS = [
     location: "Presque Isle State Park, PA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "loon.JPG", caption: "4/6/2023" }],
     videoUrl: ""
   },
   {
