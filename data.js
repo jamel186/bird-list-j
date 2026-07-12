@@ -325,7 +325,7 @@ const BIRDS = [
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
     dateFirstSeen: "2020-05-12",
-    location: "Huntley Meadows Park, VA, USA",
+    location: "Huntley Meadows, VA, USA",
     habitat: ["wetland"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
     photos: [{file: "bheron.JPG"}],
