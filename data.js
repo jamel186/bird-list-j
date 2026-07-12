@@ -29,7 +29,7 @@ const BIRDS = [
   },
   {
     commonName: "Red-breasted Merganser",
-    scientificName: "Anas rubripes",
+    scientificName: "Mergus serrator",
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
@@ -40,7 +40,7 @@ const BIRDS = [
   },
   {
     commonName: "American Tree Sparrow",
-    scientificName: "Anas rubripes",
+    scientificName: "Spizelloides arborea",
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
@@ -50,7 +50,7 @@ const BIRDS = [
   },
   {
     commonName: "Long-tailed Duck",
-    scientificName: "Anas rubripes",
+    scientificName: "Clangula hyemalis",
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
@@ -62,7 +62,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Goldeneye",
-    scientificName: "Anas rubripes",
+    scientificName: "Bucephala clangula",
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["marsh"],
@@ -74,7 +74,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Loon",
-    scientificName: "Anas rubripes",
+    scientificName: "Gavia immer",
     dateFirstSeen: "2023-04-06",
     location: "Presque Isle State Park, PA, USA",
     habitat: ["marsh"],
@@ -84,7 +84,7 @@ const BIRDS = [
   },
   {
     commonName: "Wild Turkey",
-    scientificName: "Anas rubripes",
+    scientificName: "Meleagris gallopavo",
     dateFirstSeen: "2023-04-06",
     location: "Presque Isle State Park, PA, USA",
     habitat: ["marsh"],
