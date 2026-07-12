@@ -89,7 +89,8 @@ const BIRDS = [
     location: "Presque Isle State Park, PA, USA",
     habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "tom.JPG", caption: "4/6/2023" },
+            { file: "hen.JPG", caption: "4/6/2023" }],
     videoUrl: ""
   },
     {
