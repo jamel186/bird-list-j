@@ -386,7 +386,7 @@ const BIRDS = [
     habitat: ["wetland", "woodland"],
     notes: "Drake in full breeding plumage. The iridescent green, burgundy, and white face pattern looks almost artificial — like a decoy come to life.",
     photos: [{ file: "woodD.JPG"},
-            { file: "woodDFlock.JPG"}],
+            { file: "woodDflock.JPG"}],
     videoUrl: ""
   },
   {
