@@ -33,7 +33,7 @@ const BIRDS = [
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Very common in marshes across the area. The first time I saw them, I was amazed at the red and yellow wing patches of the males and their conk-a-ree songs.",
     photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
             { file: "redMergF.JPG", caption: "4/3/2023" }],
     videoUrl: ""
@@ -44,7 +44,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["open water"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Quite common when I went to Lake Erie and Lake Ontario. Usually winters on the ocean in the Northeast.",
     photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
             { file: "redMergF.JPG", caption: "4/3/2023" }],
     videoUrl: ""
@@ -55,7 +55,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["open woods"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in the North, uncommon here in Virginia. At least one is spotted every year in Huntley Meadows.",
     photos: [{ file: "ameriTree.JPG", caption: "4/3/2023" }],
     videoUrl: ""
   },
@@ -65,7 +65,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["open water"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Quite common when I went to Lake Ontario. Usually winters on the ocean in the Northeast.",
     photos: [{ file: "longTM.JPG", caption: "4/3/2023" },
             { file: "longTF.JPG", caption: "4/3/2023" },
             { file: "longTRaft.JPG", caption: "4/3/2023" }],
@@ -77,7 +77,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-03",
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["open water"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Quite common when I went to Lake Ontario. Usually winters on the ocean in the Northeast.",
     photos: [{ file: "goldeneye.JPG", caption: "4/3/2023" },
             { file: "goldeneyeF.JPG", caption: "4/3/2023" },
             { file: "goldeneyeWeird.JPG", caption: "4/3/2023" }],
@@ -89,7 +89,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-06",
     location: "Presque Isle State Park, PA, USA",
     habitat: ["open water"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Quite common when I went to Lake Erie. An uncommon winter migrant to Virginia, usually winters in the bay. A few fly over and spend time on the river.",
     photos: [{ file: "loon.JPG", caption: "4/6/2023" }],
     videoUrl: ""
   },
@@ -99,7 +99,7 @@ const BIRDS = [
     dateFirstSeen: "2023-04-06",
     location: "Presque Isle State Park, PA, USA",
     habitat: ["forest"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon here in Virginia. Usually seen in Huntley Meadows. Very common in Cambridge, MA where there were turkeys all over the streets and in Harvard Yard. There was also a time in Mckee-Beshers where I remember a turkey flying over me and I could hear how heavy its wingbeats were.",
     photos: [{ file: "tom.JPG", caption: "4/6/2023" },
             { file: "hen.JPG", caption: "4/6/2023" }],
     videoUrl: ""
