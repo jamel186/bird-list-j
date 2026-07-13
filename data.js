@@ -27,6 +27,16 @@ const BIRDS = [
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Sanderling",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2020-11-22",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "Red-winged Blackbird",
     scientificName: "Mergus serrator",
