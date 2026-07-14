@@ -52,7 +52,7 @@ const BIRDS = [
     scientificName: "Calidris minutilla",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["beach", "mudflat"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -62,7 +62,7 @@ const BIRDS = [
     scientificName: "Arenaria interpres",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["beach", "rocky shore"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -72,7 +72,7 @@ const BIRDS = [
     scientificName: "Pelecanus occidentalis",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["ocean"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
