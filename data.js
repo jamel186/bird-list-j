@@ -91,7 +91,7 @@ const BIRDS = [
   },
   {
     commonName: "Willet",
-    scientificName: "Anas rubripes",
+    scientificName: "Tringa semipalmata",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -101,7 +101,7 @@ const BIRDS = [
   },
   {
     commonName: "Laughing Gull",
-    scientificName: "Anas rubripes",
+    scientificName: "Leucophaeus atricilla",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -111,7 +111,7 @@ const BIRDS = [
   },
   {
     commonName: "Black Skimmer",
-    scientificName: "Anas rubripes",
+    scientificName: "Rynchops niger",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -121,7 +121,7 @@ const BIRDS = [
   },
   {
     commonName: "Royal Tern",
-    scientificName: "Anas rubripes",
+    scientificName: "Thalasseus maximus",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -131,7 +131,7 @@ const BIRDS = [
   },
   {
     commonName: "Sandwich Tern",
-    scientificName: "Anas rubripes",
+    scientificName: "Thalasseus sandvicensis",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -141,7 +141,7 @@ const BIRDS = [
   },
   {
     commonName: "Red Knot",
-    scientificName: "Anas rubripes",
+    scientificName: "Calidris canutus",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -151,7 +151,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-bellied Plover",
-    scientificName: "Anas rubripes",
+    scientificName: "Pluvialis squatarola",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -161,7 +161,7 @@ const BIRDS = [
   },
   {
     commonName: "Semipalmated Plover",
-    scientificName: "Anas rubripes",
+    scientificName: "Charadrius semipalmatus",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -171,7 +171,7 @@ const BIRDS = [
   },
   {
     commonName: "Short-billed Dowitcher",
-    scientificName: "Anas rubripes",
+    scientificName: "Limnodromus griseus",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -181,7 +181,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-crowned Night Heron",
-    scientificName: "Anas rubripes",
+    scientificName: "Nycticorax nycticorax",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -191,7 +191,7 @@ const BIRDS = [
   },
   {
     commonName: "Yellow-crowned Night Heron",
-    scientificName: "Anas rubripes",
+    scientificName: "Nyctanassa violacea",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -201,7 +201,7 @@ const BIRDS = [
   },
   {
     commonName: "Tricolored Heron",
-    scientificName: "Anas rubripes",
+    scientificName: "Egretta tricolor",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -211,7 +211,7 @@ const BIRDS = [
   },
   {
     commonName: "Snowy Egret",
-    scientificName: "Anas rubripes",
+    scientificName: "Egretta thula",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -221,7 +221,7 @@ const BIRDS = [
   },
   {
     commonName: "White Ibis",
-    scientificName: "Anas rubripes",
+    scientificName: "Eudocimus albus",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -231,7 +231,7 @@ const BIRDS = [
   },
   {
     commonName: "Boat-tailed Grackle",
-    scientificName: "Anas rubripes",
+    scientificName: "Quiscalus major",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -241,7 +241,7 @@ const BIRDS = [
   },
   {
     commonName: "Least Tern",
-    scientificName: "Anas rubripes",
+    scientificName: "Sternula antillarum",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -251,7 +251,7 @@ const BIRDS = [
   },
     {
     commonName: "Red-winged Blackbird",
-    scientificName: "Mergus serrator",
+    scientificName: "Agelaius phoeniceus",
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
