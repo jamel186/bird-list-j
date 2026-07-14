@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Nanday Parakeet",
+    scientificName: "Aratinga nenday",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["urban", "shrub"],
+    notes: "One of the first birds I saw when I arrived at Fort De Soto Park. Making loud calls and were traveling in a flock. While invasive, being able to look at parrots in the wild was quite nice.",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Sanderling",
     scientificName: "Calidris alba",
     dateFirstSeen: "2022-04-11",
