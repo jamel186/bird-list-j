@@ -34,7 +34,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["urban", "shrub"],
     notes: "One of the first birds I saw when I arrived at Fort De Soto Park. Making loud calls and were traveling in a flock. While invasive, being able to look at parrots in the wild was quite nice.",
-    photos: [{ file: "nanday.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "nanday.JPG", caption: "Teal chest patch is noticable" }],
     videoUrl: ""
   },
   {
@@ -44,7 +44,8 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" },
+            { file: "shoreCrazy.JPG", caption: "Three species in this photo: Sanderling, Dunlin, & Least Sandpiper. Note froth on Sandpiper's beak in center" }],
     videoUrl: ""
   },
   {
@@ -54,7 +55,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "A larger shorebird. The black belly patch is distinctive.",
-    photos: [{ file: "dunlin.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "dunlin.JPG", caption: "Probing sand for food" }],
     videoUrl: ""
   },
   {
@@ -64,8 +65,8 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
     notes: "Common both on the beach and in freshwater marshes like Huntley Meadows. Large congregations in Huntley during the fall. Small size and yellow legs are distinctive.",
-    photos: [{ file: "least.JPG", caption: "In Holly Tree, backyard" },
-            { file: "leastFlock.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "least.JPG", caption: "Huntley in Fall" },
+            { file: "leastPair.JPG", caption: "Pair on the beach" }],
     videoUrl: ""
   },
   {
@@ -75,7 +76,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "rocky shore"],
     notes: "Common on the shore. Love how colorful the bird is.",
-    photos: [{ file: "ruddy.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "ruddy.JPG", caption: "On rocky shore; especially like the color of the water" }],
     videoUrl: ""
   },
   {
