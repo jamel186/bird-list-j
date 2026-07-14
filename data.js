@@ -228,7 +228,7 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Tricolored Heron",
+    commonName: "Least Tern",
     scientificName: "Anas rubripes",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
