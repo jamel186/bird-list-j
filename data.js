@@ -66,7 +66,7 @@ const BIRDS = [
     habitat: ["beach", "mudflat"],
     notes: "Common both on the beach and in freshwater marshes like Huntley Meadows. Large congregations in Huntley during the fall. Small size and yellow legs are distinctive.",
     photos: [{ file: "least.JPG", caption: "Huntley in Fall" },
-            { file: "leastPair.JPG", caption: "Pair on the beach" }],
+            { file: "leastPair.JPG", caption: "Pair on the beach. Dunlin in the background" }],
     videoUrl: ""
   },
   {
@@ -86,7 +86,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["ocean"],
     notes: "Quite common when I went to Tampa. Many were sitting on the water in the bay.",
-    photos: [{ file: "pelican.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "pelican.JPG", caption: "Floating on the water" }],
     videoUrl: ""
   },
   {
