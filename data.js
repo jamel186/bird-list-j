@@ -29,7 +29,7 @@ const BIRDS = [
   },
   {
     commonName: "Sanderling",
-    scientificName: "Anas rubripes",
+    scientificName: "Calidris alba",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -39,7 +39,7 @@ const BIRDS = [
   },
   {
     commonName: "Dunlin",
-    scientificName: "Anas rubripes",
+    scientificName: "Calidris alpina",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -49,7 +49,7 @@ const BIRDS = [
   },
   {
     commonName: "Least Sandpiper",
-    scientificName: "Anas rubripes",
+    scientificName: "Calidris minutilla",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -59,7 +59,7 @@ const BIRDS = [
   },
   {
     commonName: "Ruddy Turnstone",
-    scientificName: "Anas rubripes",
+    scientificName: "Arenaria interpres",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
@@ -69,7 +69,7 @@ const BIRDS = [
   },
   {
     commonName: "Brown Pelican",
-    scientificName: "Anas rubripes",
+    scientificName: "Pelecanus occidentalis",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
