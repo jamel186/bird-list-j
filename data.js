@@ -154,7 +154,7 @@ const BIRDS = [
     scientificName: "Pluvialis squatarola",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["beach", "mudlfat"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -184,7 +184,7 @@ const BIRDS = [
     scientificName: "Nycticorax nycticorax",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["marsh", "river"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -194,7 +194,7 @@ const BIRDS = [
     scientificName: "Nyctanassa violacea",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -204,7 +204,7 @@ const BIRDS = [
     scientificName: "Egretta tricolor",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -224,7 +224,7 @@ const BIRDS = [
     scientificName: "Eudocimus albus",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["mudflat", "marsh"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -234,7 +234,7 @@ const BIRDS = [
     scientificName: "Quiscalus major",
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["coast"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
