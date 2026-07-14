@@ -34,7 +34,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["urban", "shrub"],
     notes: "One of the first birds I saw when I arrived at Fort De Soto Park. Making loud calls and were traveling in a flock. While invasive, being able to look at parrots in the wild was quite nice.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "nanday.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -44,7 +44,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "sanderlingFlock.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -54,7 +54,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "A larger shorebird. The black belly patch is distinctive.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "dunlin.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -64,7 +64,8 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
     notes: "Common both on the beach and in freshwater marshes like Huntley Meadows. Large congregations in Huntley during the fall. Small size and yellow legs are distinctive.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "least.JPG", caption: "In Holly Tree, backyard" },
+            { file: "leastFlock.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -74,7 +75,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "rocky shore"],
     notes: "Common on the shore. Love how colorful the bird is.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "ruddy.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -84,7 +85,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["ocean"],
     notes: "Quite common when I went to Tampa. Many were sitting on the water in the bay.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "pelican.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
