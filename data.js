@@ -170,8 +170,68 @@ const BIRDS = [
   {
     commonName: "Black-crowned Night Heron",
     scientificName: "Anas rubripes",
-    dateFirstSeen: "2022-04-11",
-    location: "Fort De Soto Park, FL, USA",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Yellow-crowned Night Heron",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Tricolored Heron",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Snowy Egret",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "White Ibis",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Boat-tailed Grackle",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Tricolored Heron",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
