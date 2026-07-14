@@ -95,7 +95,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Smaller than I had imagined. Seeing the wing pattern in person was incredible. Quite common on the beach, strutting around and probing for food.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -105,7 +105,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common on Southeastern beaches. The call actually does sound like somebody laughing.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -115,7 +115,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Seeing the bills in person was quite the sight. They are bright orange and very long, with the lower bill being longer than the upper one. Many were doing courtship displays when I was in Florida.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -125,7 +125,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common on the beaches of the Southeast. Very large and conspicuous because of their bright orange bills. Many were doing their courtship displays.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -135,7 +135,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common on the beaches of the Southeast. Always hanging out with the Royal Terns. Kaufman's description of the birds were correct: 'The kid brother of the royal tern'",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -145,7 +145,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. There was a flock of about 100 in the protected beach area with the skimmers and terns. Not in full breeding plumage yet when I saw them. After reading the book Moonbird, I was surprised at how long their migratory journey was and how endangered these birds really were.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
