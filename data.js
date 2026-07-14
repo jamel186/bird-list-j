@@ -33,7 +33,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -43,7 +43,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "A larger shorebird. The black belly patch is distinctive.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -53,7 +53,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common both on the beach and in freshwater marshes like Huntley Meadows. Large congregations in Huntley during the fall. Small size and yellow legs are distinctive.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
