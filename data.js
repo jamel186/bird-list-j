@@ -30,7 +30,147 @@ const BIRDS = [
   {
     commonName: "Sanderling",
     scientificName: "Anas rubripes",
-    dateFirstSeen: "2020-11-22",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Dunlin",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Least Sandpiper",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ruddy Turnstone",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Brown Pelican",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Willet",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Laughing Gull",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black Skimmer",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Royal Tern",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Sandwich Tern",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Red Knot",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black-bellied Plover",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Semipalmated Plover",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Short-billed Dowitcher",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach"],
+    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black-crowned Night Heron",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
