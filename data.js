@@ -533,10 +533,20 @@ const BIRDS = [
             { file: "hen.JPG", caption: "4/6/2023" }],
     videoUrl: ""
   },
+  {
+    commonName: "Blue Rock Thrush",
+    scientificName: "Zosterops japonicus",
+    dateFirstSeen: "2022-07-18",
+    location: "Gotjawal Provincial Park, Jeju-do, South Korea",
+    habitat: ["forest"],
+    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
+    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "Warbling White-eye",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-18",
+    dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
@@ -546,7 +556,7 @@ const BIRDS = [
   {
     commonName: "Lesser Cuckoo",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-18",
+    dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
@@ -556,7 +566,7 @@ const BIRDS = [
   {
     commonName: "Japanese Bush Warbler",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-18",
+    dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
@@ -566,7 +576,7 @@ const BIRDS = [
   {
     commonName: "Pacific Swift",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-19",
+    dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
@@ -576,7 +586,7 @@ const BIRDS = [
   {
     commonName: "Pleske's Grasshopper Warbler",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-19",
+    dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
@@ -586,7 +596,7 @@ const BIRDS = [
   {
     commonName: "Peregrine Falcon",
     scientificName: "Zosterops japonicus",
-    dateFirstSeen: "2022-07-19",
+    dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
