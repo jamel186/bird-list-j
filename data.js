@@ -282,7 +282,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudlfat"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common when I went to Florida. Many were on the beaches, associating with the terns. There were also many on the mudflats on the bay. One of my favorite birds.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -291,8 +291,8 @@ const BIRDS = [
     scientificName: "Charadrius semipalmatus",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    habitat: ["beach", "mudflat"],
+    notes: "Common. Abundant on the beaches when I went to Florida. Also present at Huntley in the Fall on the flats.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -302,7 +302,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common on the beaches. Larger than the other shorebirds and used its long bill to probe into the sand for food.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -312,7 +312,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["mudflat"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. Saw 2 on the flats in the bay. Quite surprised when I saw them. The upturned bill is very unique.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -322,7 +322,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["oysterbeds"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. Saw 1 at Honeymoon Island, where they had oyster beds. Its red bill is very noticable, even from a distance.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -380,7 +380,7 @@ const BIRDS = [
     commonName: "Black-crowned Night Heron",
     scientificName: "Nycticorax nycticorax",
     dateFirstSeen: "2022-04-10",
-    location: "Grand Hyatt Tampa Bay, FL, USA",
+    location: "Lettuce Lake Park, FL, USA",
     habitat: ["marsh", "river"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
