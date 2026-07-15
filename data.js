@@ -38,6 +38,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Yellow-throated Vireo",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-05-15",
+    location: "Jug Bay Wildlife Sanctuary, MD, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Purple Martin",
     scientificName: "Calidris alba",
     dateFirstSeen: "2022-05-14",
