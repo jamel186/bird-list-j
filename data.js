@@ -117,7 +117,9 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Seeing the bills in person was quite the sight. They are bright orange and very long, with the lower bill being longer than the upper one. Many were doing courtship displays when I was in Florida.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "skimmer.JPG", caption: "The bill still amazes me" },
+            { file: "skimmerPair.JPG", caption: "Perhaps a courtship ritual" },
+            { file: "skimmerFlock.JPG", caption: "Hundreds were just loafing on the beach" }],
     videoUrl: ""
   },
   {
