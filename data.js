@@ -191,7 +191,7 @@ const BIRDS = [
     scientificName: "Limosa fedoa",
     dateFirstSeen: "2022-04-12",
     location: "Grand Hyatt Tampa Bay, FL, USA",
-    habitat: ["beach"],
+    habitat: ["mudflat"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -201,7 +201,7 @@ const BIRDS = [
     scientificName: "Haematopus palliatus",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["oysterbeds"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -211,7 +211,7 @@ const BIRDS = [
     scientificName: "Setophaga discolor",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["scrub"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -221,7 +221,7 @@ const BIRDS = [
     scientificName: "Charadrius vociferus",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["open field", "coast"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -231,7 +231,7 @@ const BIRDS = [
     scientificName: "Columbina passerina",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["scrub"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -241,7 +241,7 @@ const BIRDS = [
     scientificName: "Sterna forsteri",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
-    habitat: ["beach"],
+    habitat: ["beach", "coast"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -324,6 +324,16 @@ const BIRDS = [
     habitat: ["beach"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Western Cattle-Egret",
+    scientificName: "Ardea ibis",
+    dateFirstSeen: "2022-04-14",
+    location: "Tampa International Airport, FL, USA",
+    habitat: ["grassland"],
+    notes: "A larger shorebird. The black belly patch is distinctive.",
+    photos: [{ file: "dunlin.JPG", caption: "Probing sand for food" }],
     videoUrl: ""
   },
     {
