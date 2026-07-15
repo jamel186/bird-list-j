@@ -38,6 +38,36 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eurasian Jay",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-06-28",
+    location: "Seoripul Park, Seoul, South Korea",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Gray-backed Thrush",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-06-28",
+    location: "Seoripul Park, Seoul, South Korea",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Marsh Tit",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-06-28",
+    location: "Seoripul Park, Seoul, South Korea",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Hooded Warbler",
     scientificName: "Calidris alba",
     dateFirstSeen: "2022-06-04",
