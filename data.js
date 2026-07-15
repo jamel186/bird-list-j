@@ -553,6 +553,16 @@ const BIRDS = [
     photos: [{ file: "wag.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Eurasian Nuthatch",
+    scientificName: "Motacilla alba",
+    dateFirstSeen: "2022-07-01",
+    location: "Odaesan National Park, Gangwon-do, South Korea",
+    habitat: ["river"],
+    notes: "Supposedly quite common in streams and riparian areas in Korea, but I have only seen twice. Maybe I am overlooking them.",
+    photos: [{ file: "wag.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "Blue-and-white Flycatcher",
     scientificName: "Cyanoptila cyanomelana",
