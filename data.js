@@ -563,6 +563,26 @@ const BIRDS = [
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Pacific Swift",
+    scientificName: "Zosterops japonicus",
+    dateFirstSeen: "2022-07-19",
+    location: "Mara-do, Jeju-do, South Korea",
+    habitat: ["cliffs"],
+    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
+    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Pleske's Grasshopper Warbler",
+    scientificName: "Zosterops japonicus",
+    dateFirstSeen: "2022-07-19",
+    location: "Mara-do, Jeju-do, South Korea",
+    habitat: ["cliffs"],
+    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
+    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "American Pipit",
     scientificName: "Anthus rubescens",
