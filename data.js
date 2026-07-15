@@ -88,6 +88,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Whiskered Tern",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-07-02",
+    location: "Gyeongpo Lake, Gangwon-do, South Korea",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Hooded Warbler",
     scientificName: "Calidris alba",
     dateFirstSeen: "2022-06-04",
