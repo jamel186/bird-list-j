@@ -304,7 +304,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
     notes: "Common on the beaches. Larger than the other shorebirds and used its long bill to probe into the sand for food.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [],
     videoUrl: ""
   },
   {
@@ -375,7 +375,7 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["urban", "scrub"],
     notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [],
     videoUrl: ""
   },
   {
