@@ -129,7 +129,9 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Common on the beaches of the Southeast. Very large and conspicuous because of their bright orange bills. Many were doing their courtship displays.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "royal.JPG", caption: "Quite a royal looking bird" },
+            { file: "royalFlock.JPG", caption: "Couple dozen were loafing on the beach with Sandwiches, a couple Forster's, and some sandpipers and plovers" },
+            { file: "royalPair.JPG", caption: "Courtship ritual. Note the funny looking fish" }],
     videoUrl: ""
   },
   {
