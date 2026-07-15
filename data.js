@@ -273,7 +273,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Uncommon. There was a flock of about 100 in the protected beach area with the skimmers and terns. Not in full breeding plumage yet when I saw them. After reading the book Moonbird, I was surprised at how long their migratory journey was and how endangered these birds really were.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "redknot.JPG", caption: "Large flock resting. Not in breeding plumage yet. This was taken in early April" }],
     videoUrl: ""
   },
   {
@@ -283,7 +283,8 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudlfat"],
     notes: "Common when I went to Florida. Many were on the beaches, associating with the terns. There were also many on the mudflats on the bay. One of my favorite birds.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "bPlover.JPG", caption: "Nonbreeding plumage. Associating with the terns" },
+            { file: "bPloverNice.JPG", caption: "Breeding plumage coming in. Hanging out on the flats" }],
     videoUrl: ""
   },
   {
@@ -293,7 +294,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
     notes: "Common. Abundant on the beaches when I went to Florida. Also present at Huntley in the Fall on the flats.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "semiP.JPG", caption: "Tiny little plover feeding on the beach by seaweed." }],
     videoUrl: ""
   },
   {
@@ -313,7 +314,8 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["mudflat"],
     notes: "Uncommon. Saw 2 on the flats in the bay. Quite surprised when I saw them. The upturned bill is very unique.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "godwit.JPG", caption: "Not the best quality, but note the upturned bill" },
+            { file: "godwitPair.JPG", caption: "A pair of them" }],
     videoUrl: ""
   },
   {
@@ -323,7 +325,7 @@ const BIRDS = [
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["oysterbeds"],
     notes: "Uncommon. Saw 1 at Honeymoon Island, where they had oyster beds. Its red bill is very noticable, even from a distance.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "oyster.JPG", caption: "Far out on the oyster beds. The bill is especially noticable" }],
     videoUrl: ""
   },
   {
