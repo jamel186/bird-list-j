@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Veery",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-04-30",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Nanday Parakeet",
     scientificName: "Aratinga nenday",
     dateFirstSeen: "2022-04-11",
