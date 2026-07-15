@@ -96,7 +96,8 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Smaller than I had imagined. Seeing the wing pattern in person was incredible. Quite common on the beach, strutting around and probing for food.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "willet.JPG", caption: "While plain, still quite handsome" },
+            { file: "willetWing.JPG", caption: "Blurry, but note the flashy wing pattern" }],
     videoUrl: ""
   },
   {
@@ -106,7 +107,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Common on Southeastern beaches. The call actually does sound like somebody laughing.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "laughing.JPG", caption: "In the very center of the large flock, with the black head" }],
     videoUrl: ""
   },
   {
