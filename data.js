@@ -643,6 +643,16 @@ const BIRDS = [
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Pectoral Sandpiper",
+    scientificName: "Zosterops japonicus",
+    dateFirstSeen: "2022-08-24",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["mudflats"],
+    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
+    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "American Pipit",
     scientificName: "Anthus rubescens",
