@@ -188,7 +188,7 @@ const BIRDS = [
   },
   {
     commonName: "Marbled Godwit",
-    scientificName: "Limnodromus griseus",
+    scientificName: "Limosa fedoa",
     dateFirstSeen: "2022-04-12",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
@@ -198,7 +198,7 @@ const BIRDS = [
   },
   {
     commonName: "American Oystercatcher",
-    scientificName: "Limnodromus griseus",
+    scientificName: "Haematopus palliatus",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach"],
@@ -208,7 +208,7 @@ const BIRDS = [
   },
   {
     commonName: "Prairie Warbler",
-    scientificName: "Limnodromus griseus",
+    scientificName: "Setophaga discolor",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach"],
@@ -218,7 +218,7 @@ const BIRDS = [
   },
   {
     commonName: "Killdeer",
-    scientificName: "Limnodromus griseus",
+    scientificName: "Charadrius vociferus",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach"],
@@ -227,8 +227,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Common Ground-dove",
-    scientificName: "Limnodromus griseus",
+    commonName: "Common Ground Dove",
+    scientificName: "Columbina passerina",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach"],
@@ -237,8 +237,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "American Oystercatcher",
-    scientificName: "Limnodromus griseus",
+    commonName: "Forster's Tern",
+    scientificName: "Sterna forsteri",
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach"],
