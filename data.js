@@ -141,7 +141,9 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach"],
     notes: "Common on the beaches of the Southeast. Always hanging out with the Royal Terns. Kaufman's description of the birds were correct: 'The kid brother of the royal tern'",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "sandwich.JPG", caption: "The bicolored bill is very distinctive" },
+            { file: "sandwichFlock.JPG", caption: "Always tagging along with the larger Royals" },
+            { file: "sandwichJuv.JPG", caption: "To the right is the Sandwich juvenile. The left is a Royal juvenile" }],
     videoUrl: ""
   },
   {
