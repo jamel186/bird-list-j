@@ -38,6 +38,26 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Hooded Warbler",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-06-04",
+    location: "Shenandoah National Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Kentucky Warbler",
+    scientificName: "Calidris alba",
+    dateFirstSeen: "2022-06-04",
+    location: "Shenandoah National Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Summer Tanager",
     scientificName: "Calidris alba",
     dateFirstSeen: "2022-05-21",
