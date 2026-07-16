@@ -330,7 +330,7 @@ const BIRDS = [
   {
     commonName: "Clapper Rail",
     scientificName: "Piranga olivacea",
-    dateFirstSeen: "2020-01-02",
+    dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
@@ -340,7 +340,17 @@ const BIRDS = [
   {
     commonName: "Merlin",
     scientificName: "Piranga olivacea",
-    dateFirstSeen: "2020-01-02",
+    dateFirstSeen: "2021-01-02",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Sora",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2021-01-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
