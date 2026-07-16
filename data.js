@@ -238,6 +238,96 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Ruddy Duck",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Lesser Scaup",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Greater Scaup",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "American Coot",
+    scientificName: "Fulica americana",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["marsh", "open water"],
+    notes: "very nice",
+    photos: [{ file: "coot.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Redhead",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Bufflehead",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Redhead",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-20",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Baltimore Oriole",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-25",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ring-billed Gull",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-25",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["river", "shore"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Scarlet Tanager",
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2020-09-27",
@@ -1288,17 +1378,6 @@ const BIRDS = [
     habitat: ["open field"],
     notes: "Meadowlark was where.",
     photos: [{ file: "EasternBluebird.JPG"}],
-    videoUrl: ""
-  },
-  {
-
-    commonName: "American Coot",
-    scientificName: "Fulica americana",
-    dateFirstSeen: "2020-12-03",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["lake"],
-    notes: "very nice",
-    photos: [{ file: "coot.JPG"}],
     videoUrl: ""
   },
   {
