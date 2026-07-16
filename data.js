@@ -334,7 +334,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["scrub"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in their preferred habitat. Abundant in places like Occoquan. Their rising song is quite distinctive.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -344,7 +344,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["open field", "coast"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. I haven't seen that many in my years of birding. Some come through during Fall migration in Huntley.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -354,7 +354,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["scrub"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Saw one on Florida in the parking lot of a park by the ocean. Small and pink.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -364,7 +364,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-12",
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach", "coast"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common when I was in Florida. The forked tails and black and red bills are distinctive. They hunt by hovering in the air and dive bombing into the water.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -374,7 +374,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-11",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["urban", "scrub"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. When I used to live in an apartment, I think I would hear the nighthawk's calls on certain nights. I also see them active during dusk, especially around stadium lights.",
     photos: [],
     videoUrl: ""
   },
@@ -384,7 +384,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Lettuce Lake Park, FL, USA",
     habitat: ["marsh", "river"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. A small heron that haunts the river's edge. I believe the reason I haven't seen many are because these birds are actually nocturnal, being active around dusk and into the night.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
