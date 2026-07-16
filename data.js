@@ -298,11 +298,11 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Redhead",
+    commonName: "Winter Wren",
     scientificName: "Piranga olivacea",
-    dateFirstSeen: "2020-12-20",
-    location: "Mason Neck State Park, VA, USA",
-    habitat: ["open water"],
+    dateFirstSeen: "2020-12-30",
+    location: "Pohick Bay Regional Park, VA, USA",
+    habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -323,6 +323,26 @@ const BIRDS = [
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "shore"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Clapper Rail",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-01-02",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Merlin",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-01-02",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -1335,8 +1355,8 @@ const BIRDS = [
 
     commonName: "Wood Duck",
     scientificName: "Aix sponsa",
-    dateFirstSeen: "2020-04-14",
-    location: "Huntley Meadows Park, VA, USA",
+    dateFirstSeen: "2021-01-10",
+    location: "Theodore Roosevelt Island, VA, USA",
     habitat: ["wetland", "woodland"],
     notes: "Drake in full breeding plumage. The iridescent green, burgundy, and white face pattern looks almost artificial — like a decoy come to life.",
     photos: [{ file: "woodD.JPG"},
