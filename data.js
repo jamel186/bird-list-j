@@ -537,7 +537,7 @@ const BIRDS = [
   },
   {
     commonName: "Blue Rock Thrush",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Monticola solitarius",
     dateFirstSeen: "2022-07-18",
     location: "Pension, Jeju-do, South Korea",
     habitat: ["forest"],
@@ -557,7 +557,7 @@ const BIRDS = [
   },
   {
     commonName: "Lesser Cuckoo",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Cuculus poliocephalus",
     dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
@@ -567,7 +567,7 @@ const BIRDS = [
   },
   {
     commonName: "Japanese Bush Warbler",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Horornis diphone",
     dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
@@ -577,7 +577,7 @@ const BIRDS = [
   },
   {
     commonName: "Pacific Swift",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Apus pacificus",
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
@@ -587,7 +587,7 @@ const BIRDS = [
   },
   {
     commonName: "Pleske's Grasshopper Warbler",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Helopsaltes pleskei",
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
@@ -597,7 +597,7 @@ const BIRDS = [
   },
   {
     commonName: "Peregrine Falcon",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Falco peregrinus",
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
@@ -607,7 +607,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-faced Spoonbill",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Platalea minor",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["cliffs"],
@@ -617,7 +617,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Greenshank",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Tringa nebularia",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["cliffs"],
@@ -626,8 +626,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Intermediate Egret",
-    scientificName: "Zosterops japonicus",
+    commonName: "Medium Egret",
+    scientificName: "Ardea intermedia",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["cliffs"],
