@@ -38,9 +38,39 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Chipping Sparrow",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-10-24",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["field"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Hairy Woodpecker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-10-31",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Hermit Thrush",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-10-31",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Scarlet Tanager",
     scientificName: "Piranga olivacea",
-    dateFirstSeen: "2020-04-30",
+    dateFirstSeen: "2020-09-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
