@@ -1023,7 +1023,7 @@ const BIRDS = [
     scientificName: "Helopsaltes pleskei",
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
-    habitat: ["cliffs"],
+    habitat: ["scrub"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1043,7 +1043,7 @@ const BIRDS = [
     scientificName: "Platalea minor",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
-    habitat: ["cliffs"],
+    habitat: ["mudflat"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1053,7 +1053,7 @@ const BIRDS = [
     scientificName: "Tringa nebularia",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
-    habitat: ["cliffs"],
+    habitat: ["mudflat"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1063,7 +1063,7 @@ const BIRDS = [
     scientificName: "Ardea intermedia",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
-    habitat: ["cliffs"],
+    habitat: ["marsh", "farmland"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1073,7 +1073,7 @@ const BIRDS = [
     scientificName: "Ardea coromanda",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
-    habitat: ["cliffs"],
+    habitat: ["farmland"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1083,7 +1083,7 @@ const BIRDS = [
     scientificName: "Calidris melanotos",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["mudflat"],
+    habitat: ["mudflat", "marsh"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
