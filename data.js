@@ -89,7 +89,7 @@ const BIRDS = [
   },
   {
     commonName: "Whiskered Tern",
-    scientificName: "Calidris alba",
+    scientificName: "Chlidonias hybrida",
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
@@ -99,7 +99,7 @@ const BIRDS = [
   },
   {
     commonName: "Hooded Warbler",
-    scientificName: "Calidris alba",
+    scientificName: "Setophaga citrina",
     dateFirstSeen: "2022-06-04",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest"],
@@ -109,7 +109,7 @@ const BIRDS = [
   },
   {
     commonName: "Kentucky Warbler",
-    scientificName: "Calidris alba",
+    scientificName: "Geothlypis formosa",
     dateFirstSeen: "2022-06-04",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest"],
@@ -119,7 +119,7 @@ const BIRDS = [
   },
   {
     commonName: "Summer Tanager",
-    scientificName: "Calidris alba",
+    scientificName: "Piranga rubra",
     dateFirstSeen: "2022-05-21",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "field"],
@@ -129,7 +129,7 @@ const BIRDS = [
   },
   {
     commonName: "Yellow-throated Vireo",
-    scientificName: "Calidris alba",
+    scientificName: "Vireo flavifrons",
     dateFirstSeen: "2022-05-15",
     location: "Jug Bay Wildlife Sanctuary, MD, USA",
     habitat: ["forest"],
@@ -139,7 +139,7 @@ const BIRDS = [
   },
   {
     commonName: "Purple Martin",
-    scientificName: "Calidris alba",
+    scientificName: "Progne subis",
     dateFirstSeen: "2022-05-14",
     location: "Patuxent Research Wildlife Refuge, MD, USA",
     habitat: ["field"],
