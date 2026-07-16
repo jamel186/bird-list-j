@@ -38,6 +38,36 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Scarlet Tanager",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-04-30",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Indigo Bunting",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2021-04-30",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Orchard Oriole",
+    scientificName: "Icterus spurius",
+    dateFirstSeen: "2022-05-15",
+    location: "Jug Bay Wetlands Sanctuary, MD, USA",
+    habitat: ["swamp"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
     dateFirstSeen: "2022-06-28",
@@ -131,7 +161,7 @@ const BIRDS = [
     commonName: "Yellow-throated Vireo",
     scientificName: "Vireo flavifrons",
     dateFirstSeen: "2022-05-15",
-    location: "Jug Bay Wildlife Sanctuary, MD, USA",
+    location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
