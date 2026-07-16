@@ -304,7 +304,7 @@ const BIRDS = [
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "mudflat"],
     notes: "Common on the beaches. Larger than the other shorebirds and used its long bill to probe into the sand for food.",
-    photos: [],
+    photos: [{ file: "shortDow.JPG", caption: "Bird with long bill probing in the foreground" }],
     videoUrl: ""
   },
   {
@@ -335,7 +335,7 @@ const BIRDS = [
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["scrub"],
     notes: "Common in their preferred habitat. Abundant in places like Occoquan. Their rising song is quite distinctive.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "prairie.JPG", caption: "Bright yellow bird in the mangroves. Winters in Florida" }],
     videoUrl: ""
   },
   {
@@ -345,7 +345,8 @@ const BIRDS = [
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["open field", "coast"],
     notes: "Uncommon. I haven't seen that many in my years of birding. Some come through during Fall migration in Huntley.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "killdeer.JPG", caption: "On the flats in Huntley during Fall migration" },
+            { file: "killdeerCall.JPG", caption: "Making its characteristic kill-deer call" }],
     videoUrl: ""
   },
   {
@@ -355,7 +356,7 @@ const BIRDS = [
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["scrub"],
     notes: "Saw one on Florida in the parking lot of a park by the ocean. Small and pink.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "groundDove.JPG", caption: "Small dove on the ground near a parking lot" }],
     videoUrl: ""
   },
   {
@@ -365,7 +366,9 @@ const BIRDS = [
     location: "Honeymoon Island State Park, FL, USA",
     habitat: ["beach", "coast"],
     notes: "Common when I was in Florida. The forked tails and black and red bills are distinctive. They hunt by hovering in the air and dive bombing into the water.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "forsterLoaf.JPG", caption: "Loafing in the sand" },
+             { file: "forster.JPG", caption: "Two winter birds changing into breeding plumage" },
+            { file: "forsterDive.JPG", caption: "Divebombing into the water to catch fish" }],
     videoUrl: ""
   },
   {
@@ -385,7 +388,7 @@ const BIRDS = [
     location: "Lettuce Lake Park, FL, USA",
     habitat: ["marsh", "river"],
     notes: "Uncommon. A small heron that haunts the river's edge. I believe the reason I haven't seen many are because these birds are actually nocturnal, being active around dusk and into the night.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "blackNight.JPG", caption: "Flying in a cypress swamp during the day. Usually active during the night" }],
     videoUrl: ""
   },
   {
