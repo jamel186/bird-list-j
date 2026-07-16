@@ -636,8 +636,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Eastern Cattle Egret",
-    scientificName: "Zosterops japonicus",
+    commonName: "Eastern Cattle-Egret",
+    scientificName: "Ardea coromanda",
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["cliffs"],
@@ -647,7 +647,7 @@ const BIRDS = [
   },
   {
     commonName: "Pectoral Sandpiper",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Calidris melanotos",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflats"],
@@ -657,7 +657,7 @@ const BIRDS = [
   },
   {
     commonName: "Semipalmated Sandpiper",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Calidris pusilla",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflats"],
@@ -667,7 +667,7 @@ const BIRDS = [
   },
   {
     commonName: "Long-billed Dowitcher",
-    scientificName: "Zosterops japonicus",
+    scientificName: "Limnodromus scolopaceus",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflats"],
