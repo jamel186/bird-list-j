@@ -68,6 +68,176 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "White-throated Sparrow",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-07",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Dark-eyed Junco",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-14",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Carolina Chickadee",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-15",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Tufted Titmouse",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-15",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "House Finch",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-15",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest", "urban"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Yellow-bellied Sapsucker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-21",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Northern Flicker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-21",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Cedar Waxwing",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-21",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Pine Siskin",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-21",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Downy Woodpecker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-21",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Red-bellied Woodpecker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black Vulture",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-22",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["urban", "field"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ruby-crowned Kinglet",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-27",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Brown Creeper",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-28",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Red-shouldered Hawk",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-28",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Pileated Woodpecker",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-11-29",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Red-breasted Nuthatch",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2020-12-13",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Scarlet Tanager",
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2020-09-27",
