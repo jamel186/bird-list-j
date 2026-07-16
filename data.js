@@ -48,6 +48,26 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "White-breasted Nuthatch",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-26",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Swainson's Thrush",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-26",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Indigo Bunting",
     scientificName: "Passerina cyanea",
     dateFirstSeen: "2021-04-30",
@@ -57,7 +77,46 @@ const BIRDS = [
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
-   
+   {
+    commonName: "Little Blue Heron",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-05",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Green Heron",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-05",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Osprey",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-05",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Great Egret",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2020-09-05",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
   {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
