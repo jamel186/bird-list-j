@@ -42,7 +42,7 @@ const BIRDS = [
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2020-10-24",
     location: "Meadowlark Botanical Gardens, VA, USA",
-    habitat: ["field"],
+    habitat: ["meadow"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -322,7 +322,7 @@ const BIRDS = [
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
-    habitat: ["river", "shore"],
+    habitat: ["river", "coast"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -582,7 +582,7 @@ const BIRDS = [
     scientificName: "Aratinga nenday",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["urban", "shrub"],
+    habitat: ["urban", "scrub"],
     notes: "One of the first birds I saw when I arrived at Fort De Soto Park. Making loud calls and were traveling in a flock. While invasive, being able to look at parrots in the wild was quite nice.",
     photos: [{ file: "nanday.JPG", caption: "Teal chest patch is noticable" }],
     videoUrl: ""
@@ -624,7 +624,7 @@ const BIRDS = [
     scientificName: "Arenaria interpres",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach", "rocky shore"],
+    habitat: ["beach", "coast"],
     notes: "Common on the shore. Love how colorful the bird is.",
     photos: [{ file: "ruddy.JPG", caption: "On rocky shore; especially like the color of the water" }],
     videoUrl: ""
@@ -711,7 +711,7 @@ const BIRDS = [
     scientificName: "Pluvialis squatarola",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach", "mudlfat"],
+    habitat: ["beach", "mudflat"],
     notes: "Common when I went to Florida. Many were on the beaches, associating with the terns. There were also many on the mudflats on the bay. One of my favorite birds.",
     photos: [{ file: "bPlover.JPG", caption: "Nonbreeding plumage. Associating with the terns" },
             { file: "bPloverNice.JPG", caption: "Breeding plumage coming in. Hanging out on the flats" }],
@@ -886,7 +886,7 @@ const BIRDS = [
     scientificName: "Ardea ibis",
     dateFirstSeen: "2022-04-14",
     location: "Tampa International Airport, FL, USA",
-    habitat: ["grassland"],
+    habitat: ["farmland"],
     notes: "A larger shorebird. The black belly patch is distinctive.",
     photos: [{ file: "dunlin.JPG", caption: "Probing sand for food" }],
     videoUrl: ""
@@ -1083,7 +1083,7 @@ const BIRDS = [
     scientificName: "Calidris melanotos",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["mudflats"],
+    habitat: ["mudflat"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1093,7 +1093,7 @@ const BIRDS = [
     scientificName: "Calidris pusilla",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["mudflats"],
+    habitat: ["mudflat"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1103,7 +1103,7 @@ const BIRDS = [
     scientificName: "Limnodromus scolopaceus",
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["mudflats"],
+    habitat: ["mudflat"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1339,7 +1339,7 @@ const BIRDS = [
     scientificName: "Turdus migratorius",
     dateFirstSeen: "2020-04-03",
     location: "Backyard, VA, USA",
-    habitat: ["urban", "woodland"],
+    habitat: ["urban", "forest"],
     notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
     photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1350,7 +1350,7 @@ const BIRDS = [
     scientificName: "Cardinalis cardinalis",
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
-    habitat: ["urban", "shrubland"],
+    habitat: ["urban", "scrub"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
     photos: [{file: "cardinalM.JPG"}],
     videoUrl: ""
@@ -1361,7 +1361,7 @@ const BIRDS = [
     scientificName: "Ardea herodias",
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["wetland"],
+    habitat: ["marsh", "river", "open water"],
     notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
     photos: [{file: "bheron.JPG"}],
     videoUrl: ""
@@ -1372,7 +1372,7 @@ const BIRDS = [
     scientificName: "Passerina ciris",
     dateFirstSeen: "2021-01-16",
     location: "Great Falls, MD, USA",
-    habitat: ["shrubland", "woodland"],
+    habitat: ["scrub", "forest"],
     notes: "Absolutely electric — the male looks hand-painted. Found him in a thicket near the wetland loop. Spent an hour photographing him as he worked through the brambles.",
     photos: [{file:"paintedB.JPG"}],
     videoUrl: ""
@@ -1383,7 +1383,7 @@ const BIRDS = [
     scientificName: "Megaceryle alcyon",
     dateFirstSeen: "2021-07-22",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["wetland", "coastal"],
+    habitat: ["marsh", "swamp", "river"],
     notes: "Rattling call announced it before I spotted it — perched on a dead branch over the creek, then plunged headfirst for a fish. Females have the rufous belly band.",
     photos: [{ file: "beltedM.JPG"},
             { file: "beltedF.JPG"},
@@ -1407,7 +1407,7 @@ const BIRDS = [
     scientificName: "Aix sponsa",
     dateFirstSeen: "2021-01-10",
     location: "Theodore Roosevelt Island, VA, USA",
-    habitat: ["wetland", "woodland"],
+    habitat: ["swamp", "marsh"],
     notes: "Drake in full breeding plumage. The iridescent green, burgundy, and white face pattern looks almost artificial — like a decoy come to life.",
     photos: [{ file: "woodD.JPG"},
             { file: "woodDflock.JPG"}],
@@ -1433,7 +1433,7 @@ const BIRDS = [
     scientificName: "Archilochus colubris",
     dateFirstSeen: "2020-08-14",
     location: "Central Library, VA, USA",
-    habitat: ["urban", "woodland"],
+    habitat: ["urban", "open woods"],
     notes: "First hummingbird ever — appeared at the salvia in late August. The gorget only flashes red at the right angle; otherwise appears dark.",
     photos: [{ file: "hum.JPG"},
             { file: "humF.JPG"}],
@@ -1456,7 +1456,7 @@ const BIRDS = [
     scientificName: "Setophaga aestiva",
     dateFirstSeen: "2022-04-03",
     location: "mason neck, VA, USA",
-    habitat: ["woodland", "swamp"],
+    habitat: ["open forest", "swamp"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
@@ -1467,7 +1467,7 @@ const BIRDS = [
     scientificName: "Tachycineta bicolor",
     dateFirstSeen: "2021-04-03",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["woodland", "lake"],
+    habitat: ["forest", "open water", "open field"],
     notes: "very nice",
     photos: [{file:"TreeSwallow.JPG"}],
     videoUrl: ""
@@ -1478,7 +1478,7 @@ const BIRDS = [
     scientificName: "Helmitheros vermivorum",
     dateFirstSeen: "2025-09-09",
     location: "Monticello Park, VA, USA",
-    habitat: ["woodland"],
+    habitat: ["forest"],
     notes: "Went out in the late afternoon after a long day of studying for some fall migration birding. The woods were very quite, with there only being one Magnolia Warbler. While sitting on a bench getting ready to head out, I spotted a bird high in the treetops. Turned out to be this Worm-eating Warbler.",
     photos: [{file:"Wormie.JPG"}],
     videoUrl: ""
@@ -1522,7 +1522,7 @@ const BIRDS = [
     scientificName: "Porphyrio martinica",
     dateFirstSeen: "2025-04-19",
     location: "Mckee Beshers Hughes Hollow, MD, USA",
-    habitat: ["wetland"],
+    habitat: ["marsh"],
     notes: "A vagrant species from much further south. Heard reports about it and had to go see it. Got quite close and was very colorful. Its feet were huge and it had a habit of flicking its tail constantly.",
     photos: [{file:"purpleG.JPG"}],
     videoUrl: ""
@@ -1566,7 +1566,7 @@ const BIRDS = [
     scientificName: "Empidonax traillii",
     dateFirstSeen: "2024-07-27",
     location: "Hammonasset Beach State Park, CT, USA",
-    habitat: ["wetland"],
+    habitat: ["swamp"],
     notes: "On a roadtrip all the way to Acadia National Park. Heard the wheezy fitz-bew as I got out of the car in the parking lot of the park.",
     photos: [{file:"willowF.JPG"}],
     videoUrl: ""
