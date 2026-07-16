@@ -1268,7 +1268,7 @@ const BIRDS = [
     scientificName: "Branta bernicla",
     dateFirstSeen: "2021-12-20",
     location: "Jamaica Bay NWR, NY, USA",
-    habitat: ["coastal"],
+    habitat: ["coast"],
     notes: "It was winter when I went to New York City for vacation. I heard that Jamaica Bay NWR was a great birdwatching spot, so I headed there. It was a windy winter morning and there were geese everywhere. It was the first time I had seen so many before. The Brant were near the parking lot right on the beach.",
     photos: [{ file: "brant.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
@@ -1456,7 +1456,7 @@ const BIRDS = [
     scientificName: "Setophaga aestiva",
     dateFirstSeen: "2022-04-03",
     location: "mason neck, VA, USA",
-    habitat: ["open forest", "swamp"],
+    habitat: ["open woods", "swamp"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
