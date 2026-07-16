@@ -1162,6 +1162,26 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Green-winged Teal",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2021-01-23",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Eastern Phoebe",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2021-01-23",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest", "river"],
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Ovenbird",
     scientificName: "Seiurus aurocapilla",
     dateFirstSeen: "2021-05-01",
