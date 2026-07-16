@@ -29,7 +29,7 @@ const BIRDS = [
   },
   {
     commonName: "Veery",
-    scientificName: "Calidris alba",
+    scientificName: "Catharus fuscescens",
     dateFirstSeen: "2022-04-30",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["forest"],
@@ -39,7 +39,7 @@ const BIRDS = [
   },
   {
     commonName: "Eurasian Jay",
-    scientificName: "Calidris alba",
+    scientificName: "Garrulus glandarius",
     dateFirstSeen: "2022-06-28",
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
@@ -49,7 +49,7 @@ const BIRDS = [
   },
   {
     commonName: "Gray-backed Thrush",
-    scientificName: "Calidris alba",
+    scientificName: "Turdus hortulorum",
     dateFirstSeen: "2022-06-28",
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
@@ -59,7 +59,7 @@ const BIRDS = [
   },
   {
     commonName: "Marsh Tit",
-    scientificName: "Calidris alba",
+    scientificName: "Poecile palustris",
     dateFirstSeen: "2022-06-28",
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
@@ -69,7 +69,7 @@ const BIRDS = [
   },
   {
     commonName: "Oriental Reed Warbler",
-    scientificName: "Calidris alba",
+    scientificName: "Acrocephalus orientalis",
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
@@ -79,7 +79,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Kingfisher",
-    scientificName: "Calidris alba",
+    scientificName: "Alcedo atthis",
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
