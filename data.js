@@ -1599,7 +1599,7 @@ const BIRDS = [
     scientificName: "Aythya valisineria",
     dateFirstSeen: "2024-01-27",
     location: "Mason Neck State Park, VA, USA",
-    habitat: ["lake"],
+    habitat: ["open water"],
     notes: "Right at the head of the bayview trail, there was a raft of them on the bay",
     photos: [{file:"canvas.JPG"}],
     videoUrl: ""
