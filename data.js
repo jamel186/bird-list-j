@@ -182,7 +182,7 @@ const BIRDS = [
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2020-11-22",
     location: "Meadowlark Botanical Gardens, VA, USA",
-    habitat: ["urban", "field"],
+    habitat: ["urban", "open field"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -342,7 +342,7 @@ const BIRDS = [
     scientificName: "Piranga olivacea",
     dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["marsh", "field"],
+    habitat: ["marsh", "open field"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -542,7 +542,7 @@ const BIRDS = [
     scientificName: "Piranga rubra",
     dateFirstSeen: "2022-05-21",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["forest", "field"],
+    habitat: ["forest", "scrub", "meadow"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
@@ -572,7 +572,7 @@ const BIRDS = [
     scientificName: "Progne subis",
     dateFirstSeen: "2022-05-14",
     location: "Patuxent Research Wildlife Refuge, MD, USA",
-    habitat: ["field"],
+    habitat: ["open field"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
