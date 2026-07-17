@@ -894,7 +894,7 @@ const BIRDS = [
   {
     commonName: "Ring-necked Pheasant",
     scientificName: "Phoenicurus auroreus",
-    dateFirstSeen: "2021-07-21",
+    dateFirstSeen: "2021-07-22",
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["forest", "meadow"],
     notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
@@ -904,9 +904,19 @@ const BIRDS = [
   {
     commonName: "Vinous-throated Parrotbill",
     scientificName: "Phoenicurus auroreus",
-    dateFirstSeen: "2021-07-21",
+    dateFirstSeen: "2021-07-22",
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["scrub"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Chinese Blackbird",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-30",
+    location: "Olympic Park, Seoul, South Korea",
+    habitat: ["open field"],
     notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
     photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
