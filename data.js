@@ -467,6 +467,120 @@ const BIRDS = [
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
+      {
+    commonName: "Great Horned Owl",
+    scientificName: "Bubo virginianus",
+    dateFirstSeen: "2021-03-12",
+    location: "Fort CF Smith Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Uncommon. I checked eBird and saw that someone reported there being a nest in a local park. I went over and did a stakeout. Eventually I was able to spot the owls off in the distance. They were very well camoflauged. I believe that was the last year those owls bred there.",
+    photos: [{ file: "horned.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Barred Owl",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2021-01-23",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["swamp"],
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" },
+             { file: "bar2.JPG", caption: "In Holly Tree, backyard" },
+            { file: "babybar.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Green-winged Teal",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2021-01-23",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Eastern Phoebe",
+    scientificName: "Strix varia",
+    dateFirstSeen: "2021-01-23",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest", "river"],
+    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
+    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ovenbird",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24"  },
+            { file: "oven2.JPG", caption: "Prince William Forest Park, 5/1/21"  }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Louisiana Waterthrush",
+    scientificName: "Parkesia motacilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Have only seen a few times. This is probably because they are early migrants and I don't go birdwatching that often in March and April. If you know where to look, they are common.",
+    photos: [{ file: "lowa.JPG", caption: "Riverbend Park, 3/28/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Northern Waterthrush",
+    scientificName: "Parkesia noveboracensis",
+    dateFirstSeen: "2021-08-28",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
+    photos: [{ file: "nowa.JPG", caption: "Dyke Marsh, 8/28/21" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black-and-white Warbler",
+    scientificName: "Mniotilta varia",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
+    photos: [{ file: "blw.JPG", caption: "Meadowood Recreation Area, 9/21/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Prothonotary Warbler",
+    scientificName: "Protonotaria citrea",
+    dateFirstSeen: "2021-04-17",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["swamp"],
+    notes: "A very common breeder in swamps and riverside woods in the area. I still can't forget my first time really getting to see this bird. It amazed me how bright this bird was; it was like a highlighter. I took the video below during that time, and I still remember this moment to this day. I think that the ringtone adds something interesting to the song.",
+    photos: [{ file: "proth.JPG", caption: "Huntley Meadows, 5/2/21" },
+            { file: "pro2.JPG", caption: "Jug Bay, 5/15/22" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Virginia Rail",
+    scientificName: "Rallus limicola",
+    dateFirstSeen: "2021-12-25",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Rare. The first time I saw was when I went to Huntley Meadows for a regular outing when I saw a crowd of birders on the boardwalk. I asked what they were seeing and they told me it was the rail. This was my second rail stakeout in Huntley Meadows. We waited and the rail stuck its head out of a clump of cattails before revealing itself completely and sitting still. I took as many photos as I could. I was especially intrigued at its eyes.",
+    photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+     {
+    commonName: "Brant",
+    scientificName: "Branta bernicla",
+    dateFirstSeen: "2021-12-20",
+    location: "Jamaica Bay NWR, NY, USA",
+    habitat: ["coast"],
+    notes: "It was winter when I went to New York City for vacation. I heard that Jamaica Bay NWR was a great birdwatching spot, so I headed there. It was a windy winter morning and there were geese everywhere. It was the first time I had seen so many before. The Brant were near the parking lot right on the beach.",
+    photos: [{ file: "brant.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
   {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
@@ -1171,120 +1285,6 @@ const BIRDS = [
     habitat: ["forest"],
     notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
     photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-    {
-    commonName: "Great Horned Owl",
-    scientificName: "Bubo virginianus",
-    dateFirstSeen: "2021-03-12",
-    location: "Fort CF Smith Park, VA, USA",
-    habitat: ["forest"],
-    notes: "Uncommon. I checked eBird and saw that someone reported there being a nest in a local park. I went over and did a stakeout. Eventually I was able to spot the owls off in the distance. They were very well camoflauged. I believe that was the last year those owls bred there.",
-    photos: [{ file: "horned.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-    {
-    commonName: "Barred Owl",
-    scientificName: "Strix varia",
-    dateFirstSeen: "2021-01-23",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["swamp"],
-    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" },
-             { file: "bar2.JPG", caption: "In Holly Tree, backyard" },
-            { file: "babybar.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Green-winged Teal",
-    scientificName: "Strix varia",
-    dateFirstSeen: "2021-01-23",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["marsh"],
-    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Eastern Phoebe",
-    scientificName: "Strix varia",
-    dateFirstSeen: "2021-01-23",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["forest", "river"],
-    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Ovenbird",
-    scientificName: "Seiurus aurocapilla",
-    dateFirstSeen: "2021-05-01",
-    location: "Prince William Forest Park, VA, USA",
-    habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24"  },
-            { file: "oven2.JPG", caption: "Prince William Forest Park, 5/1/21"  }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Louisiana Waterthrush",
-    scientificName: "Parkesia motacilla",
-    dateFirstSeen: "2021-05-01",
-    location: "Prince William Forest Park, VA, USA",
-    habitat: ["forest"],
-    notes: "Have only seen a few times. This is probably because they are early migrants and I don't go birdwatching that often in March and April. If you know where to look, they are common.",
-    photos: [{ file: "lowa.JPG", caption: "Riverbend Park, 3/28/24" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Northern Waterthrush",
-    scientificName: "Parkesia noveboracensis",
-    dateFirstSeen: "2021-08-28",
-    location: "Dyke Marsh, VA, USA",
-    habitat: ["marsh"],
-    notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
-    photos: [{ file: "nowa.JPG", caption: "Dyke Marsh, 8/28/21" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Black-and-white Warbler",
-    scientificName: "Mniotilta varia",
-    dateFirstSeen: "2021-05-01",
-    location: "Prince William Forest Park, VA, USA",
-    habitat: ["forest"],
-    notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
-    photos: [{ file: "blw.JPG", caption: "Meadowood Recreation Area, 9/21/24" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Prothonotary Warbler",
-    scientificName: "Protonotaria citrea",
-    dateFirstSeen: "2021-04-17",
-    location: "Dyke Marsh, VA, USA",
-    habitat: ["swamp"],
-    notes: "A very common breeder in swamps and riverside woods in the area. I still can't forget my first time really getting to see this bird. It amazed me how bright this bird was; it was like a highlighter. I took the video below during that time, and I still remember this moment to this day. I think that the ringtone adds something interesting to the song.",
-    photos: [{ file: "proth.JPG", caption: "Huntley Meadows, 5/2/21" },
-            { file: "pro2.JPG", caption: "Jug Bay, 5/15/22" }],
-    videoUrl: ""
-  },
-  {
-    commonName: "Virginia Rail",
-    scientificName: "Rallus limicola",
-    dateFirstSeen: "2021-12-25",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["marsh"],
-    notes: "Rare. The first time I saw was when I went to Huntley Meadows for a regular outing when I saw a crowd of birders on the boardwalk. I asked what they were seeing and they told me it was the rail. This was my second rail stakeout in Huntley Meadows. We waited and the rail stuck its head out of a clump of cattails before revealing itself completely and sitting still. I took as many photos as I could. I was especially intrigued at its eyes.",
-    photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-     {
-    commonName: "Brant",
-    scientificName: "Branta bernicla",
-    dateFirstSeen: "2021-12-20",
-    location: "Jamaica Bay NWR, NY, USA",
-    habitat: ["coast"],
-    notes: "It was winter when I went to New York City for vacation. I heard that Jamaica Bay NWR was a great birdwatching spot, so I headed there. It was a windy winter morning and there were geese everywhere. It was the first time I had seen so many before. The Brant were near the parking lot right on the beach.",
-    photos: [{ file: "brant.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
     {
