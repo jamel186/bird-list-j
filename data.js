@@ -603,8 +603,8 @@ const BIRDS = [
   {
     commonName: "Black-and-white Warbler",
     scientificName: "Mniotilta varia",
-    dateFirstSeen: "2021-05-01",
-    location: "Prince William Forest Park, VA, USA",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
     photos: [{ file: "blw.JPG", caption: "Meadowood Recreation Area, 9/21/24" }],
