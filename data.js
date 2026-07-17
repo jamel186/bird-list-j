@@ -828,7 +828,7 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["marsh"],
     notes: "Uncommon. Saw a couple in mangroves by the bay at dusk. Juveniles have a black bill, while Black-crowns have a yellowish bill",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "yellowNight.JPG", caption: "Juvenile in the mangroves at evening. Note the black bill" }],
     videoUrl: ""
   },
   {
@@ -838,7 +838,8 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["marsh"],
     notes: "Common. Saw a few roosting in mangroves by the bay at dusk. Both the juveniles and adults are striking. A smaller heron, about the size of a Reddish Egret",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "tricolor.JPG", caption: "Adult in the mangroves. Sky blue bill and red eyes are unmistakable" },
+            { file: "tricolorJuv.JPG", caption: "Juvenile was right by the adult. The yellow is distinctive" }],
     videoUrl: ""
   },
   {
@@ -848,7 +849,8 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
     notes: "Common along the coast up and down the Eastern Seaboard. The first time I saw them was in Florida, hunting right by a boat launch. The yellow feet and black bill are distinctive.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "SnowyEgret.JPG", caption: "I find it funny how it is sitting on a No Trespassing sign. Shows how nature doesn't listen to human laws" },
+            { file: "snowy.JPG", caption: "Hunting by a boat launch" }],
     videoUrl: ""
   },
   {
@@ -858,7 +860,7 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["mudflat", "marsh"],
     notes: "Common in Florida. Some have even come to Huntley Meadows as vagrants. I got to view one up close at Fort De Soto. It was resting in a tree and its blue eyes were incredible.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "ibis.JPG", caption: "Resting in some coastal trees. The curved red bill and skin patch makes it look almost like a dinosaur" }],
     videoUrl: ""
   },
   {
@@ -868,7 +870,7 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["coast"],
     notes: "Common in the Southeast by the coast. Large and iridescent.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "boatTail.JPG", caption: "Note the large tail and iridescent feathers. Taken right outside of the hotel" }],
     videoUrl: ""
   },
   {
@@ -878,7 +880,9 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
     notes: "While endangered, they are quite common in certain places. Saw a couple in Florida and saw breeding pairs in Maine along with chicks.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "leastT.JPG", caption: "In a fenced off area on the beach for breeding" },
+            { file: "leastTChick.JPG", caption: "A small chick. Colored like the sand for camoflauge. Very cute" },
+            { file: "leastTPair.JPG", caption: "The parent and the chick" }],
     videoUrl: ""
   },
   {
@@ -888,7 +892,7 @@ const BIRDS = [
     location: "Tampa International Airport, FL, USA",
     habitat: ["farmland"],
     notes: "Quite common. I was very surprised to see this bird when the airplane was preparing to take off. I was glad to add another bird to the lifelist, even though I saw it during my final seconds in Florida.",
-    photos: [{ file: "dunlin.JPG", caption: "Probing sand for food" }],
+    photos: [{ file: "westCattle.JPG", caption: "Photo taken right out of the airplane. Feeding in the grassy patches between the runways. Florida really is wild" }],
     videoUrl: ""
   },
     {
