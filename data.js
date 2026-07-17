@@ -1626,6 +1626,17 @@ const BIRDS = [
     photos: [{file:"YellowWarbler.JPG"}],
     videoUrl: ""
   },
+  {
+
+    commonName: "House Wren",
+    scientificName: "Setophaga aestiva",
+    dateFirstSeen: "2021-05-22",
+    location: "Fort CF Smith Park, VA, USA",
+    habitat: ["open woods", "urban"],
+    notes: "very nice",
+    photos: [{file:"YellowWarbler.JPG"}],
+    videoUrl: ""
+  },
    {
 
     commonName: "Tree Swallow",
