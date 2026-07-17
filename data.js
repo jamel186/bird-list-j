@@ -1323,6 +1323,17 @@ const BIRDS = [
     photos: [{ file: "wig.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+
+    commonName: "Mute Swan",
+    scientificName: "Mareca americana",
+    dateFirstSeen: "2021-12-19",
+    location: "Twin Lakes Preserve, NY, USA",
+    habitat: ["marsh"],
+    notes: "It was a very cold evening in Long Island. I saw that there was a pond on the road we were traveling on, so I asked if I could go birdwatching in the pond. Surprisingly, there were many ducks, geese, and even swans there. Amongst all the ducks, there was a lone American Wigeon.",
+    photos: [{ file: "wig.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
 
     commonName: "Northern Shoveler",
