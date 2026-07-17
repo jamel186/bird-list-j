@@ -420,7 +420,7 @@ const BIRDS = [
   {
     commonName: "Great Crested Flycatcher",
     scientificName: "Passerina cyanea",
-    dateFirstSeen: "2021-05-08",
+    dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
@@ -430,7 +430,7 @@ const BIRDS = [
   {
     commonName: "Common Yellowthroat",
     scientificName: "Passerina cyanea",
-    dateFirstSeen: "2021-05-08",
+    dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
@@ -613,7 +613,17 @@ const BIRDS = [
    {
     commonName: "Acadian Flycatcher",
     scientificName: "Seiurus aurocapilla",
-    dateFirstSeen: "2021-05-01",
+    dateFirstSeen: "2021-05-02",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Blue-gray Gnatcatcher",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
