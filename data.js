@@ -887,7 +887,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-14",
     location: "Tampa International Airport, FL, USA",
     habitat: ["farmland"],
-    notes: "A larger shorebird. The black belly patch is distinctive.",
+    notes: "Quite common. I was very surprised to see this bird when the airplane was preparing to take off. I was glad to add another bird to the lifelist, even though I saw it during my final seconds in Florida.",
     photos: [{ file: "dunlin.JPG", caption: "Probing sand for food" }],
     videoUrl: ""
   },
