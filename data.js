@@ -1246,6 +1246,16 @@ const BIRDS = [
     photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+  {
+    commonName: "Horned Grebe",
+    scientificName: "Anthus rubescens",
+    dateFirstSeen: "2021-02-20",
+    location: "Quiet Waters Park, MD, USA",
+    habitat: ["open water"],
+    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
+    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "White Wagtail",
     scientificName: "Motacilla alba",
