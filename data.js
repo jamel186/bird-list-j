@@ -712,6 +712,46 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Oriental Magpie",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-06-28",
+    location: "Neighborhood, Seoul, South Korea",
+    habitat: ["urban"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Brown-eared Bulbul",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-06-28",
+    location: "Neighborhood, Seoul, South Korea",
+    habitat: ["urban"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Azure-winged Magpie",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-07-02",
+    location: "Waryong Park, Seoul, South Korea",
+    habitat: ["urban", "forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Eurasian Tree Sparrow",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-07-02",
+    location: "Waryong Park, Seoul, South Korea",
+    habitat: ["urban", "forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
     dateFirstSeen: "2022-06-28",
@@ -734,8 +774,8 @@ const BIRDS = [
   {
     commonName: "Marsh Tit",
     scientificName: "Poecile palustris",
-    dateFirstSeen: "2022-06-28",
-    location: "Seoripul Park, Seoul, South Korea",
+    dateFirstSeen: "2021-07-02",
+    location: "Waryong Park, Seoul, South Korea",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
