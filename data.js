@@ -410,8 +410,38 @@ const BIRDS = [
   {
     commonName: "Indigo Bunting",
     scientificName: "Passerina cyanea",
-    dateFirstSeen: "2021-04-30",
-    location: "Huntley Meadows, VA, USA",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Great Crested Flycatcher",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Common Yellowthroat",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "White-eyed Vireo",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
@@ -518,6 +548,26 @@ const BIRDS = [
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
     photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24"  },
             { file: "oven2.JPG", caption: "Prince William Forest Park, 5/1/21"  }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Red-eyed Vireo",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Northern Parula",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
     videoUrl: ""
   },
   {
