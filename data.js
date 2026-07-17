@@ -827,7 +827,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Uncommon. Saw a couple in mangroves by the bay at dusk. Juveniles have a black bill, while Black-crowns have a yellowish bill",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -837,7 +837,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common. Saw a few roosting in mangroves by the bay at dusk. Both the juveniles and adults are striking. A smaller heron, about the size of a Reddish Egret",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -847,7 +847,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common along the coast up and down the Eastern Seaboard. The first time I saw them was in Florida, hunting right by a boat launch. The yellow feet and black bill are distinctive.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -857,7 +857,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["mudflat", "marsh"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in Florida. Some have even come to Huntley Meadows as vagrants. I got to view one up close at Fort De Soto. It was resting in a tree and its blue eyes were incredible.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -867,7 +867,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["coast"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "Common in the Southeast by the coast. Large and iridescent.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -877,7 +877,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-10",
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["beach"],
-    notes: "Uncommon, but can be seen at Huntley & Meadowlark, especially in the fall",
+    notes: "While endangered, they are quite common in certain places. Saw a couple in Florida and saw breeding pairs in Maine along with chicks.",
     photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
