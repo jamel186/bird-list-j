@@ -570,6 +570,16 @@ const BIRDS = [
     photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
     videoUrl: ""
   },
+   {
+    commonName: "Wood Thrush",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
   {
     commonName: "Louisiana Waterthrush",
     scientificName: "Parkesia motacilla",
@@ -598,6 +608,36 @@ const BIRDS = [
     habitat: ["forest"],
     notes: "Very common during migration season in any type of forest. Not a deep forest bird, likes the edges and sunny areas of the forest. Seems to associate with habitat suited for Redstarts.",
     photos: [{ file: "blw.JPG", caption: "Meadowood Recreation Area, 9/21/24" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Acadian Flycatcher",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-05-01",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Pine Warbler",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-04-04",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Palm Warbler",
+    scientificName: "Seiurus aurocapilla",
+    dateFirstSeen: "2021-04-04",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
     videoUrl: ""
   },
   {
