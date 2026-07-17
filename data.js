@@ -771,6 +771,86 @@ const BIRDS = [
     photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+   {
+    commonName: "Japanese Pygmy Woodpecker",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-13",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Great Cormorant",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-13",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["open water"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Little Egret",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-13",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["open water", "marsh"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Eastern Spot-bellied Duck",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-13",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["marsh", "open water"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Asian Tit",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-14",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Common Cuckoo",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-14",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black-naped Oriole",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-14",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Black-tailed Gull",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-14",
+    location: "Somewhere on the coast, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
   {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
