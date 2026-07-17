@@ -467,6 +467,16 @@ const BIRDS = [
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
+  {
+    commonName: "Black-throated Blue Warbler",
+    scientificName: "Passerina cyanea",
+    dateFirstSeen: "2021-05-08",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
    {
     commonName: "Little Blue Heron",
     scientificName: "Passerina cyanea",
@@ -1609,8 +1619,8 @@ const BIRDS = [
 
     commonName: "Northern Yellow Warbler",
     scientificName: "Setophaga aestiva",
-    dateFirstSeen: "2022-04-03",
-    location: "mason neck, VA, USA",
+    dateFirstSeen: "2021-05-22",
+    location: "Dyke Marsh, VA, USA",
     habitat: ["open woods", "swamp"],
     notes: "very nice",
     photos: [{file:"YellowWarbler.JPG"}],
