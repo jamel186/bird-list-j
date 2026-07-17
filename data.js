@@ -722,6 +722,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Large-billed Crow",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-06-28",
+    location: "Neighborhood, Seoul, South Korea",
+    habitat: ["urban"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Brown-eared Bulbul",
     scientificName: "Garrulus glandarius",
     dateFirstSeen: "2021-06-28",
@@ -743,6 +753,16 @@ const BIRDS = [
   },
    {
     commonName: "Eurasian Tree Sparrow",
+    scientificName: "Garrulus glandarius",
+    dateFirstSeen: "2021-07-02",
+    location: "Waryong Park, Seoul, South Korea",
+    habitat: ["urban", "forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Oriental Turtle Dove",
     scientificName: "Garrulus glandarius",
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
@@ -847,6 +867,46 @@ const BIRDS = [
     dateFirstSeen: "2021-07-14",
     location: "Somewhere on the coast, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Striated Heron",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-16",
+    location: "Seoul Forest, Seoul, South Korea",
+    habitat: ["marsh"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Great Spotted Woodpecker",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-17",
+    location: "Bukhansan National Park, Seoul, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ring-necked Pheasant",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-21",
+    location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
+    habitat: ["forest", "meadow"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Vinous-throated Parrotbill",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-21",
+    location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
+    habitat: ["scrub"],
     notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
     photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
