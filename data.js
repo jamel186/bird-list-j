@@ -751,6 +751,26 @@ const BIRDS = [
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
+    {
+    commonName: "Gray Heron",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-12",
+    location: "Cheonggyecheon, Seoul, South Korea",
+    habitat: ["open water", "marsh", "mudflat"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+    {
+    commonName: "Daurian Redstart",
+    scientificName: "Phoenicurus auroreus",
+    dateFirstSeen: "2021-07-13",
+    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
+    habitat: ["forest"],
+    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
+    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
   {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
@@ -1457,17 +1477,7 @@ const BIRDS = [
             { file: "blue&whiteF.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
-    {
-    commonName: "Daurian Redstart",
-    scientificName: "Phoenicurus auroreus",
-    dateFirstSeen: "2021-07-13",
-    location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
-    habitat: ["forest"],
-    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
-    videoUrl: ""
-  },
-    {
+  {
     commonName: "Blue-winged Teal",
     scientificName: "Spatula discors",
     dateFirstSeen: "2025-04-19",
