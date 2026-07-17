@@ -458,6 +458,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Snow Goose",
+    scientificName: "Piranga olivacea",
+    dateFirstSeen: "2021-12-18",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Eurasian Jay",
     scientificName: "Garrulus glandarius",
     dateFirstSeen: "2022-06-28",
