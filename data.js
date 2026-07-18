@@ -728,7 +728,8 @@ const BIRDS = [
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
     notes: "Very common in Korea. Their calls can be heard in cities and in mountains. They call especially during dawn.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "magpie.JPG", caption: "Looking straight at me. An intelligent looking bird" },
+            { file: "magpieChick.JPG", caption: "Juvenile learning the ropes. Its mom is out of frame" }],
     videoUrl: ""
   },
   {
@@ -738,7 +739,8 @@ const BIRDS = [
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
     notes: "Very very very common in Korea. In all habitats with trees. Their calls are constant and vociferous. A garrulous bird.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "bulbul.JPG", caption: "Making its loud calls" },
+            { file: "bulbul2.JPG", caption: "Plain yet still an attractive bird. Note its chestnut ears and eyes" }],
     videoUrl: ""
   },
   {
@@ -748,7 +750,7 @@ const BIRDS = [
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
     notes: "Less common than the Oriental Magpie. Has a harsher call and lives in more forested areas. Their blue wings and black caps are distinctive.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "azure.JPG", caption: "They hang out at the tops of trees. Note the black cap and sky blue wings" }],
     videoUrl: ""
   },
    {
@@ -758,7 +760,8 @@ const BIRDS = [
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
     notes: "Very common in all habitats in Korea. Comparable to the House Sparrow in America.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "eurasianSparrow.JPG", caption: "A cute little bird. Both sexes have the same plumage" },
+            { file: "eurasianSparrow2.JPG", caption: "Swaying in the trees by a marsh" }],
     videoUrl: ""
   },
   {
@@ -768,7 +771,7 @@ const BIRDS = [
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
     notes: "Common in Korea. Their five part calls punctuate the droning of the cicadas in the late morning and early afternoon.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "turtleDove.JPG", caption: "Sitting on top of a palace roof" }],
     videoUrl: ""
   },
     {
@@ -777,8 +780,8 @@ const BIRDS = [
     dateFirstSeen: "2021-07-12",
     location: "Cheonggyecheon, Seoul, South Korea",
     habitat: ["open water", "marsh", "mudflat"],
-    notes: "Very common. I have seen many in city parks in Korea. They often trick me into thinking they are other flycatchers.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in bodies of water in Korea. Many can be found in Cheonggyecheon. I also found a couple on the mudflats of the Yellow Sea.",
+    photos: [{ file: "grayHeron.JPG", caption: "Resting in a tree by the side of a stream. Right before, it was making some crazy shapes with its neck" }],
     videoUrl: ""
   },
     {
