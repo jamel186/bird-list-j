@@ -652,7 +652,7 @@ const BIRDS = [
   },
   {
     commonName: "Blue-gray Gnatcatcher",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Polioptila caerulea",
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
@@ -662,7 +662,7 @@ const BIRDS = [
   },
   {
     commonName: "Pine Warbler",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Setophaga pinus",
     dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
@@ -672,7 +672,7 @@ const BIRDS = [
   },
   {
     commonName: "Palm Warbler",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Setophaga palmarum",
     dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
@@ -796,7 +796,7 @@ const BIRDS = [
   },
    {
     commonName: "Japanese Pygmy Woodpecker",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Yungipicus kizuki",
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
@@ -806,7 +806,7 @@ const BIRDS = [
   },
    {
     commonName: "Great Cormorant",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Phalacrocorax carbo",
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["open water"],
@@ -816,7 +816,7 @@ const BIRDS = [
   },
    {
     commonName: "Little Egret",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Egretta garzetta",
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["open water", "marsh"],
@@ -825,8 +825,8 @@ const BIRDS = [
     videoUrl: ""
   },
    {
-    commonName: "Eastern Spot-bellied Duck",
-    scientificName: "Phoenicurus auroreus",
+    commonName: "Eastern Spot-billed Duck",
+    scientificName: "Anas zonorhyncha",
     dateFirstSeen: "2021-07-13",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["marsh", "open water"],
@@ -836,7 +836,7 @@ const BIRDS = [
   },
    {
     commonName: "Asian Tit",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Parus cinereus",
     dateFirstSeen: "2021-07-14",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
@@ -846,7 +846,7 @@ const BIRDS = [
   },
    {
     commonName: "Common Cuckoo",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Cuculus canorus",
     dateFirstSeen: "2021-07-14",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
@@ -856,7 +856,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-naped Oriole",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Oriolus chinensis",
     dateFirstSeen: "2021-07-14",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
@@ -866,7 +866,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-tailed Gull",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Larus crassirostris",
     dateFirstSeen: "2021-07-14",
     location: "Somewhere on the coast, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
@@ -875,8 +875,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Striated Heron",
-    scientificName: "Phoenicurus auroreus",
+    commonName: "Little Heron",
+    scientificName: "Butorides atricapilla",
     dateFirstSeen: "2021-07-16",
     location: "Seoul Forest, Seoul, South Korea",
     habitat: ["marsh"],
@@ -886,7 +886,7 @@ const BIRDS = [
   },
   {
     commonName: "Great Spotted Woodpecker",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Dendrocopos major",
     dateFirstSeen: "2021-07-17",
     location: "Bukhansan National Park, Seoul, South Korea",
     habitat: ["forest"],
@@ -896,7 +896,7 @@ const BIRDS = [
   },
   {
     commonName: "Ring-necked Pheasant",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Phasianus colchicus",
     dateFirstSeen: "2021-07-22",
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["forest", "meadow"],
@@ -906,7 +906,7 @@ const BIRDS = [
   },
   {
     commonName: "Vinous-throated Parrotbill",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Suthora webbiana",
     dateFirstSeen: "2021-07-22",
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["scrub"],
@@ -916,7 +916,7 @@ const BIRDS = [
   },
   {
     commonName: "Chinese Blackbird",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Turdus mandarinus",
     dateFirstSeen: "2021-07-30",
     location: "Olympic Park, Seoul, South Korea",
     habitat: ["open field"],
