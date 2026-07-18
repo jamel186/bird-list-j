@@ -718,7 +718,8 @@ const BIRDS = [
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
     notes: "A symbol of good luck in Korea. Koreans believe that when the Magpie calls, a person they know is coming to visit them. Very common in all habitats, from urban to farmland.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "magpie.JPG", caption: "Looking straight at me. An intelligent looking bird" },
+            { file: "magpieChick.JPG", caption: "Juvenile learning the ropes. Its mom is out of frame" }],
     videoUrl: ""
   },
   {
@@ -728,8 +729,7 @@ const BIRDS = [
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
     notes: "Very common in Korea. Their calls can be heard in cities and in mountains. They call especially during dawn.",
-    photos: [{ file: "magpie.JPG", caption: "Looking straight at me. An intelligent looking bird" },
-            { file: "magpieChick.JPG", caption: "Juvenile learning the ropes. Its mom is out of frame" }],
+    photos: [{ file: "largeBill.JPG", caption: "Sitting on top of a Buddhist temple, making its calls" }],
     videoUrl: ""
   },
   {
