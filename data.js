@@ -713,7 +713,7 @@ const BIRDS = [
   },
   {
     commonName: "Oriental Magpie",
-    scientificName: "Garrulus glandarius",
+    scientificName: "Pica serica",
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
@@ -723,7 +723,7 @@ const BIRDS = [
   },
   {
     commonName: "Large-billed Crow",
-    scientificName: "Garrulus glandarius",
+    scientificName: "Corvus macrorhynchos",
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
@@ -734,7 +734,7 @@ const BIRDS = [
   },
   {
     commonName: "Brown-eared Bulbul",
-    scientificName: "Garrulus glandarius",
+    scientificName: "Hypsipetes amaurotis",
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
@@ -745,7 +745,7 @@ const BIRDS = [
   },
   {
     commonName: "Azure-winged Magpie",
-    scientificName: "Garrulus glandarius",
+    scientificName: "Cyanopica cyanus",
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
@@ -755,7 +755,7 @@ const BIRDS = [
   },
    {
     commonName: "Eurasian Tree Sparrow",
-    scientificName: "Garrulus glandarius",
+    scientificName: "Passer montanus",
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
@@ -765,8 +765,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Oriental Turtle Dove",
-    scientificName: "Garrulus glandarius",
+    commonName: "Oriental Turtle-Dove",
+    scientificName: "Streptopelia orientalis",
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
@@ -776,7 +776,7 @@ const BIRDS = [
   },
     {
     commonName: "Gray Heron",
-    scientificName: "Phoenicurus auroreus",
+    scientificName: "Ardea cinerea",
     dateFirstSeen: "2021-07-12",
     location: "Cheonggyecheon, Seoul, South Korea",
     habitat: ["open water", "marsh", "mudflat"],
