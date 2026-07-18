@@ -1596,7 +1596,7 @@ const BIRDS = [
     location: "Quiet Waters Park, MD, USA",
     habitat: ["open water"],
     notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
-    photos: [{ file: "horned.JPG", caption: "Winter bird floating in the water." }],
+    photos: [{ file: "grebe.JPG", caption: "Winter bird floating in the water." }],
     videoUrl: ""
   },
     {
