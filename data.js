@@ -717,7 +717,7 @@ const BIRDS = [
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A symbol of good luck in Korea. Koreans believe that when the Magpie calls, a person they know is coming to visit them. Very common in all habitats, from urban to farmland.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -727,7 +727,7 @@ const BIRDS = [
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Very common in Korea. Their calls can be heard in cities and in mountains. They call especially during dawn.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -737,7 +737,7 @@ const BIRDS = [
     dateFirstSeen: "2021-06-28",
     location: "Neighborhood, Seoul, South Korea",
     habitat: ["urban"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Very very very common in Korea. In all habitats with trees. Their calls are constant and vociferous. A garrulous bird.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -747,7 +747,7 @@ const BIRDS = [
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Less common than the Oriental Magpie. Has a harsher call and lives in more forested areas. Their blue wings and black caps are distinctive.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -757,7 +757,7 @@ const BIRDS = [
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Very common in all habitats in Korea. Comparable to the House Sparrow in America.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -767,7 +767,7 @@ const BIRDS = [
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["urban", "forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Common in Korea. Their five part calls punctuate the droning of the cicadas in the late morning and early afternoon.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
