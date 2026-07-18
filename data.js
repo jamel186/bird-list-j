@@ -39,7 +39,7 @@ const BIRDS = [
   },
   {
     commonName: "Chipping Sparrow",
-    scientificName: "Piranga olivacea",
+    scientificName: "Spizella passerina",
     dateFirstSeen: "2020-10-24",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["meadow"],
@@ -49,7 +49,7 @@ const BIRDS = [
   },
   {
     commonName: "Hairy Woodpecker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Leuconotopicus villosus",
     dateFirstSeen: "2020-10-31",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -59,7 +59,7 @@ const BIRDS = [
   },
   {
     commonName: "Hermit Thrush",
-    scientificName: "Piranga olivacea",
+    scientificName: "Catharus guttatus",
     dateFirstSeen: "2020-10-31",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -69,7 +69,7 @@ const BIRDS = [
   },
   {
     commonName: "White-throated Sparrow",
-    scientificName: "Piranga olivacea",
+    scientificName: "Zonotrichia albicollis",
     dateFirstSeen: "2020-11-07",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -79,7 +79,7 @@ const BIRDS = [
   },
   {
     commonName: "Dark-eyed Junco",
-    scientificName: "Piranga olivacea",
+    scientificName: "Junco hyemalis",
     dateFirstSeen: "2020-11-14",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -89,7 +89,7 @@ const BIRDS = [
   },
   {
     commonName: "Carolina Chickadee",
-    scientificName: "Piranga olivacea",
+    scientificName: "Poecile carolinensis",
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -99,7 +99,7 @@ const BIRDS = [
   },
   {
     commonName: "Tufted Titmouse",
-    scientificName: "Piranga olivacea",
+    scientificName: "Baeolophus bicolor",
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -109,7 +109,7 @@ const BIRDS = [
   },
   {
     commonName: "House Finch",
-    scientificName: "Piranga olivacea",
+    scientificName: "Haemorhous mexicanus",
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest", "urban"],
@@ -119,7 +119,7 @@ const BIRDS = [
   },
   {
     commonName: "Yellow-bellied Sapsucker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Sphyrapicus varius",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -129,7 +129,7 @@ const BIRDS = [
   },
    {
     commonName: "Northern Flicker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Colaptes auratus",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -139,7 +139,7 @@ const BIRDS = [
   },
    {
     commonName: "Cedar Waxwing",
-    scientificName: "Piranga olivacea",
+    scientificName: "Bombycilla cedrorum",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -149,7 +149,7 @@ const BIRDS = [
   },
    {
     commonName: "Pine Siskin",
-    scientificName: "Piranga olivacea",
+    scientificName: "Spinus pinus",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -159,7 +159,7 @@ const BIRDS = [
   },
    {
     commonName: "Downy Woodpecker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Dryobates pubescens",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -169,7 +169,7 @@ const BIRDS = [
   },
    {
     commonName: "Red-bellied Woodpecker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Melanerpes carolinus",
     dateFirstSeen: "2020-11-22",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -179,7 +179,7 @@ const BIRDS = [
   },
   {
     commonName: "Black Vulture",
-    scientificName: "Piranga olivacea",
+    scientificName: "Coragyps atratus",
     dateFirstSeen: "2020-11-22",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["urban", "open field"],
@@ -189,7 +189,7 @@ const BIRDS = [
   },
   {
     commonName: "Ruby-crowned Kinglet",
-    scientificName: "Piranga olivacea",
+    scientificName: "Corthylio calendula",
     dateFirstSeen: "2020-11-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -199,7 +199,7 @@ const BIRDS = [
   },
   {
     commonName: "Brown Creeper",
-    scientificName: "Piranga olivacea",
+    scientificName: "Certhia americana",
     dateFirstSeen: "2020-11-28",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -209,7 +209,7 @@ const BIRDS = [
   },
   {
     commonName: "Red-shouldered Hawk",
-    scientificName: "Piranga olivacea",
+    scientificName: "Buteo lineatus",
     dateFirstSeen: "2020-11-28",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -219,7 +219,7 @@ const BIRDS = [
   },
   {
     commonName: "Pileated Woodpecker",
-    scientificName: "Piranga olivacea",
+    scientificName: "Dryocopus pileatus",
     dateFirstSeen: "2020-11-29",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
@@ -229,7 +229,7 @@ const BIRDS = [
   },
   {
     commonName: "Red-breasted Nuthatch",
-    scientificName: "Piranga olivacea",
+    scientificName: "Sitta canadensis",
     dateFirstSeen: "2020-12-13",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -239,7 +239,7 @@ const BIRDS = [
   },
   {
     commonName: "Ruddy Duck",
-    scientificName: "Piranga olivacea",
+    scientificName: "Oxyura jamaicensis",
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["forest"],
@@ -249,7 +249,7 @@ const BIRDS = [
   },
   {
     commonName: "Lesser Scaup",
-    scientificName: "Piranga olivacea",
+    scientificName: "Aythya affinis",
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
@@ -259,7 +259,7 @@ const BIRDS = [
   },
   {
     commonName: "Greater Scaup",
-    scientificName: "Piranga olivacea",
+    scientificName: "Aythya marila",
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
@@ -279,7 +279,7 @@ const BIRDS = [
   },
   {
     commonName: "Redhead",
-    scientificName: "Piranga olivacea",
+    scientificName: "Aythya americana",
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
@@ -289,7 +289,7 @@ const BIRDS = [
   },
   {
     commonName: "Bufflehead",
-    scientificName: "Piranga olivacea",
+    scientificName: "Bucephala albeola",
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
@@ -299,7 +299,7 @@ const BIRDS = [
   },
   {
     commonName: "Winter Wren",
-    scientificName: "Piranga olivacea",
+    scientificName: "Troglodytes hiemalis",
     dateFirstSeen: "2020-12-30",
     location: "Pohick Bay Regional Park, VA, USA",
     habitat: ["forest"],
@@ -309,7 +309,7 @@ const BIRDS = [
   },
   {
     commonName: "Baltimore Oriole",
-    scientificName: "Piranga olivacea",
+    scientificName: "Icterus galbula",
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["forest"],
@@ -319,7 +319,7 @@ const BIRDS = [
   },
   {
     commonName: "Ring-billed Gull",
-    scientificName: "Piranga olivacea",
+    scientificName: "Larus delawarensis",
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "coast"],
@@ -329,7 +329,7 @@ const BIRDS = [
   },
   {
     commonName: "Clapper Rail",
-    scientificName: "Piranga olivacea",
+    scientificName: "Rallus crepitans",
     dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -339,7 +339,7 @@ const BIRDS = [
   },
   {
     commonName: "Merlin",
-    scientificName: "Piranga olivacea",
+    scientificName: "Falco columbarius",
     dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "open field"],
@@ -349,7 +349,7 @@ const BIRDS = [
   },
   {
     commonName: "Sora",
-    scientificName: "Piranga olivacea",
+    scientificName: "Porzana carolina",
     dateFirstSeen: "2021-01-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -359,7 +359,7 @@ const BIRDS = [
   },
   {
     commonName: "Hooded Merganser",
-    scientificName: "Piranga olivacea",
+    scientificName: "Lophodytes cucullatus",
     dateFirstSeen: "2021-01-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -369,7 +369,7 @@ const BIRDS = [
   },
   {
     commonName: "Wilson's Snipe",
-    scientificName: "Piranga olivacea",
+    scientificName: "Gallinago delicata",
     dateFirstSeen: "2021-01-30",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -389,7 +389,7 @@ const BIRDS = [
   },
   {
     commonName: "White-breasted Nuthatch",
-    scientificName: "Passerina cyanea",
+    scientificName: "Sitta carolinensis",
     dateFirstSeen: "2020-09-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
@@ -399,7 +399,7 @@ const BIRDS = [
   },
    {
     commonName: "Swainson's Thrush",
-    scientificName: "Passerina cyanea",
+    scientificName: "Catharus ustulatus",
     dateFirstSeen: "2020-09-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
@@ -419,7 +419,7 @@ const BIRDS = [
   },
   {
     commonName: "Canada Warbler",
-    scientificName: "Passerina cyanea",
+    scientificName: "Cardellina canadensis",
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["swamp"],
@@ -429,7 +429,7 @@ const BIRDS = [
   },
   {
     commonName: "Eastern Kingbird",
-    scientificName: "Passerina cyanea",
+    scientificName: "Tyrannus tyrannus",
     dateFirstSeen: "2021-05-14",
     location: "Dyke Marsh, VA, USA",
     habitat: ["open field"],
@@ -439,7 +439,7 @@ const BIRDS = [
   },
   {
     commonName: "Great Crested Flycatcher",
-    scientificName: "Passerina cyanea",
+    scientificName: "Myiarchus crinitus",
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
@@ -449,7 +449,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Yellowthroat",
-    scientificName: "Passerina cyanea",
+    scientificName: "Geothlypis trichas",
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
@@ -459,7 +459,7 @@ const BIRDS = [
   },
   {
     commonName: "White-eyed Vireo",
-    scientificName: "Passerina cyanea",
+    scientificName: "Vireo griseus",
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
@@ -469,7 +469,7 @@ const BIRDS = [
   },
   {
     commonName: "Black-throated Blue Warbler",
-    scientificName: "Passerina cyanea",
+    scientificName: "Setophaga caerulescens",
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
@@ -479,7 +479,7 @@ const BIRDS = [
   },
    {
     commonName: "Little Blue Heron",
-    scientificName: "Passerina cyanea",
+    scientificName: "Egretta caerulea",
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -489,7 +489,7 @@ const BIRDS = [
   },
   {
     commonName: "Green Heron",
-    scientificName: "Passerina cyanea",
+    scientificName: "Butorides virescens",
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -499,7 +499,7 @@ const BIRDS = [
   },
   {
     commonName: "Osprey",
-    scientificName: "Passerina cyanea",
+    scientificName: "Pandion haliaetus",
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -509,7 +509,7 @@ const BIRDS = [
   },
   {
     commonName: "Great Egret",
-    scientificName: "Passerina cyanea",
+    scientificName: "Ardea alba",
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -519,7 +519,7 @@ const BIRDS = [
   },
   {
     commonName: "Snow Goose",
-    scientificName: "Piranga olivacea",
+    scientificName: "Anser caerulescens",
     dateFirstSeen: "2021-12-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -551,7 +551,7 @@ const BIRDS = [
   },
   {
     commonName: "Green-winged Teal",
-    scientificName: "Strix varia",
+    scientificName: "Anas crecca",
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
@@ -561,7 +561,7 @@ const BIRDS = [
   },
   {
     commonName: "Eastern Phoebe",
-    scientificName: "Strix varia",
+    scientificName: "Sayornis phoebe",
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "river"],
@@ -582,7 +582,7 @@ const BIRDS = [
   },
   {
     commonName: "Red-eyed Vireo",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Vireo olivaceus",
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -592,7 +592,7 @@ const BIRDS = [
   },
   {
     commonName: "Northern Parula",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Setophaga americana",
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -602,7 +602,7 @@ const BIRDS = [
   },
    {
     commonName: "Wood Thrush",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Hylocichla mustelina",
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
@@ -642,7 +642,7 @@ const BIRDS = [
   },
    {
     commonName: "Acadian Flycatcher",
-    scientificName: "Seiurus aurocapilla",
+    scientificName: "Empidonax virescens",
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
