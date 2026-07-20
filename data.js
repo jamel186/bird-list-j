@@ -43,7 +43,7 @@ const BIRDS = [
     dateFirstSeen: "2022-04-30",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Have only seen once. The song is quite distinctive, almost flute-like",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -53,7 +53,7 @@ const BIRDS = [
     dateFirstSeen: "2020-10-24",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["meadow"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A common sparrow on lawns and near open areas. Constantly sings its dry trill throughout the summer.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
