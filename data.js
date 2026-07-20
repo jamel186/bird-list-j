@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "King Rail",
+    scientificName: "Rallus elegans",
+    dateFirstSeen: "2024-12-25",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Uncommon. Saw once at Huntley Meadows, quietly skulking under the reeds. Got a brief glimpse of the bird and its distinctive black rump but was unable to capture a photo.",
+    photos: [],
+    videoUrl: ""
+  },
+  {
     commonName: "Veery",
     scientificName: "Catharus fuscescens",
     dateFirstSeen: "2022-04-30",
