@@ -503,8 +503,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A small heron. Juveniles show up every year in the Fall at Huntley Meadows. Common in the Southeast.",
+    photos: [{ file: "littleBLue.JPG", caption: "Juvenile looking at its own reflection" }],
     videoUrl: ""
   },
   {
