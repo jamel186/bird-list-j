@@ -487,6 +487,16 @@ const BIRDS = [
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
+  {
+    commonName: "Black-throated Green Warbler",
+    scientificName: "Setophaga virens",
+    dateFirstSeen: "2021-10-03",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
    {
     commonName: "Little Blue Heron",
     scientificName: "Egretta caerulea",
