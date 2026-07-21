@@ -38,6 +38,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Mississippi Kite",
+    scientificName: "Ictinia mississippiensis",
+    dateFirstSeen: "2024-07-12",
+    location: "Green Spring Gardens, VA, USA",
+    habitat: ["open field"],
+    notes: "Saw once flying over Green Spring Gardens. I belive that there is a breeding pair nearby.",
+    photos: [],
+    videoUrl: ""
+  },
+  {
     commonName: "Veery",
     scientificName: "Catharus fuscescens",
     dateFirstSeen: "2022-04-30",
