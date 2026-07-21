@@ -44,7 +44,7 @@ const BIRDS = [
     location: "Mason Neck State Park, VA, USA",
     habitat: ["forest"],
     notes: "Have only seen once. The song is quite distinctive, almost flute-like",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "veery.JPG", caption: "Sitting in a Holly tree after singing its ethereal song" }],
     videoUrl: ""
   },
   {
@@ -54,7 +54,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["meadow"],
     notes: "A common sparrow on lawns and near open areas. Constantly sings its dry trill throughout the summer.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "chipping.JPG", caption: "Singing at the top of a tree on an April morning" }],
     videoUrl: ""
   },
   {
