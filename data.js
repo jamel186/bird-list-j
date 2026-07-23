@@ -82,7 +82,7 @@ const BIRDS = [
     scientificName: "Melanerpes erythrocephalus",
     dateFirstSeen: "2020-10-31",
     location: "Huntley Meadows, VA, USA",
-    habitat: ["forest"],
+    habitat: ["open woods"],
     notes: "Uncommon in open woodlands and forest edges. Seen every year during the winter in Huntley Meadows. A very colorful woodpecker. Sounds like a high-pitched Red-bellied Woodpecker",
     photos: [{ file: "redHeaded.JPG", caption: "Note the bright red head" }],
     videoUrl: ""
@@ -172,7 +172,7 @@ const BIRDS = [
     scientificName: "Bombycilla cedrorum",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
-    habitat: ["forest"],
+    habitat: ["forest", "urban"],
     notes: "Very common in winter in my neighborhood. Flocks of almost a hundred work together with Robins to eat the Holly berries and Cherries in the neighborhood. The long high-pitched calls are distinctive",
     photos: [{ file: "waxwing.JPG", caption: "Feeding in a Holly tree in my yard. Notice its waxy patches of red and yellow on the wings and tail respectively" }],
     videoUrl: ""
@@ -182,7 +182,7 @@ const BIRDS = [
     scientificName: "Spinus pinus",
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
-    habitat: ["forest"],
+    habitat: ["meadow"],
     notes: "Uncommon during winter. Have only seen them during the Great Irruption of 2020. Hangs out with Goldfinches",
     photos: [{ file: "siskin.JPG", caption: "Feeding on a seedhead with Goldfinches" }],
     videoUrl: ""
