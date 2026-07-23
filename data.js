@@ -144,7 +144,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon during the winter. Look for trees with sapsucker holes to find them. Especially favors maples and birches, although I have seen sapsucker holes in Tulip Poplars",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "sapsucker.JPG", caption: "Medium sized woodpecker on maple" }],
     videoUrl: ""
   },
    {
@@ -184,7 +184,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "A common woodpecker that associates with Chickadee flocks. The squeaky toy calls are distinctive.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "downy.JPG", caption: "Small woodpecker on a suet feeder" }],
     videoUrl: ""
   },
    {
@@ -194,7 +194,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Very common in Virginia. The rattling calls ring through all kinds of forests and neighborhood parks. Commonly associates with Chickadees.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "redBellied.JPG", caption: "Its red eye is striking. Complements the red mulberries" }],
     videoUrl: ""
   },
   {
