@@ -404,7 +404,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Have only seen once. It was at Huntley Meadows during the winter. Usually lives in saltmarshes. Larger and grayer than the Virginia Rail.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "After waiting for half an hour, it popped out of the reeds and stood at the water's edge" }],
+    photos: [{ file: "clapper.JPG", caption: "After waiting for half an hour, it popped out of the reeds and stood at the water's edge" }],
     videoUrl: ""
   },
   {
@@ -414,7 +414,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "open field"],
     notes: "An uncommon winter falcon. Have only seen at Huntley Meadows, near the weather station.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "A handsome bird perched on a dead tree" }],
+    photos: [{ file: "merlin.JPG", caption: "A handsome bird perched on a dead tree" }],
     videoUrl: ""
   },
   {
@@ -595,7 +595,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "An elegant bird of open water and marshes. It is absolutely striking during breeding season, with a green skin patch behind the bill and long plumes.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
+    photos: [{ file: "greatEgret.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
     videoUrl: ""
   },
   {
@@ -1617,7 +1617,7 @@ const BIRDS = [
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["marsh", "farmland"],
     notes: "Common in farmland in Korea. Looks like a mix between a Cattle Egret and Great Egret",
-    photos: [{ file: "warbling.JPG", caption: "Feeding in a sea of rice" }],
+    photos: [{ file: "mediumEgret.JPG", caption: "Feeding in a sea of rice" }],
     videoUrl: ""
   },
   {
