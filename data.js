@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "American Goldfinch",
+    scientificName: "Anas rubripes",
+    dateFirstSeen: "2020-08-22",
+    location: "Anacostia Park, DC, USA",
+    habitat: ["meadow"],
+    notes: "Common in all types of open habitats with seeds. Its potato-chip call can be heard throughout winter, and its warbling song can be heard all spring. A striking bird in the summer, it turns a more muted yellow in the winter.",
+    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
     commonName: "King Rail",
     scientificName: "Rallus elegans",
     dateFirstSeen: "2024-12-25",
