@@ -1618,7 +1618,7 @@ const BIRDS = [
     habitat: ["marsh", "farmland"],
     notes: "Common in farmland in Korea. Looks like a mix between a Cattle Egret and Great Egret",
     photos: [{ file: "mediumEgret.JPG", caption: "Feeding in a sea of rice" },
-            { file: "mediumFlock.JPG", caption: "Large flock of Egrets on Ganghwa Island. A Great Egret is walking in the front center of the photo" }],
+            { file: "mediumFlock.JPG", caption: "Large flock of Medium Egrets on Ganghwa Island. A Great Egret is walking in the front center of the photo" }],
     videoUrl: ""
   },
   {
