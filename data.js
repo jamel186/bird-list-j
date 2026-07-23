@@ -204,7 +204,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Not as common as its brother the Turkey Vulture. Seen soaring over less urban areas, with white patches only at the tips of its wings. Have seen a couple perched in trees and lightposts.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "blackVulture.JPG", caption: "Bad quality. Taken on a cloudy day and makes the bird look almost malevolent" }],
     videoUrl: ""
   },
   {
