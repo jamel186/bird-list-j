@@ -124,7 +124,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["open woods"],
     notes: "A striking bird with a sweet song. Common in open woods during migration. Has a call note that sounds like shoes squeaking on gym floors.",
-    photos: [{ file: "roseBreasted.JPG", caption: "Photographed after hearing its shoe squeak call. In open woods by a river" }],
+    photos: [{ file: "roseBreast.JPG", caption: "Photographed after hearing its shoe squeak call. In open woods by a river" }],
     videoUrl: ""
   },
   {
