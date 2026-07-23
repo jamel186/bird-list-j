@@ -403,8 +403,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Have only seen once. It was at Huntley Meadows during the winter. Usually lives in saltmarshes. Larger and grayer than the Virginia Rail.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "After waiting for half an hour, it popped out of the reeds and stood at the water's edge" }],
     videoUrl: ""
   },
   {
@@ -413,8 +413,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "open field"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An uncommon winter falcon. Have only seen at Huntley Meadows, near the weather station.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "A handsome bird perched on a dead tree" }],
     videoUrl: ""
   },
   {
