@@ -74,7 +74,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon. Looks very similar to Downy, except has a longer bill relative to head and is larger. A bit more solitary",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Notice the bill that is as long as its head." }],
+    photos: [{ file: "hairy.JPG", caption: "Notice the bill that is as long as its head." }],
     videoUrl: ""
   },
   {
@@ -154,7 +154,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "A common woodpecker in forests and neighborhood parks. Its rolling calls echo through the woods in late winter and early spring. Interestingly feeds on the ground for ants",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "flicker.JPG", caption: "Notice the black whisker. This indicates a male" }],
     videoUrl: ""
   },
    {
@@ -164,7 +164,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Very common in winter in my neighborhood. Flocks of almost a hundred work together with Robins to eat the Holly berries and Cherries in the neighborhood. The long high-pitched calls are distinctive",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "waxwing.JPG", caption: "Feeding in a Holly tree in my yard. Notice its waxy patches of red and yellow on the wings and tail respectively" }],
     videoUrl: ""
   },
    {
@@ -174,7 +174,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon during winter. Have only seen them during the Great Irruption of 2020. Hangs out with Goldfinches",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "siskin.JPG", caption: "Feeding on a seedhead with Goldfinches" }],
     videoUrl: ""
   },
    {
