@@ -84,7 +84,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon in open woodlands and forest edges. Seen every year during the winter in Huntley Meadows. A very colorful woodpecker. Sounds like a high-pitched Red-bellied Woodpecker",
-    photos: [{ file: "hairy.JPG", caption: "Notice the bill that is as long as its head." }],
+    photos: [{ file: "redHeaded.JPG", caption: "Note the bright red head" }],
     videoUrl: ""
   },
   {
@@ -254,7 +254,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "A large woodpecker that looks like a chicken when flying. Surprisingly common in forests and parks. Its long, rolling calls echo through the forest.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "pileated.JPG", caption: "A very large bird. Notice the red whisker, which indicates a male" }],
     videoUrl: ""
   },
   {
