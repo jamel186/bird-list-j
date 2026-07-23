@@ -514,8 +514,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
     videoUrl: ""
   },
   {
