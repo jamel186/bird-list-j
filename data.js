@@ -1617,7 +1617,8 @@ const BIRDS = [
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["marsh", "farmland"],
     notes: "Common in farmland in Korea. Looks like a mix between a Cattle Egret and Great Egret",
-    photos: [{ file: "mediumEgret.JPG", caption: "Feeding in a sea of rice" }],
+    photos: [{ file: "mediumEgret.JPG", caption: "Feeding in a sea of rice" },
+            { file: "mediumFlock.JPG", caption: "Large flock of Egrets on Ganghwa Island. A Great Egret is walking in the front center of the photo" }],
     videoUrl: ""
   },
   {
@@ -1626,8 +1627,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["farmland"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in agricultural lands of Korea. Found many on Ganghwa Island. Stockier than Medium Egrets, and breeding plumage shows brown coloring",
+    photos: [{ file: "easternCattle.JPG", caption: "Faraway flock resting in a raised part of the rice fields" }],
     videoUrl: ""
   },
   {
