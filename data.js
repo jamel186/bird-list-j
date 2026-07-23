@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Brown Thrasher",
+    scientificName: "Toxostoma rufum",
+    dateFirstSeen: "2021-03-29",
+    location: "National Arboretum, DC, USA",
+    habitat: ["scrub"],
+    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
+    photos: [{ file: "blackDuck.JPG", caption: "On the ground flipping over leaves for food" }],
+    videoUrl: ""
+  },
+  {
     commonName: "American Goldfinch",
     scientificName: "Spinus tristis",
     dateFirstSeen: "2020-08-22",
@@ -465,7 +475,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "A common bird during migration. Skulks across the forest floor making its peep calls.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting in a low tree after skulking on the ground" }],
     videoUrl: ""
   },
   {
@@ -474,8 +484,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "A striking bird of meadows. Sings constantly throughout the day during hot summer days. Depending on the angle, can look bright blue to dark purple.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A striking bird of meadows. Sings constantly throughout the day during hot summer days. Depending on the angle, can look bright blue to dark purple. Often sings from dead trees",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Singing in a dead tree in a meadow." }],
     videoUrl: ""
   },
   {
@@ -1890,8 +1900,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-22",
     location: "Fort CF Smith Park, VA, USA",
     habitat: ["open woods", "urban"],
-    notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    notes: "A common bird that lives in open areas and in neighborhoods. It is a loud and constant singer but hard to see.",
+    photos: [{file:"YellowWarbler.JPG", caption: "Singing in a willow tree"}],
     videoUrl: ""
   },
    {
