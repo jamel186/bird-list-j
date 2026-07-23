@@ -464,7 +464,7 @@ const BIRDS = [
     dateFirstSeen: "2020-09-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A common bird during migration. Skulks across the forest floor making its peep calls.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -474,7 +474,7 @@ const BIRDS = [
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A striking bird of meadows. Sings constantly throughout the day during hot summer days. Depending on the angle, can look bright blue to dark purple.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
