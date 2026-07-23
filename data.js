@@ -143,7 +143,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Uncommon during the winter. Look for trees with sapsucker holes to find them. Especially favors maples and birches, although I have seen sapsucker holes in Tulip Poplars",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -153,7 +153,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A common woodpecker in forests and neighborhood parks. Its rolling calls echo through the woods in late winter and early spring. Interestingly feeds on the ground for ants",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -163,7 +163,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Very common in winter in my neighborhood. Flocks of almost a hundred work together with Robins to eat the Holly berries and Cherries in the neighborhood. The long high-pitched calls are distinctive",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -173,7 +173,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Uncommon during winter. Have only seen them during the Great Irruption of 2020. Hangs out with Goldfinches",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -183,7 +183,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-21",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A common woodpecker that associates with Chickadee flocks. The squeaky toy calls are distinctive.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -193,7 +193,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-22",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Very common in Virginia. The rattling calls ring through all kinds of forests and neighborhood parks. Commonly associates with Chickadees.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -203,7 +203,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-22",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["urban", "open field"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Not as common as its brother the Turkey Vulture. Seen soaring over less urban areas, with white patches only at the tips of its wings. Have seen a couple perched in trees and lightposts.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
