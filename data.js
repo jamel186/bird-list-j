@@ -98,6 +98,26 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Cape May Warbler",
+    scientificName: "Catharus guttatus",
+    dateFirstSeen: "2023-05-06",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["open woods"],
+    notes: "A warbler that sings a high pitched song. Common in low trees in migration season, especially in Hollies. Can feed on nectar using its semi-tubular tongue",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Rose-breasted Grosbeak",
+    scientificName: "Catharus guttatus",
+    dateFirstSeen: "2023-05-06",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["open woods"],
+    notes: "A striking bird with a sweet song. Common in open woods during migration. Has a call note that sounds like shoes squeaking on gym floors.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "White-throated Sparrow",
     scientificName: "Zonotrichia albicollis",
     dateFirstSeen: "2020-11-07",
