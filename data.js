@@ -77,6 +77,16 @@ const BIRDS = [
     photos: [{ file: "hairy.JPG", caption: "Notice the bill that is as long as its head." }],
     videoUrl: ""
   },
+   {
+    commonName: "Red-headed Woodpecker",
+    scientificName: "Melanerpes erythrocephalus",
+    dateFirstSeen: "2020-10-31",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "Uncommon in open woodlands and forest edges. Seen every year during the winter in Huntley Meadows. A very colorful woodpecker. Sounds like a high-pitched Red-bellied Woodpecker",
+    photos: [{ file: "hairy.JPG", caption: "Notice the bill that is as long as its head." }],
+    videoUrl: ""
+  },
   {
     commonName: "Hermit Thrush",
     scientificName: "Catharus guttatus",
@@ -243,7 +253,7 @@ const BIRDS = [
     dateFirstSeen: "2020-11-29",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A large woodpecker that looks like a chicken when flying. Surprisingly common in forests and parks. Its long, rolling calls echo through the forest.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
