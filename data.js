@@ -594,8 +594,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An elegant bird of open water and marshes. It is absolutely striking during breeding season, with a green skin patch behind the bill and long plumes.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
     videoUrl: ""
   },
   {
@@ -1616,8 +1616,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do South Fields, Incheon, South Korea",
     habitat: ["marsh", "farmland"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in farmland in Korea. Looks like a mix between a Cattle Egret and Great Egret",
+    photos: [{ file: "warbling.JPG", caption: "Feeding in a sea of rice" }],
     videoUrl: ""
   },
   {
