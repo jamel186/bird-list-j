@@ -34,7 +34,7 @@ const BIRDS = [
     location: "National Arboretum, DC, USA",
     habitat: ["scrub"],
     notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
-    photos: [{ file: "blackDuck.JPG", caption: "On the ground flipping over leaves for food" }],
+    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
     videoUrl: ""
   },
   {
@@ -475,7 +475,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
     notes: "A common bird during migration. Skulks across the forest floor making its peep calls.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting in a low tree after skulking on the ground" }],
+    photos: [{ file: "swainson.JPG", caption: "Sitting in a low tree after skulking on the ground" }],
     videoUrl: ""
   },
   {
@@ -485,7 +485,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "A striking bird of meadows. Sings constantly throughout the day during hot summer days. Depending on the angle, can look bright blue to dark purple. Often sings from dead trees",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Singing in a dead tree in a meadow." }],
+    photos: [{ file: "indigoB.JPG", caption: "Singing in a dead tree in a meadow." }],
     videoUrl: ""
   },
   {
@@ -515,7 +515,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
     videoUrl: ""
   },
   {
@@ -1901,7 +1901,7 @@ const BIRDS = [
     location: "Fort CF Smith Park, VA, USA",
     habitat: ["open woods", "urban"],
     notes: "A common bird that lives in open areas and in neighborhoods. It is a loud and constant singer but hard to see.",
-    photos: [{file:"YellowWarbler.JPG", caption: "Singing in a willow tree"}],
+    photos: [{file:"houseWren.JPG", caption: "Singing in a willow tree"}],
     videoUrl: ""
   },
    {
