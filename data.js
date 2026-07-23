@@ -443,8 +443,9 @@ const BIRDS = [
     dateFirstSeen: "2020-09-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A stunning bird that is common in migration and uncommon during breeding season. Its burry song sounds like a robin with a sore throat and is shorter and faster. Hangs out at the tops of trees. Surprisingly hard to spot despite being bright red.",
+    photos: [{ file: "scarlet.JPG", caption: "An incandescent red bird. Luckily came down low for this photograph. Even from a distance was very noticable" },
+            { file: "scarletFall.JPG", caption: "First photo of Scarlet Tanager. A fall male bird, as indicated by its yellow-green plumage" }],
     videoUrl: ""
   },
   {
