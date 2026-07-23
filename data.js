@@ -29,7 +29,7 @@ const BIRDS = [
   },
   {
     commonName: "American Goldfinch",
-    scientificName: "Anas rubripes",
+    scientificName: "Spinus tristis",
     dateFirstSeen: "2020-08-22",
     location: "Anacostia Park, DC, USA",
     habitat: ["meadow"],
@@ -109,7 +109,7 @@ const BIRDS = [
   },
   {
     commonName: "Cape May Warbler",
-    scientificName: "Catharus guttatus",
+    scientificName: "Setophaga tigrina",
     dateFirstSeen: "2023-05-06",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["open woods"],
@@ -119,7 +119,7 @@ const BIRDS = [
   },
   {
     commonName: "Rose-breasted Grosbeak",
-    scientificName: "Catharus guttatus",
+    scientificName: "Pheucticus ludovicianus",
     dateFirstSeen: "2023-05-06",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["open woods"],
