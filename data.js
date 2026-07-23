@@ -73,8 +73,8 @@ const BIRDS = [
     dateFirstSeen: "2020-10-31",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon. Looks very similar to Downy, except has a longer bill relative to head and is larger. A bit more solitary",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Notice the bill that is as long as its head." }],
     videoUrl: ""
   },
   {
