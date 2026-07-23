@@ -34,7 +34,7 @@ const BIRDS = [
     location: "Anacostia Park, DC, USA",
     habitat: ["meadow"],
     notes: "Common in all types of open habitats with seeds. Its potato-chip call can be heard throughout winter, and its warbling song can be heard all spring. A striking bird in the summer, it turns a more muted yellow in the winter.",
-    photos: [{ file: "blackDuck.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "goldfinch.JPG", caption: "First photo of Goldfinch. Male eating a thistle during the late summer. Shows its affinity for seeds" }],
     videoUrl: ""
   },
   {
@@ -114,7 +114,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["open woods"],
     notes: "A warbler that sings a high pitched song. Common in low trees in migration season, especially in Hollies. Can feed on nectar using its semi-tubular tongue",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "capeMay.JPG", caption: "I believe it was feeding on Holly flowers in bloom. A very pretty bird" }],
     videoUrl: ""
   },
   {
@@ -124,7 +124,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["open woods"],
     notes: "A striking bird with a sweet song. Common in open woods during migration. Has a call note that sounds like shoes squeaking on gym floors.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "roseBreasted.JPG", caption: "Photographed after hearing its shoe squeak call. In open woods by a river" }],
     videoUrl: ""
   },
   {
