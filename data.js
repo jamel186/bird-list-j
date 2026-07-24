@@ -2052,7 +2052,7 @@ const BIRDS = [
     location: "Mason Neck Great Marsh Trail, VA, USA",
     habitat: ["open water", "marsh"],
     notes: "Found a large flock wintering at Mason Neck on the Great Marsh Trail. Large white birds on the water.",
-    photos: [{file:"canvas.JPG"}],
+    photos: [{file:"tundra.JPG"}],
     videoUrl: ""
   },
 ];
