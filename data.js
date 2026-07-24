@@ -38,6 +38,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Field Sparrow",
+    scientificName: "Spizella pusilla",
+    dateFirstSeen: "2021-03-29",
+    location: "National Arboretum, DC, USA",
+    habitat: ["meadow"],
+    notes: "Common in large meadows during the summer, where it sings its bouncing ball song. In the winter, it is found in any small field.",
+    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    videoUrl: ""
+  },
+  {
     commonName: "American Goldfinch",
     scientificName: "Spinus tristis",
     dateFirstSeen: "2020-08-22",
@@ -124,7 +134,7 @@ const BIRDS = [
     location: "National Colonial Farm, MD, USA",
     habitat: ["open field"],
     notes: "Quite common in the right habitat. Only lives in large, open fields with a few trees as perches. Sings its melancholy whistles from the tops of those trees",
-    photos: [{ file: "capeMay.JPG", caption: "Singing its melancholy song at the top of the tree" }],
+    photos: [{ file: "meadowlark.JPG", caption: "Singing its melancholy song at the top of the tree" }],
     videoUrl: ""
   },
   {
