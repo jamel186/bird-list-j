@@ -1995,6 +1995,16 @@ const BIRDS = [
     photos: [{file:"purpleG.JPG"}],
     videoUrl: ""
   },
+  {
+    commonName: "Northern Harrier",
+    scientificName: "Circus hudsonius",
+    dateFirstSeen: "2025-06-20",
+    location: "Old North Bridge, MA, USA",
+    habitat: ["marsh", "open field"],
+    notes: "Rare in Virginia but more common farther up north. A large bird of prey with a white rump. Flies over open areas.",
+    photos: [{file:"purpleG.JPG", caption:"Being chased by a Kingbird"}],
+    videoUrl: ""
+  },
     {
     commonName: "Piping Plover",
     scientificName: "Charadrius melodus",
