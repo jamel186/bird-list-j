@@ -303,8 +303,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-28",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common forest hawk. Its insistent calls are heard throughout winter woods. Blue Jay imitations are more high pitched.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting handsomely on a branch" }],
     videoUrl: ""
   },
   {
