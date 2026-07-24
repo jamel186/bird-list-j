@@ -2040,9 +2040,19 @@ const BIRDS = [
     scientificName: "Setophaga dominica",
     dateFirstSeen: "2022-04-30",
     location: "Mason Neck State Park, VA, USA",
-    habitat: ["open water"],
+    habitat: ["river", "open woods"],
     notes: "Have only seen once. Migrates early in the season and breeds in riparian woods. Found at Mason Neck State Park, although I do know a few breed in Occoquan NWR.",
     photos: [],
+    videoUrl: ""
+  },
+  {
+    commonName: "Tundra Swan",
+    scientificName: "Setophaga dominica",
+    dateFirstSeen: "2021-12-29",
+    location: "Mason Neck Great Marsh Trail, VA, USA",
+    habitat: ["open water", "marsh"],
+    notes: "Found a large flock wintering at Mason Neck on the Great Marsh Trail. Large white birds on the water.",
+    photos: [{file:"canvas.JPG"}],
     videoUrl: ""
   },
 ];
