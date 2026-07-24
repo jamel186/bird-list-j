@@ -777,8 +777,8 @@ const BIRDS = [
     dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "Another warbler that migrates early. Always wags its tail and likes to hang out on the ground, unlike other warblers.",
+    photos: [{ file: "oven.JPG", caption: "Feeding on the ground during Fall migration. The plumage is a bit drabber. Note the yellow tail." }],
     videoUrl: ""
   },
   {
