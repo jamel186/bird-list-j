@@ -118,6 +118,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eastern Meadowlark",
+    scientificName: "Sturnella magna",
+    dateFirstSeen: "2023-06-10",
+    location: "National Colonial Farm, MD, USA",
+    habitat: ["open field"],
+    notes: "Quite common in the right habitat. Only lives in large, open fields with a few trees as perches. Sings its melancholy whistles from the tops of those trees",
+    photos: [{ file: "capeMay.JPG", caption: "Singing its melancholy song at the top of the tree" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Cape May Warbler",
     scientificName: "Setophaga tigrina",
     dateFirstSeen: "2023-05-06",
@@ -2047,7 +2057,7 @@ const BIRDS = [
   },
   {
     commonName: "Tundra Swan",
-    scientificName: "Setophaga dominica",
+    scientificName: "Cygnus columbianus",
     dateFirstSeen: "2021-12-29",
     location: "Mason Neck Great Marsh Trail, VA, USA",
     habitat: ["open water", "marsh"],
