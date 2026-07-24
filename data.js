@@ -1296,6 +1296,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Reddish Egret",
+    scientificName: "Charadrius semipalmatus",
+    dateFirstSeen: "2022-04-11",
+    location: "Fort De Soto Park, FL, USA",
+    habitat: ["beach", "ocean"],
+    notes: "Common. Abundant on the beaches when I went to Florida. Also present at Huntley in the Fall on the flats.",
+    photos: [{ file: "semiP.JPG", caption: "Tiny little plover feeding on the beach by seaweed." }],
+    videoUrl: ""
+  },
+  {
     commonName: "Short-billed Dowitcher",
     scientificName: "Limnodromus griseus",
     dateFirstSeen: "2022-04-11",
