@@ -2035,4 +2035,14 @@ const BIRDS = [
     photos: [{file:"canvas.JPG"}],
     videoUrl: ""
   },
+  {
+    commonName: "Yellow-throated Warbler",
+    scientificName: "Setophaga dominica",
+    dateFirstSeen: "2022-04-30",
+    location: "Mason Neck State Park, VA, USA",
+    habitat: ["open water"],
+    notes: "Have only seen once. Migrates early in the season and breeds in riparian woods. Found at Mason Neck State Park, although I do know a few breed in Occoquan NWR.",
+    photos: [],
+    videoUrl: ""
+  },
 ];
