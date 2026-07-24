@@ -767,8 +767,8 @@ const BIRDS = [
     dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "An early migrant in the area. As its name suggests, it loves pines. In any pine grove during migration, you can find a Pine Warbler. It is rarer during the summer.",
+    photos: [{ file: "oven.JPG", caption: "A small yellow bird found very early during migration season. Interestingly was not hanging out in pines" }],
     videoUrl: ""
   },
   {
