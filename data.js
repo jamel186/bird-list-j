@@ -814,7 +814,7 @@ const BIRDS = [
   },
   {
     commonName: "Great Black-backed Gull",
-    scientificName: "Branta bernicla",
+    scientificName: "Larus marinus",
     dateFirstSeen: "2021-12-21",
     location: "Central Park, NY, USA",
     habitat: ["coast"],
