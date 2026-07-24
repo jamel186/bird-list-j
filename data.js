@@ -1462,6 +1462,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Roseate Spoonbill",
+    scientificName: "Platalea ajaja",
+    dateFirstSeen: "2022-04-10",
+    location: "Grand Hyatt Tampa Bay, FL, USA",
+    habitat: ["coast", "marsh"],
+    notes: "Uncommon in the Southeast. Saw one fly by while observing the coast. A very exotic looking bird.",
+    photos: [{ file: "boatTail.JPG", caption: "Flying by while observing the coast. Note its bill that is wider at the tip" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Least Tern",
     scientificName: "Sternula antillarum",
     dateFirstSeen: "2022-04-10",
