@@ -304,7 +304,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "A common forest hawk. Its insistent calls are heard throughout winter woods. Blue Jay imitations are more high pitched.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Sitting handsomely on a branch" }],
+    photos: [{ file: "redShoulder.JPG", caption: "Sitting handsomely on a branch" }],
     videoUrl: ""
   },
   {
@@ -625,7 +625,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "The first one I found was a vagrant at Huntley Meadows. I then went to New York, where there were thousands of them overwintering. A small, bright white goose.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "A small group of them floating on the water after flying in by the thousands" }],
+    photos: [{ file: "snowGoose.JPG", caption: "A small group of them floating on the water after flying in by the thousands" }],
     videoUrl: ""
   },
       {
@@ -768,7 +768,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
     notes: "An early migrant in the area. As its name suggests, it loves pines. In any pine grove during migration, you can find a Pine Warbler. It is rarer during the summer.",
-    photos: [{ file: "oven.JPG", caption: "A small yellow bird found very early during migration season. Interestingly was not hanging out in pines" }],
+    photos: [{ file: "pine.JPG", caption: "A small yellow bird found very early during migration season. Interestingly was not hanging out in pines" }],
     videoUrl: ""
   },
   {
@@ -778,7 +778,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
     notes: "Another warbler that migrates early. Always wags its tail and likes to hang out on the ground, unlike other warblers.",
-    photos: [{ file: "oven.JPG", caption: "Feeding on the ground during Fall migration. The plumage is a bit drabber. Note the yellow tail." }],
+    photos: [{ file: "palm.JPG", caption: "Feeding on the ground during Fall migration. The plumage is a bit drabber. Note the yellow tail." }],
     videoUrl: ""
   },
   {
@@ -819,7 +819,7 @@ const BIRDS = [
     location: "Central Park, NY, USA",
     habitat: ["coast"],
     notes: "It was winter when I went to New York City for vacation. Lots of Great Black-backed Gulls on the coast and interestingly there were a couple in Central Park as well.",
-    photos: [{ file: "brant.JPG", caption: "On one of the ponds in Central Park associating with Herring Gulls" }],
+    photos: [{ file: "blackBack.JPG", caption: "On one of the ponds in Central Park associating with Herring Gulls" }],
     videoUrl: ""
   },
   {
@@ -1468,7 +1468,7 @@ const BIRDS = [
     location: "Grand Hyatt Tampa Bay, FL, USA",
     habitat: ["coast", "marsh"],
     notes: "Uncommon in the Southeast. Saw one fly by while observing the coast. A very exotic looking bird.",
-    photos: [{ file: "boatTail.JPG", caption: "Flying by while observing the coast. Note its bill that is wider at the tip" }],
+    photos: [{ file: "roseate.JPG", caption: "Flying by while observing the coast. Note its bill that is wider at the tip" }],
     videoUrl: ""
   },
   {
@@ -2012,7 +2012,7 @@ const BIRDS = [
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["open field"],
     notes: "Rare. A small falcon found in large open fields that have snags for nesting.",
-    photos: [{file:"bobo.JPG", caption:"A colorful and handsome little falcon resting at the top of a snag"}],
+    photos: [{file:"kestrel.JPG", caption:"A colorful and handsome little falcon resting at the top of a snag"}],
     videoUrl: ""
   },
     {
@@ -2032,7 +2032,7 @@ const BIRDS = [
     location: "Old North Bridge, MA, USA",
     habitat: ["marsh", "open field"],
     notes: "Rare in Virginia but more common farther up north. A large bird of prey with a white rump. Flies over open areas.",
-    photos: [{file:"purpleG.JPG", caption:"Being chased by a Kingbird"}],
+    photos: [{file:"harrier.JPG", caption:"Being chased by a Kingbird"}],
     videoUrl: ""
   },
     {
