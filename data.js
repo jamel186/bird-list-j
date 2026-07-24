@@ -813,6 +813,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Great Black-backed Gull",
+    scientificName: "Branta bernicla",
+    dateFirstSeen: "2021-12-21",
+    location: "Central Park, NY, USA",
+    habitat: ["coast"],
+    notes: "It was winter when I went to New York City for vacation. Lots of Great Black-backed Gulls on the coast and interestingly there were a couple in Central Park as well.",
+    photos: [{ file: "brant.JPG", caption: "On one of the ponds in Central Park associating with Herring Gulls" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Oriental Magpie",
     scientificName: "Pica serica",
     dateFirstSeen: "2021-06-28",
