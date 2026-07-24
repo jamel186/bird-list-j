@@ -624,8 +624,8 @@ const BIRDS = [
     dateFirstSeen: "2021-12-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "The first one I found was a vagrant at Huntley Meadows. I then went to New York, where there were thousands of them overwintering. A small, bright white goose.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "A small group of them floating on the water after flying in by the thousands" }],
     videoUrl: ""
   },
       {
