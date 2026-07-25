@@ -1657,8 +1657,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["mudflat"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "An endangered shorebird in Korea, with only about 10,000 individuals in the wild. Common on Ganghwa Island during migration season.",
+    photos: [{ file: "warbling.JPG", caption: "Initially thought this was an Egret before inspecting it closer. The only Spoonbill I saw that day" }],
     videoUrl: ""
   },
   {
@@ -1667,8 +1667,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-13",
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["mudflat"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "A common migrant in Korea. Frequents mudflats and is comparable to Yellowlegs back in Virginia.",
+    photos: [{ file: "warbling.JPG", caption: "Walking around and probing the mud for food" }],
     videoUrl: ""
   },
   {
