@@ -1774,6 +1774,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eastern Crowned Warbler",
+    scientificName: "Phylloscopus coronatus",
+    dateFirstSeen: "2022-07-01",
+    location: "Odaesan National Park, Gangwon-do, South Korea",
+    habitat: ["forest"],
+    notes: "Common in the mountains of Korea. Was singing its song in a small tree deep in the mountains.",
+    photos: [],
+    videoUrl: ""
+  },
+  {
     commonName: "Varied Tit",
     scientificName: "Sittiparus varius",
     dateFirstSeen: "2022-07-01",
