@@ -1769,7 +1769,7 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["forest"],
     notes: "Uncommon in the mountains of Korea. Associates with Asian Tits in small foraging flocks. Note the chestnut belly.",
-    photos: [{ file: "wag.JPG", caption: "Calling on a wire in a clearing" }],
+    photos: [{ file: "variedTit.JPG", caption: "Calling on a wire in a clearing" }],
     videoUrl: ""
   },
   {
