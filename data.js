@@ -1101,8 +1101,8 @@ const BIRDS = [
     dateFirstSeen: "2022-06-04",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An uncommon migrant to the area. In migration and during the breeding season, hangs out in areas with good secondary cover. A distinctive song with the wheeo at the end.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1111,7 +1111,7 @@ const BIRDS = [
     dateFirstSeen: "2022-06-04",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A rare migrant to the area. Mainly breeds in the Blue Ridge Mountains, in places like Shenandoah and GR Thompson WMA. Have only heard one singing at Shenandoah. Hangs out in the ground under thick underbrush.",
     photos: [],
     videoUrl: ""
   },
