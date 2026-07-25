@@ -1121,8 +1121,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-21",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "scrub", "meadow"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Calling its chebec call in a Cherry tree" }],
     videoUrl: ""
   },
   {
