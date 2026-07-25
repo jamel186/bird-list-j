@@ -1131,8 +1131,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-15",
     location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon. Frequently hangs out at the tops of oak trees, especially White Oaks. A real treat to see if you can find it in the canopy",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Male singing its burry song high in a White Oak tree" }],
     videoUrl: ""
   },
   {
@@ -1151,8 +1151,9 @@ const BIRDS = [
     dateFirstSeen: "2021-05-22",
     location: "Dyke Marsh, VA, USA",
     habitat: ["swamp"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common migrant in Virginia. Has a more rolling song compared to the Baltimore. Interestingly, first year males are bright yellow with a black face mask.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "A male in a willow tree singing" },
+            { file: "sanderlingFlock.JPG", caption: "A first year male showing its distinctive plumage" }],
     videoUrl: ""
   },
   {
