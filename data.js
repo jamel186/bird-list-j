@@ -138,6 +138,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Oriental Greenfinch",
+    scientificName: "Chloris sinica",
+    dateFirstSeen: "2023-06-10",
+    location: "Shohei Bridge, Tokyo, Japan",
+    habitat: ["forest", "urban"],
+    notes: "Supposedly quite common in East Asia. I was on a trip to Japan and walking near Akihabara when I heard the calls of this bird. I looked in a nearby tree and saw a pair fly out.",
+    photos: [{ file: "greenfinch.JPG", caption: "Taken on my phone. Feeding in the tree." }],
+    videoUrl: ""
+  },
+  {
     commonName: "Cape May Warbler",
     scientificName: "Setophaga tigrina",
     dateFirstSeen: "2023-05-06",
