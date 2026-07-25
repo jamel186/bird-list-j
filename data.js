@@ -595,7 +595,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "A small heron. Juveniles show up every year in the Fall at Huntley Meadows. Common in the Southeast.",
-    photos: [{ file: "littleBLue.JPG", caption: "Juvenile looking at its own reflection" }],
+    photos: [{ file: "littleBlue.JPG", caption: "Juvenile looking at its own reflection" }],
     videoUrl: ""
   },
   {
