@@ -1307,7 +1307,7 @@ const BIRDS = [
   },
   {
     commonName: "Reddish Egret",
-    scientificName: "Charadrius semipalmatus",
+    scientificName: "Egretta rufescens",
     dateFirstSeen: "2022-04-11",
     location: "Fort De Soto Park, FL, USA",
     habitat: ["beach", "ocean"],
