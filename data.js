@@ -1136,6 +1136,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Blue Grosbeak",
+    scientificName: "Passerina caerulea",
+    dateFirstSeen: "2023-05-13",
+    location: "Jug Bay Wetlands Sanctuary, MD, USA",
+    habitat: ["meadow"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Orchard Oriole",
     scientificName: "Icterus spurius",
     dateFirstSeen: "2021-05-22",
