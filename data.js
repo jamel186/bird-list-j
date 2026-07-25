@@ -922,7 +922,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["open water"],
     notes: "A common Cormorant in Korea. Found in both freshwater and saltwater habitats.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "greatCormorant.JPG", caption: "Resting on posts in the water" }],
     videoUrl: ""
   },
    {
@@ -932,7 +932,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["open water", "marsh"],
     notes: "A common small egret of Korea. Found mainly in freshwater habitats. Many live along Cheonggyecheon in Seoul. Similar to the Snowy Egret of America.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "littleEgret.JPG", caption: "Fishing in the lake. Still in its breeding plumage, as indicated by its ponytail" }],
     videoUrl: ""
   },
    {
@@ -942,7 +942,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["marsh", "open water"],
     notes: "Very common during the summer, replacing the Mallard. Lives in all types of freshwater habitats.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "spotBelly.JPG", caption: "Floating on the water" }],
     videoUrl: ""
   },
    {
@@ -962,7 +962,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Common in forests in Korea, singing their classic cuckoo song. Usually sings very early in the morning.",
-    photos: [{ file: "daurian.JPG", caption: "Singing its song early in the morning" }],
+    photos: [{ file: "cuckoo.JPG", caption: "Singing its song early in the morning" }],
     videoUrl: ""
   },
   {
@@ -971,8 +971,8 @@ const BIRDS = [
     dateFirstSeen: "2021-07-14",
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
-    notes: "Common in mountain forests in Korea. Sings an ethereal flute like song and makes cat-like calls. A bright yellow bird with a black eye mask.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in mountain forests in Korea. Sings an ethereal flute like song and makes cat-like calls. A bright yellow bird with a black eye mask, yet a hard bird to spot.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -982,7 +982,7 @@ const BIRDS = [
     location: "Somewhere on the coast, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Very common on the shores of Korea during the summer, both on rocky shores and mudflats.",
-    photos: [{ file: "daurian.JPG", caption: "On the mudflats feeding on crabs" }],
+    photos: [{ file: "blackTailGull.JPG", caption: "On the mudflats feeding on crabs" }],
     videoUrl: ""
   },
   {
@@ -992,7 +992,7 @@ const BIRDS = [
     location: "Seoul Forest, Seoul, South Korea",
     habitat: ["marsh"],
     notes: "Common in marshes and rice fields in Korea. Comparable to a Green Heron or Night Heron.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "littleHeron.JPG", caption: "Fishing in the rice fields" }],
     videoUrl: ""
   },
   {
@@ -1002,7 +1002,7 @@ const BIRDS = [
     location: "Bukhansan National Park, Seoul, South Korea",
     habitat: ["forest"],
     notes: "Uncommon in deep mountain forests in Korea. Have seen one at Bukhansan National Park in the middle of the trail.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "greatSpot.JPG", caption: "Bad quality, but can see the woodpecker near the center pecking on an Oak tree" }],
     videoUrl: ""
   },
   {
@@ -1012,8 +1012,8 @@ const BIRDS = [
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["forest", "meadow"],
     notes: "Uncommmon in forests and open areas in Korea. Seeing the male in person was incredible. Surprisingly I saw it in a park in the middle of the city.",
-    photos: [{ file: "daurian.JPG", caption: "An elegant male with its very long tail" },
-            { file: "daurian.JPG", caption: "An understated female sitting in a nearby bush" }],
+    photos: [{ file: "ringMale.JPG", caption: "An elegant male with its very long tail" },
+            { file: "ringFemale.JPG", caption: "An understated female sitting in a nearby bush" }],
     videoUrl: ""
   },
   {
@@ -1023,7 +1023,7 @@ const BIRDS = [
     location: "Namsan Outdoor Botanical Garden, Seoul, South Korea",
     habitat: ["scrub"],
     notes: "Very common. Exists in city parks in the bushes and in farmland along the edges of the fields. Very loud and active.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "parrotbill.JPG", caption: "Feeding in bushes on the edge of the rice fields" }],
     videoUrl: ""
   },
   {
@@ -1033,7 +1033,7 @@ const BIRDS = [
     location: "Olympic Park, Seoul, South Korea",
     habitat: ["open field"],
     notes: "Common in lawns across Korea. Found a couple while birding in the Olympic Park, which has many open lawns.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "chineseBlack.JPG", caption: "A juvenile feeding on the ground" }],
     videoUrl: ""
   },
   {
