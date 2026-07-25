@@ -1699,7 +1699,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat", "marsh"],
     notes: "An uncommon migrant to the area. Have only seen once. Similar to Yellowlegs, but is browner and does not have a white eyering",
-    photos: [{ file: "warbling.JPG", caption: "Feeding in the mudflats" }],
+    photos: [{ file: "pectoral.JPG", caption: "Feeding in the mudflats" }],
     videoUrl: ""
   },
   {
@@ -1709,7 +1709,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat"],
     notes: "A common migrant in the area. Frequents mudflats in marshes and rivers. Compared to Least Sandpiper, has black legs and is grayer",
-    photos: [{ file: "warbling.JPG", caption: "A flock feeding on mudflats" }],
+    photos: [{ file: "semiSand.JPG", caption: "A flock feeding on mudflats" }],
     videoUrl: ""
   },
   {
@@ -1719,7 +1719,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat"],
     notes: "A rare vagrant in the area. Have only seen once in Huntley Meadows during the Fall. Has more extensive barring and a darker chestnut color compared to the Short-bill.",
-    photos: [{ file: "warbling.JPG", caption: "Probing the mud at Huntley Meadows" }],
+    photos: [{ file: "longDowitcher.JPG", caption: "Probing the mud at Huntley Meadows" }],
     videoUrl: ""
   },
     {
