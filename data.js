@@ -1041,8 +1041,8 @@ const BIRDS = [
     dateFirstSeen: "2022-06-28",
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An uncommon resident bird of Korea. Lives in forests and is very loud, constantly calling with its scratchy calls. When I saw it, it was associating with Asian Tits",
+    photos: [{ file: "eurasianJay.JPG", caption: "Sitting in a tree on a rainy day. The eye kind of creeps me out" }],
     videoUrl: ""
   },
   {
@@ -1051,7 +1051,7 @@ const BIRDS = [
     dateFirstSeen: "2022-06-28",
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "A common migrant to Korea. Saw associating with Asian Tits on a rainy day. Apparently the most common breeding thrush in Korea.",
     photos: [],
     videoUrl: ""
   },
@@ -1072,7 +1072,7 @@ const BIRDS = [
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
     notes: "A common migrant in marshes of Korea. A large, brown warbler with an interesting song. Sounds sort of like a rusty hinge.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Singing on Lotus plants" }],
+    photos: [{ file: "reedWarbler.JPG", caption: "Singing on Lotus plants" }],
     videoUrl: ""
   },
   {
@@ -1092,7 +1092,7 @@ const BIRDS = [
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
     notes: "A tern of Korea. Similar to the Common Tern, but has a black belly and dark red bill.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Resting on a post with Great Cormorants" }],
+    photos: [{ file: "whiskered.JPG", caption: "Resting on a post with Great Cormorants" }],
     videoUrl: ""
   },
   {
@@ -1759,7 +1759,7 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["forest"],
     notes: "Common in the mountains of Korea. Associates with Asian Tits in small foraging flocks.",
-    photos: [{ file: "wag.JPG", caption: "Sitting on a rock by a path" }],
+    photos: [{ file: "eurasianNuthatch.JPG", caption: "Sitting on a rock by a path" }],
     videoUrl: ""
   },
   {
