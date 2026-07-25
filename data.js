@@ -1769,7 +1769,7 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["forest"],
     notes: "Uncommon in the mountains of Korea. Associates with Asian Tits in small foraging flocks. Note the chestnut belly.",
-    photos: [{ file: "wag.JPG", caption: "Sitting on a rock by a path" }],
+    photos: [{ file: "wag.JPG", caption: "Calling on a wire in a clearing" }],
     videoUrl: ""
   },
   {
@@ -1779,7 +1779,7 @@ const BIRDS = [
     location: "Odaesan National Park, Gangwon-do, South Korea",
     habitat: ["meadow"],
     notes: "Supposedly quite common in meadows in Korea, but I have only seen once. Used to be called the Elegant Bunting, and it is quite a pretty little bird.",
-    photos: [{ file: "wag.JPG", caption: "Sitting in a tree" }],
+    photos: [{ file: "yellowBunting.JPG", caption: "Sitting in a tree" }],
     videoUrl: ""
   },
     {
