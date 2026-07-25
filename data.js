@@ -48,6 +48,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Nashville Warbler",
+    scientificName: "Leiothlypis ruficapilla",
+    dateFirstSeen: "2021-03-29",
+    location: "National Arboretum, DC, USA",
+    habitat: ["forest"],
+    notes: "An uncommon migrant in the spring. Becomes more common in the fall. It has a two parted song and a yellow belly with a white eye-ring.",
+    photos: [{ file: "thrasher.JPG", caption: "Feeding in a low tree" }],
+    videoUrl: ""
+  },
+  {
     commonName: "American Goldfinch",
     scientificName: "Spinus tristis",
     dateFirstSeen: "2020-08-22",
@@ -290,6 +300,16 @@ const BIRDS = [
   {
     commonName: "Ruby-crowned Kinglet",
     scientificName: "Corthylio calendula",
+    dateFirstSeen: "2020-11-27",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Golden-crowned Kinglet",
+    scientificName: "Regulus satrapa",
     dateFirstSeen: "2020-11-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
