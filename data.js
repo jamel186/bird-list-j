@@ -1586,8 +1586,8 @@ const BIRDS = [
     scientificName: "Monticola solitarius",
     dateFirstSeen: "2022-07-18",
     location: "Pension, Jeju-do, South Korea",
-    habitat: ["forest"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
+    habitat: ["coast"],
+    notes: "Common on rocky shores in Korea. A small, blue thrush that I was lucky to see right near our hotel.",
     photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -1607,8 +1607,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Uncommon migrant in Korea. Their songs are five parted, with the fourth phrase slightly higher than the rest. Looks almost identical to the Common Cuckoo",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1617,8 +1617,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-19",
     location: "Gotjawal Provincial Park, Jeju-do, South Korea",
     habitat: ["forest"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in the southern part of Korea, especially in Jeju-do. They have a distinctive song that sounds almost like an explosion after winding up.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1627,8 +1627,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common on rocky coasts in Korea. There were at least 60 of them feeding over the skies of Mara Island. I believe they were breeding on the rocky cliffs of the island. Their white rump is distinctive.",
+    photos: [{ file: "pacificSwift.JPG", caption: "Flock riding the high winds of the ocean" }],
     videoUrl: ""
   },
   {
@@ -1637,8 +1637,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-20",
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["scrub"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common in certain islands in Korea. I visited Mara Island, the southernmost point in Korea, and there were at least a dozen birds singing their laser like songs. Sadly could not photograph one.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1648,7 +1648,7 @@ const BIRDS = [
     location: "Mara-do, Jeju-do, South Korea",
     habitat: ["cliffs"],
     notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "peregrine.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
@@ -1658,7 +1658,7 @@ const BIRDS = [
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["mudflat"],
     notes: "An endangered shorebird in Korea, with only about 10,000 individuals in the wild. Common on Ganghwa Island during migration season.",
-    photos: [{ file: "warbling.JPG", caption: "Initially thought this was an Egret before inspecting it closer. The only Spoonbill I saw that day" }],
+    photos: [{ file: "spoonbill.JPG", caption: "Initially thought this was an Egret before inspecting it closer. The only Spoonbill I saw that day" }],
     videoUrl: ""
   },
   {
@@ -1668,7 +1668,7 @@ const BIRDS = [
     location: "Ganghwa-do Mudflats, Incheon, South Korea",
     habitat: ["mudflat"],
     notes: "A common migrant in Korea. Frequents mudflats and is comparable to Yellowlegs back in Virginia.",
-    photos: [{ file: "warbling.JPG", caption: "Walking around and probing the mud for food" }],
+    photos: [{ file: "greenshank.JPG", caption: "Walking around and probing the mud for food" }],
     videoUrl: ""
   },
   {
