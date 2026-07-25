@@ -1122,7 +1122,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "scrub", "meadow"],
     notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
     videoUrl: ""
   },
   {
@@ -1132,7 +1132,7 @@ const BIRDS = [
     location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["forest"],
     notes: "Uncommon. Frequently hangs out at the tops of oak trees, especially White Oaks. A real treat to see if you can find it in the canopy",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Male singing its burry song high in a White Oak tree" }],
+    photos: [{ file: "yellowVireo.JPG", caption: "Male singing its burry song high in a White Oak tree" }],
     videoUrl: ""
   },
   {
@@ -1142,7 +1142,7 @@ const BIRDS = [
     location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["meadow"],
     notes: "A beautiful grosbeak. Like a Cardinal, but blue. Sings its sweet, rolling song in the Spring and Summer in meadows outlined by trees",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Male singing in a tree by a small field. Note its chestnut wing patches" }],
+    photos: [{ file: "blueGrosbeak.JPG", caption: "Male singing in a tree by a small field. Note its chestnut wing patches" }],
     videoUrl: ""
   },
   {
@@ -1152,8 +1152,8 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["swamp"],
     notes: "A common migrant in Virginia. Has a more rolling song compared to the Baltimore. Interestingly, first year males are bright yellow with a black face mask.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "A male in a willow tree singing" },
-            { file: "sanderlingFlock.JPG", caption: "A first year male showing its distinctive plumage" }],
+    photos: [{ file: "orchard.JPG", caption: "A male in a willow tree singing" },
+            { file: "orchardJit.JPG", caption: "A first year male showing its distinctive plumage" }],
     videoUrl: ""
   },
   {
@@ -1162,8 +1162,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-14",
     location: "Patuxent Research Wildlife Refuge, MD, USA",
     habitat: ["open field"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
+    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
     videoUrl: ""
   },
   {
