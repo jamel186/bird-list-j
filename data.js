@@ -1588,7 +1588,7 @@ const BIRDS = [
     location: "Pension, Jeju-do, South Korea",
     habitat: ["coast"],
     notes: "Common on rocky shores in Korea. A small, blue thrush that I was lucky to see right near our hotel.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [],
     videoUrl: ""
   },
     {
