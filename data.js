@@ -1142,7 +1142,7 @@ const BIRDS = [
     location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["meadow"],
     notes: "A beautiful grosbeak. Like a Cardinal, but blue. Sings its sweet, rolling song in the Spring and Summer in meadows outlined by trees",
-    photos: [{ file: "blueGrosbeak.JPG", caption: "Male singing in a tree by a small field. Note its chestnut wing patches" }],
+    photos: [{ file: "blueGros.JPG", caption: "Male singing in a tree by a small field. Note its chestnut wing patches" }],
     videoUrl: ""
   },
   {
