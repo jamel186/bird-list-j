@@ -1698,8 +1698,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat", "marsh"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "An uncommon migrant to the area. Have only seen once. Similar to Yellowlegs, but is browner and does not have a white eyering",
+    photos: [{ file: "warbling.JPG", caption: "Feeding in the mudflats" }],
     videoUrl: ""
   },
   {
@@ -1708,8 +1708,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "A common migrant in the area. Frequents mudflats in marshes and rivers. Compared to Least Sandpiper, has black legs and is grayer",
+    photos: [{ file: "warbling.JPG", caption: "A flock feeding on mudflats" }],
     videoUrl: ""
   },
   {
@@ -1718,8 +1718,8 @@ const BIRDS = [
     dateFirstSeen: "2022-08-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["mudflat"],
-    notes: "Common in the southern part of Korea, especially in Jeju-do. As the name suggests, their songs are very nice.",
-    photos: [{ file: "warbling.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "A rare vagrant in the area. Have only seen once in Huntley Meadows during the Fall. Has more extensive barring and a darker chestnut color compared to the Short-bill.",
+    photos: [{ file: "warbling.JPG", caption: "Probing the mud at Huntley Meadows" }],
     videoUrl: ""
   },
     {
