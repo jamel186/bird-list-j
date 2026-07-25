@@ -1052,7 +1052,7 @@ const BIRDS = [
     location: "Seoripul Park, Seoul, South Korea",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1061,7 +1061,7 @@ const BIRDS = [
     dateFirstSeen: "2021-07-02",
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    notes: "Looks almost identical to the Chickadees of America. Associates with Asian Tits and makes their Chickadee-like calls.",
     photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
@@ -1071,8 +1071,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common migrant in marshes of Korea. A large, brown warbler with an interesting song. Sounds sort of like a rusty hinge.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Singing on Lotus plants" }],
     videoUrl: ""
   },
   {
@@ -1081,8 +1081,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon breeder in Korea. Hangs near streams and other bodies of water.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1091,8 +1091,8 @@ const BIRDS = [
     dateFirstSeen: "2022-07-02",
     location: "Gyeongpo Lake, Gangwon-do, South Korea",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A tern of Korea. Similar to the Common Tern, but has a black belly and dark red bill.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Resting on a post with Great Cormorants" }],
     videoUrl: ""
   },
   {
@@ -1757,9 +1757,29 @@ const BIRDS = [
     scientificName: "Sitta europaea",
     dateFirstSeen: "2022-07-01",
     location: "Odaesan National Park, Gangwon-do, South Korea",
-    habitat: ["river"],
-    notes: "Supposedly quite common in streams and riparian areas in Korea, but I have only seen twice. Maybe I am overlooking them.",
-    photos: [{ file: "wag.JPG", caption: "In Holly Tree, backyard" }],
+    habitat: ["forest"],
+    notes: "Common in the mountains of Korea. Associates with Asian Tits in small foraging flocks.",
+    photos: [{ file: "wag.JPG", caption: "Sitting on a rock by a path" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Varied Tit",
+    scientificName: "Sittiparus varius",
+    dateFirstSeen: "2022-07-01",
+    location: "Odaesan National Park, Gangwon-do, South Korea",
+    habitat: ["forest"],
+    notes: "Uncommon in the mountains of Korea. Associates with Asian Tits in small foraging flocks. Note the chestnut belly.",
+    photos: [{ file: "wag.JPG", caption: "Sitting on a rock by a path" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Yellow-throated Bunting",
+    scientificName: "Emberiza elegans",
+    dateFirstSeen: "2022-07-01",
+    location: "Odaesan National Park, Gangwon-do, South Korea",
+    habitat: ["meadow"],
+    notes: "Supposedly quite common in meadows in Korea, but I have only seen once. Used to be called the Elegant Bunting, and it is quite a pretty little bird.",
+    photos: [{ file: "wag.JPG", caption: "Sitting in a tree" }],
     videoUrl: ""
   },
     {
