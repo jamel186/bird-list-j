@@ -912,7 +912,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Supposedly a common Woodpecker in Korea. Comparable to the Downy Woodpecker in Virginia. However, I have only seen once. Was associating with Asian Tits by a lake.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "pygmy.JPG", caption: "Pecking away at a Cherry tree" }],
     videoUrl: ""
   },
    {
@@ -952,7 +952,7 @@ const BIRDS = [
     location: "Bomun Lake, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Very common. I have seen many in city parks and forests in Korea. Acts like a Chickadee, creating mixed species flocks around it.",
-    photos: [{ file: "daurian.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "asianTit.JPG", caption: "Not the best photo, but sitting in a Cherry tree. Note the black strip running down the center of its belly" }],
     videoUrl: ""
   },
    {
@@ -1063,7 +1063,7 @@ const BIRDS = [
     location: "Waryong Park, Seoul, South Korea",
     habitat: ["forest"],
     notes: "Looks almost identical to the Chickadees of America. Associates with Asian Tits and makes their Chickadee-like calls.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "marshTit.JPG", caption: "Was preening itself in a Ginkgo Tree" }],
     videoUrl: ""
   },
   {
