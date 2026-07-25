@@ -1141,8 +1141,8 @@ const BIRDS = [
     dateFirstSeen: "2023-05-13",
     location: "Jug Bay Wetlands Sanctuary, MD, USA",
     habitat: ["meadow"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A beautiful grosbeak. Like a Cardinal, but blue. Sings its sweet, rolling song in the Spring and Summer in meadows outlined by trees",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Male singing in a tree by a small field. Note its chestnut wing patches" }],
     videoUrl: ""
   },
   {
