@@ -1928,7 +1928,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -1938,7 +1938,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   
@@ -1949,7 +1949,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "forest"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -1959,7 +1959,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open woods"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -1969,7 +1969,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "river", "urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -1979,7 +1979,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["scrub", "urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -1989,7 +1989,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["scrub", "urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
    {
@@ -1999,7 +1999,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["open field", "urban", "marsh"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2009,7 +2009,17 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Red-tailed Hawk",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-29",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "open field"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2019,7 +2029,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2029,7 +2039,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "river"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2039,7 +2049,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2049,7 +2059,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2059,7 +2069,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2069,7 +2079,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2079,7 +2089,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2089,7 +2099,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG"}],
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
