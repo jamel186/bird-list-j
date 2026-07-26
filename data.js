@@ -1774,6 +1774,16 @@ const BIRDS = [
     photos: [{ file: "longDowitcher.JPG", caption: "Probing the mud at Huntley Meadows" }],
     videoUrl: ""
   },
+  {
+    commonName: "Bald Eagle",
+    scientificName: "Haliaeetus leucocephalus",
+    dateFirstSeen: "2021-02-06",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["river"],
+    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
+    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
     {
     commonName: "American Pipit",
     scientificName: "Anthus rubescens",
