@@ -2073,14 +2073,14 @@ const BIRDS = [
     dateFirstSeen: "2025-05-11",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["open field"],
-    notes: "very nice",
-    photos: [{file:"bobo.JPG"}],
+    notes: "An uncommon migrant in the area. Only found in large, open meadows like Manssass Battlefield or Meadowood Recreation Area. A handsome bird with a jumbled song.",
+    photos: [{file:"bobo.JPG", caption: "Male singing on top of a bush"}],
     videoUrl: ""
   },
   {
     commonName: "American Kestrel",
     scientificName: "Falco sparverius",
-    dateFirstSeen: "2025-09-21",
+    dateFirstSeen: "2024-09-21",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["open field"],
     notes: "Rare. A small falcon found in large open fields that have snags for nesting.",
