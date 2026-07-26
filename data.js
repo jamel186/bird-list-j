@@ -804,7 +804,7 @@ const BIRDS = [
   {
     commonName: "Blue-gray Gnatcatcher",
     scientificName: "Polioptila caerulea",
-    dateFirstSeen: "2021-05-02",
+    dateFirstSeen: "2021-04-09",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
