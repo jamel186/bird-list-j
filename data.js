@@ -772,6 +772,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Brown-headed Cowbird",
+    scientificName: "Molothrus ater",
+    dateFirstSeen: "2021-05-15",
+    location: "Glencarlyn Park, VA, USA",
+    habitat: ["open field"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Louisiana Waterthrush",
     scientificName: "Parkesia motacilla",
     dateFirstSeen: "2021-05-01",
