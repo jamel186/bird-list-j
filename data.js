@@ -2043,6 +2043,26 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Song Sparrow",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "scrub"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Carolina Wren",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "scrub"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
     commonName: "Rock Dove",
     scientificName: "Cardinalis cardinalis",
     dateFirstSeen: "2020-04-30",
