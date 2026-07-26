@@ -1778,7 +1778,17 @@ const BIRDS = [
     commonName: "Bald Eagle",
     scientificName: "Haliaeetus leucocephalus",
     dateFirstSeen: "2021-02-06",
-    location: "Huntley Meadows, VA, USA",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["river"],
+    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
+    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Ring-necked Duck",
+    scientificName: "Aythya collaris",
+    dateFirstSeen: "2021-02-14",
+    location: "Patuxent Research Wildlife Refuge, MD, USA",
     habitat: ["river"],
     notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
     photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
