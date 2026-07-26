@@ -1933,7 +1933,7 @@ const BIRDS = [
   },
   {
     commonName: "Gray Catbird",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Dumetella carolinensis",
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
@@ -1944,7 +1944,7 @@ const BIRDS = [
   
    {
     commonName: "Blue Jay",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Cyanocitta cristata",
     dateFirstSeen: "2020-05-02",
     location: "Backyard, VA, USA",
     habitat: ["urban", "forest"],
@@ -1954,7 +1954,7 @@ const BIRDS = [
   },
   {
     commonName: "Mourning Dove",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Zenaida macroura",
     dateFirstSeen: "2020-05-02",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open woods"],
@@ -1964,7 +1964,7 @@ const BIRDS = [
   },
   {
     commonName: "Canada Goose",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Branta canadensis",
     dateFirstSeen: "2020-06-20",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "river", "urban"],
@@ -1974,7 +1974,7 @@ const BIRDS = [
   },
   {
     commonName: "Common Grackle",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Quiscalus quiscula",
     dateFirstSeen: "2020-06-20",
     location: "Huntley Meadows, VA, USA",
     habitat: ["scrub", "urban"],
