@@ -358,6 +358,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Swamp Sparrow",
+    scientificName: "Melospiza georgiana",
+    dateFirstSeen: "2020-12-29",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["swamp", "marsh"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Ruddy Duck",
     scientificName: "Oxyura jamaicensis",
     dateFirstSeen: "2020-12-20",
