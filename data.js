@@ -862,6 +862,16 @@ const BIRDS = [
     photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
+   {
+    commonName: "Fox Sparrow",
+    scientificName: "Passerella iliaca",
+    dateFirstSeen: "2022-01-08",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest"],
+    notes: "Rare. The first time I saw was when I went to Huntley Meadows for a regular outing when I saw a crowd of birders on the boardwalk. I asked what they were seeing and they told me it was the rail. This was my second rail stakeout in Huntley Meadows. We waited and the rail stuck its head out of a clump of cattails before revealing itself completely and sitting still. I took as many photos as I could. I was especially intrigued at its eyes.",
+    photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
+    videoUrl: ""
+  },
      {
     commonName: "Brant",
     scientificName: "Branta bernicla",
