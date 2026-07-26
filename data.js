@@ -28,6 +28,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Rusty Blackbird",
+    scientificName: "Euphagus carolinus",
+    dateFirstSeen: "2021-03-21",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["swamp"],
+    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
+    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Brown Thrasher",
     scientificName: "Toxostoma rufum",
     dateFirstSeen: "2021-03-29",
