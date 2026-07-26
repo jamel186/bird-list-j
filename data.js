@@ -1984,7 +1984,7 @@ const BIRDS = [
   },
   {
     commonName: "Northern Mockingbird",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Mimus polyglottos",
     dateFirstSeen: "2020-07-03",
     location: "Dyke Marsh, VA, USA",
     habitat: ["scrub", "urban"],
@@ -1994,7 +1994,7 @@ const BIRDS = [
   },
    {
     commonName: "Barn Swallow",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Hirundo rustica",
     dateFirstSeen: "2020-07-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["open field", "urban", "marsh"],
@@ -2004,7 +2004,7 @@ const BIRDS = [
   },
   {
     commonName: "Turkey Vulture",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Cathartes aura",
     dateFirstSeen: "2020-04-29",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
@@ -2014,7 +2014,7 @@ const BIRDS = [
   },
   {
     commonName: "Red-tailed Hawk",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Buteo jamaicensis",
     dateFirstSeen: "2020-04-29",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
@@ -2024,7 +2024,7 @@ const BIRDS = [
   },
   {
     commonName: "American Crow",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Corvus brachyrhynchos",
     dateFirstSeen: "2020-04-29",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
@@ -2034,7 +2034,7 @@ const BIRDS = [
   },
   {
     commonName: "Fish Crow",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Corvus ossifragus",
     dateFirstSeen: "2020-04-29",
     location: "Backyard, VA, USA",
     habitat: ["urban", "river"],
@@ -2044,7 +2044,7 @@ const BIRDS = [
   },
   {
     commonName: "European Starling",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Sturnus vulgaris",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
@@ -2054,7 +2054,7 @@ const BIRDS = [
   },
   {
     commonName: "House Sparrow",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Passer domesticus",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
@@ -2064,7 +2064,7 @@ const BIRDS = [
   },
   {
     commonName: "Song Sparrow",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Melospiza melodia",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
@@ -2074,7 +2074,7 @@ const BIRDS = [
   },
   {
     commonName: "Carolina Wren",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Thryothorus ludovicianus",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
@@ -2083,8 +2083,8 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Rock Dove",
-    scientificName: "Cardinalis cardinalis",
+    commonName: "Rock Pigeon",
+    scientificName: "Columba livia",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
@@ -2094,7 +2094,7 @@ const BIRDS = [
   },
   {
     commonName: "House Finch",
-    scientificName: "Cardinalis cardinalis",
+    scientificName: "Haemorhous mexicanus",
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
