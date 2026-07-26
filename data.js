@@ -792,6 +792,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "American Redstart",
+    scientificName: "Setophaga ruticilla",
+    dateFirstSeen: "2021-08-14",
+    location: "Shenandoah National Park, VA, USA",
+    habitat: ["forest"],
+    notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
+    photos: [{ file: "nowa.JPG", caption: "Dyke Marsh, 8/28/21" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Northern Waterthrush",
     scientificName: "Parkesia noveboracensis",
     dateFirstSeen: "2021-08-28",
