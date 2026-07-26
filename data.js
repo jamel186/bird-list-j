@@ -60,7 +60,7 @@ const BIRDS = [
   {
     commonName: "American Goldfinch",
     scientificName: "Spinus tristis",
-    dateFirstSeen: "2020-08-22",
+    dateFirstSeen: "2020-07-25",
     location: "Anacostia Park, DC, USA",
     habitat: ["meadow"],
     notes: "Common in all types of open habitats with seeds. Its potato-chip call can be heard throughout winter, and its warbling song can be heard all spring. A striking bird in the summer, it turns a more muted yellow in the winter.",
@@ -1273,9 +1273,9 @@ const BIRDS = [
   {
     commonName: "Laughing Gull",
     scientificName: "Leucophaeus atricilla",
-    dateFirstSeen: "2022-04-11",
-    location: "Fort De Soto Park, FL, USA",
-    habitat: ["beach"],
+    dateFirstSeen: "2020-08-22",
+    location: "Anacostia Park, DC, USA",
+    habitat: ["beach", "river"],
     notes: "Common on Southeastern beaches. The call actually does sound like somebody laughing.",
     photos: [{ file: "laughing.JPG", caption: "In the very center of the large flock, with the black head" }],
     videoUrl: ""
@@ -1537,6 +1537,17 @@ const BIRDS = [
   },
     {
     commonName: "Red-winged Blackbird",
+    scientificName: "Agelaius phoeniceus",
+    dateFirstSeen: "2020-05-25",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh"],
+    notes: "Very common in marshes across the area. The first time I saw them, I was amazed at the red and yellow wing patches of the males and their conk-a-ree songs.",
+    photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
+            { file: "redMergF.JPG", caption: "4/3/2023" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Mallard",
     scientificName: "Agelaius phoeniceus",
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
@@ -1903,7 +1914,7 @@ const BIRDS = [
   {
     commonName: "American Robin",
     scientificName: "Turdus migratorius",
-    dateFirstSeen: "2020-04-03",
+    dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "forest"],
     notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
@@ -1916,6 +1927,137 @@ const BIRDS = [
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Gray Catbird",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-05-01",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "scrub"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  
+   {
+    commonName: "Blue Jay",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-05-02",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "forest"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Mourning Dove",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-05-02",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "open woods"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Canada Goose",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-06-20",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh", "river", "urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Northern Mockingbird",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-07-03",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["scrub", "urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+   {
+    commonName: "Barn Swallow",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-07-26",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["open field", "urban", "marsh"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Turkey Vulture",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-29",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "open field"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "American Crow",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-29",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "open field"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Fish Crow",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-29",
+    location: "Backyard, VA, USA",
+    habitat: ["urban", "river"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "European Starling",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "House Sparrow",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "Rock Dove",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
+    commonName: "House Finch",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-04-30",
+    location: "Backyard, VA, USA",
+    habitat: ["urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
     photos: [{file: "cardinalM.JPG"}],
     videoUrl: ""
