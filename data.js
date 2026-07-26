@@ -2252,7 +2252,7 @@ const BIRDS = [
    {
     commonName: "Tree Swallow",
     scientificName: "Tachycineta bicolor",
-    dateFirstSeen: "2021-04-03",
+    dateFirstSeen: "2021-04-10",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "open water", "open field"],
     notes: "very nice",
