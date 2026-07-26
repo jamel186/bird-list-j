@@ -589,6 +589,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eastern Wood-pewee",
+    scientificName: "Contopus virens",
+    dateFirstSeen: "2021-05-29",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
+    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Common Yellowthroat",
     scientificName: "Geothlypis trichas",
     dateFirstSeen: "2021-05-02",
