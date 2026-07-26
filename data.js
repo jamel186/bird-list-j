@@ -1973,6 +1973,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Common Grackle",
+    scientificName: "Cardinalis cardinalis",
+    dateFirstSeen: "2020-06-20",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["scrub", "urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG"}],
+    videoUrl: ""
+  },
+  {
     commonName: "Northern Mockingbird",
     scientificName: "Cardinalis cardinalis",
     dateFirstSeen: "2020-07-03",
