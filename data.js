@@ -2125,7 +2125,7 @@ const BIRDS = [
   {
     commonName: "Belted Kingfisher",
     scientificName: "Megaceryle alcyon",
-    dateFirstSeen: "2021-07-22",
+    dateFirstSeen: "2020-12-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "swamp", "river"],
     notes: "Rattling call announced it before I spotted it — perched on a dead branch over the creek, then plunged headfirst for a fish. Females have the rufous belly band.",
