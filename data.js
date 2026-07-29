@@ -2529,6 +2529,16 @@ const BIRDS = [
     photos: [{file:"kestrel.JPG", caption:"A colorful and handsome little falcon resting at the top of a snag"}],
     videoUrl: ""
   },
+  {
+    commonName: "Bay-breasted Warbler",
+    scientificName: "Setophaga castanea",
+    dateFirstSeen: "2024-09-21",
+    location: "Meadowood Mustang Trailhead, VA, USA",
+    habitat: ["forest"],
+    notes: "Rare. A small falcon found in large open fields that have snags for nesting.",
+    photos: [{file:"kestrel.JPG", caption:"A colorful and handsome little falcon resting at the top of a snag"}],
+    videoUrl: ""
+  },
     {
     commonName: "Purple Gallinule",
     scientificName: "Porphyrio martinica",
