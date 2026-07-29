@@ -619,6 +619,36 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Lesser Yellowlegs",
+    scientificName: "Tringa flavipes",
+    dateFirstSeen: "2021-05-02",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["marsh"],
+    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
+    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Greater Yellowlegs",
+    scientificName: "Tringa melanoleuca",
+    dateFirstSeen: "2021-05-02",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["marsh"],
+    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
+    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Solitary Sandpiper",
+    scientificName: "Tringa solitaria",
+    dateFirstSeen: "2021-05-02",
+    location: "Huntley Meadows Hike & Bike, VA, USA",
+    habitat: ["marsh"],
+    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
+    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Great Crested Flycatcher",
     scientificName: "Myiarchus crinitus",
     dateFirstSeen: "2021-05-02",
