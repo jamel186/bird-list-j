@@ -1357,6 +1357,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Chestnut-sided Warbler",
+    scientificName: "Setophaga pensylvanica",
+    dateFirstSeen: "2022-05-02",
+    location: "Backyard, VA, USA",
+    habitat: ["open woods"],
+    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
+    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Yellow-throated Vireo",
     scientificName: "Vireo flavifrons",
     dateFirstSeen: "2022-05-15",
