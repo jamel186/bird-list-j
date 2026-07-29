@@ -912,6 +912,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Savannah Sparrow",
+    scientificName: "Passerculus sandwichensis",
+    dateFirstSeen: "2021-04-24",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["open field", "marsh", "beach"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Blue-gray Gnatcatcher",
     scientificName: "Polioptila caerulea",
     dateFirstSeen: "2021-04-09",
