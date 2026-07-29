@@ -38,6 +38,36 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Cooper's Hawk",
+    scientificName: "Astur cooperii",
+    dateFirstSeen: "2021-10-10",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["forest", "urban"],
+    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
+    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Common Merganser",
+    scientificName: "Mergus merganser",
+    dateFirstSeen: "2021-02-27",
+    location: "Kennilworth Aquatic Gardens, DC, USA",
+    habitat: ["marsh", "river"],
+    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
+    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Pied-billed Grebe",
+    scientificName: "Podilymbus podiceps",
+    dateFirstSeen: "2021-03-06",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["marsh", "river"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Brown Thrasher",
     scientificName: "Toxostoma rufum",
     dateFirstSeen: "2021-03-29",
@@ -65,6 +95,16 @@ const BIRDS = [
     habitat: ["forest"],
     notes: "An uncommon migrant in the spring. Becomes more common in the fall. It has a two parted song and a yellow belly with a white eye-ring.",
     photos: [{ file: "thrasher.JPG", caption: "Feeding in a low tree" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Double-crested Cormorant",
+    scientificName: "Nannopterum auritum",
+    dateFirstSeen: "2020-08-08",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["river", "open water", "ocean"],
+    notes: "Common in all types of open habitats with seeds. Its potato-chip call can be heard throughout winter, and its warbling song can be heard all spring. A striking bird in the summer, it turns a more muted yellow in the winter.",
+    photos: [{ file: "goldfinch.JPG", caption: "First photo of Goldfinch. Male eating a thistle during the late summer. Shows its affinity for seeds" }],
     videoUrl: ""
   },
   {
@@ -674,6 +714,16 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
+    notes: "An elegant bird of open water and marshes. It is absolutely striking during breeding season, with a green skin patch behind the bill and long plumes.",
+    photos: [{ file: "greatEgret.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
+    videoUrl: ""
+  },
+  {
+    commonName: "Hooded Merganser",
+    scientificName: "Lophodytes cucullatus",
+    dateFirstSeen: "2020-09-05",
+    location: "Huntley Meadows, VA, USA",
+    habitat: ["marsh", "swamp"],
     notes: "An elegant bird of open water and marshes. It is absolutely striking during breeding season, with a green skin patch behind the bill and long plumes.",
     photos: [{ file: "greatEgret.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
     videoUrl: ""
