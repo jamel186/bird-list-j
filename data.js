@@ -2173,6 +2173,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Chimney Swift",
+    scientificName: "Chaetura pelagica",
+    dateFirstSeen: "2020-06-20",
+    location: "Backyard, VA, USA",
+    habitat: ["urban"],
+    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    videoUrl: ""
+  },
+  {
     commonName: "Northern Mockingbird",
     scientificName: "Mimus polyglottos",
     dateFirstSeen: "2020-07-03",
