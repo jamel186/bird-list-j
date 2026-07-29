@@ -1346,6 +1346,16 @@ const BIRDS = [
     photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
     videoUrl: ""
   },
+   {
+    commonName: "Yellow-breasted Chat",
+    scientificName: "Icteria virens",
+    dateFirstSeen: "2022-05-28",
+    location: "Occoquan Bay NWR, VA, USA",
+    habitat: ["scrub"],
+    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
+    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    videoUrl: ""
+  },
   {
     commonName: "Summer Tanager",
     scientificName: "Piranga rubra",
