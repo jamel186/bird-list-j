@@ -1368,6 +1368,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eastern Warbling Vireo",
+    scientificName: "Vireo gilvus",
+    dateFirstSeen: "2020-05-30",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["open woods", "river"],
+    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
+    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Spotted Sandpiper",
     scientificName: "Actitis macularius",
     dateFirstSeen: "2022-05-08",
