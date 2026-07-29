@@ -1368,6 +1368,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Northern Rough-winged Swallow",
+    scientificName: "Stelgidopteryx serripennis",
+    dateFirstSeen: "2022-05-08",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["river", "marsh"],
+    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
+    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Nanday Parakeet",
     scientificName: "Aratinga nenday",
     dateFirstSeen: "2022-04-11",
@@ -2412,7 +2422,7 @@ const BIRDS = [
    {
     commonName: "Tree Swallow",
     scientificName: "Tachycineta bicolor",
-    dateFirstSeen: "2021-04-10",
+    dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "open water", "open field"],
     notes: "very nice",
