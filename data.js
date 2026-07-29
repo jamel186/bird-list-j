@@ -498,6 +498,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Yellow-rumped Warbler",
+    scientificName: "Setophaga coronata",
+    dateFirstSeen: "2020-12-25",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["forest"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Ring-billed Gull",
     scientificName: "Larus delawarensis",
     dateFirstSeen: "2020-12-25",
@@ -835,6 +845,16 @@ const BIRDS = [
     commonName: "Northern Parula",
     scientificName: "Setophaga americana",
     dateFirstSeen: "2021-05-01",
+    location: "Prince William Forest Park, VA, USA",
+    habitat: ["forest"],
+    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
+    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    videoUrl: ""
+  },
+   {
+    commonName: "Blackpoll Warbler",
+    scientificName: "Setophaga striata",
+    dateFirstSeen: "2021-05-29",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
@@ -2582,6 +2602,16 @@ const BIRDS = [
      {
     commonName: "Tennessee Warbler",
     scientificName: "Leiothlypis peregrina",
+    dateFirstSeen: "2024-05-11",
+    location: "Meadowood Mustang Trailhead, VA, USA",
+    habitat: ["forest", "swamp"],
+    notes: "Heard but did not see the bird in a swampy area in the park right by some development",
+    photos: [],
+    videoUrl: ""
+  },
+  {
+    commonName: "Magnolia Warbler",
+    scientificName: "Setophaga magnolia",
     dateFirstSeen: "2024-05-11",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["forest", "swamp"],
