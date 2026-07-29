@@ -33,8 +33,8 @@ const BIRDS = [
     dateFirstSeen: "2021-03-21",
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp"],
-    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
-    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    notes: "Uncommon. Present in small flocks in places like Huntley Meadows in the winter. Has a distinct, rusty hinge like call.",
+    photos: [{ file: "rusty.JPG", caption: "Calling in a tree by the marsh" }],
     videoUrl: ""
   },
   {
@@ -43,8 +43,8 @@ const BIRDS = [
     dateFirstSeen: "2021-10-10",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "urban"],
-    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
-    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    notes: "Uncommon. They are much more conspicuous when it is snowing in my experience. Have seen a few in the neighborhood and in places like Huntley Meadows.",
+    photos: [{ file: "cooper.JPG", caption: "On an electrical pole while snowing" }],
     videoUrl: ""
   },
   {
@@ -53,8 +53,8 @@ const BIRDS = [
     dateFirstSeen: "2021-02-27",
     location: "Kennilworth Aquatic Gardens, DC, USA",
     habitat: ["marsh", "river"],
-    notes: "Uncommon. Differentiated from Mockingbirds and Catbirds by its song that repeats phrases only twice. An early migrant, usually coming in February and March.",
-    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    notes: "Uncommon on rivers and in marshes during the winter. Have only seen a couple at Kennilworth. The bright red bill is distinctive.",
+    photos: [{ file: "commonMerganser.JPG", caption: "A flock resting on the edge of the water" }],
     videoUrl: ""
   },
   {
@@ -63,8 +63,8 @@ const BIRDS = [
     dateFirstSeen: "2021-03-06",
     location: "Dyke Marsh, VA, USA",
     habitat: ["marsh", "river"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon in the area. A small grebe with a distinctive band on the bill. Hangs out in the river and in marshes during the winter",
+    photos: [{ file: "piedBill.JPG", caption: "Floating on the river" }],
     videoUrl: ""
   },
   {
