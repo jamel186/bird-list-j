@@ -769,16 +769,6 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "Hooded Merganser",
-    scientificName: "Lophodytes cucullatus",
-    dateFirstSeen: "2020-09-05",
-    location: "Huntley Meadows, VA, USA",
-    habitat: ["marsh", "swamp"],
-    notes: "An elegant bird of open water and marshes. It is absolutely striking during breeding season, with a green skin patch behind the bill and long plumes.",
-    photos: [{ file: "greatEgret.JPG", caption: "Resting by a stream in breeding plumage in Korea" }],
-    videoUrl: ""
-  },
-  {
     commonName: "Snow Goose",
     scientificName: "Anser caerulescens",
     dateFirstSeen: "2021-12-18",
