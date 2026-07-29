@@ -1297,6 +1297,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Yellow-billed Cuckoo",
+    scientificName: "Coccyzus americanus",
+    dateFirstSeen: "2022-05-28",
+    location: "Occoquan Bay NWR, VA, USA",
+    habitat: ["forest"],
+    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
+    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Summer Tanager",
     scientificName: "Piranga rubra",
     dateFirstSeen: "2022-05-21",
