@@ -84,7 +84,7 @@ const BIRDS = [
     location: "National Arboretum, DC, USA",
     habitat: ["meadow"],
     notes: "Common in large meadows during the summer, where it sings its bouncing ball song. In the winter, it is found in any small field.",
-    photos: [{ file: "thrasher.JPG", caption: "On the ground flipping over leaves for food" }],
+    photos: [{ file: "fieldSparrow.JPG", caption: "Singing its bouncing ball song on a seedhead" }],
     videoUrl: ""
   },
   {
@@ -94,7 +94,7 @@ const BIRDS = [
     location: "National Arboretum, DC, USA",
     habitat: ["forest"],
     notes: "An uncommon migrant in the spring. Becomes more common in the fall. It has a two parted song and a yellow belly with a white eye-ring.",
-    photos: [{ file: "thrasher.JPG", caption: "Feeding in a low tree" }],
+    photos: [{ file: "nashville.JPG", caption: "Feeding in a low tree" }],
     videoUrl: ""
   },
   {
@@ -103,8 +103,8 @@ const BIRDS = [
     dateFirstSeen: "2020-08-08",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "open water", "ocean"],
-    notes: "Common in all types of open habitats with seeds. Its potato-chip call can be heard throughout winter, and its warbling song can be heard all spring. A striking bird in the summer, it turns a more muted yellow in the winter.",
-    photos: [{ file: "goldfinch.JPG", caption: "First photo of Goldfinch. Male eating a thistle during the late summer. Shows its affinity for seeds" }],
+    notes: "Very common in rivers and other open waters, both freshwater and saltwater. Frequently found drying its wings on posts sticking out of the water.",
+    photos: [{ file: "doubleCormorant.JPG", caption: "Resting on a post. Note its orange throat patch and almost iridescent feathers." }],
     videoUrl: ""
   },
   {
