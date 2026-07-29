@@ -579,6 +579,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Eastern Towhee",
+    scientificName: "Pipilo erythrophthalmus",
+    dateFirstSeen: "2020-09-26",
+    location: "Meadowlark Botanical Gardens, VA, USA",
+    habitat: ["scrub"],
+    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    videoUrl: ""
+  },
+  {
     commonName: "White-breasted Nuthatch",
     scientificName: "Sitta carolinensis",
     dateFirstSeen: "2020-09-26",
