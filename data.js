@@ -1296,6 +1296,16 @@ const BIRDS = [
     photos: [],
     videoUrl: ""
   },
+   {
+    commonName: "Cerulean Warbler",
+    scientificName: "Setophaga cerulea",
+    dateFirstSeen: "2022-06-04",
+    location: "Shenandoah National Park, VA, USA",
+    habitat: ["forest"],
+    notes: "A rare migrant to the area. Mainly breeds in the Blue Ridge Mountains, in places like Shenandoah and GR Thompson WMA. Have only heard one singing at Shenandoah. Hangs out in the ground under thick underbrush.",
+    photos: [],
+    videoUrl: ""
+  },
   {
     commonName: "Common Raven",
     scientificName: "Corvus corax",
