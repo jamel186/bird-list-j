@@ -1348,6 +1348,16 @@ const BIRDS = [
     videoUrl: ""
   },
   {
+    commonName: "Spotted Sandpiper",
+    scientificName: "Actitis macularius",
+    dateFirstSeen: "2022-05-08",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["river"],
+    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
+    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    videoUrl: ""
+  },
+  {
     commonName: "Nanday Parakeet",
     scientificName: "Aratinga nenday",
     dateFirstSeen: "2022-04-11",
