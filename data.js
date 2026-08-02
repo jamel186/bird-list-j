@@ -514,8 +514,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "coast"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common gull during the winter inland. Its ring on its bill is distinctive.",
+    photos: [{ file: "ringBill.JPG", caption: "Sitting by the water" }],
     videoUrl: ""
   },
   {
@@ -544,8 +544,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon in marshes like Huntley and Dyke. Hard to see, have to look at the reeds shaking unnaturally. Very small, about sparrow sized.",
+    photos: [{ file: "sora.JPG", caption: "Skulking under the Rose Mallow bushes" }],
     videoUrl: ""
   },
   {
@@ -554,8 +554,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-18",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common resident bird. Commonly seen in inland marshes surrounded by trees, like Huntley. The male is striking in appearance and the female is elegant, commonly seen with a line of chicks following her in late May and June.",
+    photos: [{ file: "hoodedMerg.JPG", caption: "Flock of them feeding at Huntley" }],
     videoUrl: ""
   },
   {
@@ -564,8 +564,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-30",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common winter migrant. Found in marshes probing the mud and ground for food. Hard to see at times because of camoflauge.",
+    photos: [{ file: "snipe.JPG", caption: "Try to find the bird! It is in the left if you weren't able to find it." }],
     videoUrl: ""
   },
   {
