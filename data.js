@@ -183,8 +183,8 @@ const BIRDS = [
     dateFirstSeen: "2020-10-31",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "hermit.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon winter migrant in the area. Frequents larger forests and associates with Chickadee flocks.",
+    photos: [{ file: "hermit.JPG", caption: "Sitting in a low tree" }],
     videoUrl: ""
   },
   {
@@ -243,8 +243,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-14",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "junco.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common during the winter. Its thip and Carolina Wren like trill call are distinctive. White outer tail feathers are also distinctive. The same flock comes to the same location every year.",
+    photos: [{ file: "junco.JPG", caption: "Sitting in a meadow" }],
     videoUrl: ""
   },
   {
@@ -253,8 +253,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "carolinaChickadee.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common resident bird. Many birds flock around the Chickadee, especially Titmice and Nuthatches. Chickadee call is distinctive.",
+    photos: [{ file: "carolinaChickadee.JPG", caption: "Feeding in a tree. Found with Titmice and Nuthatches" }],
     videoUrl: ""
   },
   {
@@ -263,8 +263,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "titmouse.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common resident bird. Almost always associates with Chickadees. Calls are a bit harsher than Chickadees and is larger. The song is commonly heard in the early Spring.",
+    photos: [{ file: "titmouse.JPG", caption: "Feeding with Chickadees in the treetops" }],
     videoUrl: ""
   },
   {
@@ -273,8 +273,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-15",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest", "urban"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "houseFinch.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common backyard bird. Has less red compared to the Purple Finch. Sounds like a House Sparrow but is more whistled.",
+    photos: [{ file: "houseFinch.JPG", caption: "Resting in brambles after feeding" }],
     videoUrl: ""
   },
   {
@@ -353,8 +353,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common winter bird. The complex, rolling song is commonly heard in early Spring. The harsh two parted call is distinctive. The ruby crown is actually quite hard to see. Commonly flicks its wings",
+    photos: [{ file: "rubyCrown.JPG", caption: "Its ruby crown is partially visible in the photo" }],
     videoUrl: ""
   },
   {
@@ -363,8 +363,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-27",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common winter bird. Sounds similar to the Brown Creeper, but usually gives call in bursts of 3-4. Commonly associates with Ruby-crowns and Chickadees. Its golden crown is hard to see",
+    photos: [{ file: "goldenCrown.JPG", caption: "Feeding with Chickadees and Ruby-crowns" }],
     videoUrl: ""
   },
   {
@@ -373,8 +373,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-28",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon winter migrant. Associates with Chickadees and Nuthatches. Hard to see because it is camoflauged.",
+    photos: [{ file: "sanderlingFlock.JPG", caption: "Climbing upside down on a tree." }],
     videoUrl: ""
   },
   {
@@ -403,8 +403,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-13",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon winter migrant. More common in certain years compared to others, depends on the irruption. A handsome, small bird. Its call is a more nasal version of the White-breasted call",
+    photos: [{ file: "redBreasted.JPG", caption: "Feeding on pine seeds" }],
     videoUrl: ""
   },
   {
@@ -413,8 +413,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-29",
     location: "Huntley Meadows, VA, USA",
     habitat: ["swamp", "marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common sparrow in swamps and marshes. Its trilling song is commonly heard in the Spring. A handsome little russet colored bird",
+    photos: [{ file: "swampSparrow.JPG", caption: "Feeding on top of the frozen water" }],
     videoUrl: ""
   },
   {
@@ -423,8 +423,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common winter migrant. Seen in large areas of open water, like Mason Neck. Its dark head and stiff tail are distinctive from a distance.",
+    photos: [{ file: "ruddyDuck.JPG", caption: "One amongst a flock of hundreds" }],
     videoUrl: ""
   },
   {
@@ -433,8 +433,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common winter migrant. Seen by the hundreds in open water. Has a narrower head compared to the Greater Scaup",
+    photos: [{ file: "lesserScaup.JPG", caption: "Narrower head compared to the Greater Scaup" }],
     videoUrl: ""
   },
   {
@@ -443,8 +443,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Mumon winter migrant. Seen by the hundreds in open water. Has a wider head compared to the Lesser Scaup and is slightly larger",
+    photos: [{ file: "greaterScaup.JPG", caption: "Flock of them floating on the water" }],
     videoUrl: ""
   },
   {
