@@ -233,8 +233,8 @@ const BIRDS = [
     dateFirstSeen: "2020-11-07",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A very common sparrow during the winter. In all environments with leaf litter. Makes a distinctive seet sound and creates small flocks of around 20 birds. Some have white stripes and others have tan stripes. Interestingly, there are behavioral differences between the two morphs.",
+    photos: [{ file: "whiteThroated.JPG", caption: "White striped morph on top of the snow" }],
     videoUrl: ""
   },
   {
@@ -244,7 +244,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "junco.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -254,7 +254,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "carolinaChickadee.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -264,7 +264,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "titmouse.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -274,7 +274,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest", "urban"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "houseFinch.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
