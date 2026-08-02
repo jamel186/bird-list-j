@@ -463,8 +463,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon winter migrant. Associates with rafts of Lesser and Greater Scaups. Its red head is distinctive",
+    photos: [{ file: "redhead.JPG", caption: "Quality is quite interesting. However red head is distinctive" }],
     videoUrl: ""
   },
   {
@@ -473,8 +473,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["open water"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common winter migrant. Seen by the hundreds in mixed species rafts on large, open water. Small size and white rear head patch is distinctive.",
+    photos: [{ file: "bufflehead.JPG", caption: "Flock of them on the water" }],
     videoUrl: ""
   },
   {
@@ -483,8 +483,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-30",
     location: "Pohick Bay Regional Park, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon winter migrant. Seen in larger forests and migration is based on irruption. A small, deep brown bird",
+    photos: [{ file: "winterWren.JPG", caption: "Sitting in a shrub by the road" }],
     videoUrl: ""
   },
   {
@@ -493,8 +493,9 @@ const BIRDS = [
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common migrant to the area. Its cheerful song is common early in migration season and it is an uncommon breeder. More commonly seen overwintering by the river.",
+    photos: [{ file: "baltimoreF.JPG", caption: "Wintering in Dyke Marsh" },
+            { file: "baltimoreM.JPG", caption: "Orange belly can be seen in the left of the photo" }],
     videoUrl: ""
   },
   {
@@ -503,8 +504,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-25",
     location: "Dyke Marsh, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common during Winter and migration season. Its ritardando call is very common in the first week of May. Its sharp chek calls are common in the Winter, where it is given by flocks of many dozens of warblers. Frequents open areas with seedheads and berries.",
+    photos: [{ file: "yellowRump.JPG", caption: "Male singing in the last week of April" }],
     videoUrl: ""
   },
   {
