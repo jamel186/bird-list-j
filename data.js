@@ -585,8 +585,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["scrub"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common resident bird in the area. Associates with White-throated Sparrows during the Winter. Its drink-your-tea song is commonly heard in April and May. Lives in thick brambles and shrubs.",
+    photos: [{ file: "towhee.JPG", caption: "Male on a path in the Winter" }],
     videoUrl: ""
   },
   {
@@ -595,8 +595,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common resident bird. Almost always associates with Chickadees. Makes its yank calls while climbing up and down trees. Caches nuts in trees, hence the name",
+    photos: [{ file: "whiteBreasted.JPG", caption: "Caching nuts in a hole in a tree" }],
     videoUrl: ""
   },
    {
@@ -625,8 +625,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["swamp"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Uncommon migrating bird. Heard late in the season in dense thickets and swampy areas. Has a distinctive, complex song.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -635,8 +635,9 @@ const BIRDS = [
     dateFirstSeen: "2021-05-14",
     location: "Dyke Marsh, VA, USA",
     habitat: ["open field"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common breeder in the area. Breeds at my school, chasing away the Ospreys that breed there as well. Has a red crown that is very hard to see.",
+    photos: [{ file: "kingbird.JPG", caption: "Perched on a dead branch, waiting for flies" },
+            { file: "kingbirdChick.JPG", caption: "Chicks begging for food in the parking lot of my school. Was very very loud" }],
     videoUrl: ""
   },
   {
