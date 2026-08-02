@@ -2375,16 +2375,6 @@ const BIRDS = [
     videoUrl: ""
   },
   {
-    commonName: "House Finch",
-    scientificName: "Haemorhous mexicanus",
-    dateFirstSeen: "2020-04-30",
-    location: "Backyard, VA, USA",
-    habitat: ["urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
-    videoUrl: ""
-  },
-  {
     commonName: "Great Blue Heron",
     scientificName: "Ardea herodias",
     dateFirstSeen: "2020-05-25",
