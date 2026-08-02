@@ -637,7 +637,7 @@ const BIRDS = [
     habitat: ["open field"],
     notes: "A common breeder in the area. Breeds at my school, chasing away the Ospreys that breed there as well. Has a red crown that is very hard to see.",
     photos: [{ file: "kingbird.JPG", caption: "Perched on a dead branch, waiting for flies" },
-            { file: "kingbirdChick.jpeg", caption: "Chicks begging for food in the parking lot of my school. Was very very loud" }],
+            { file: "kingbirdChick.JPG", caption: "Chicks begging for food in the parking lot of my school. Was very very loud" }],
     videoUrl: ""
   },
   {
