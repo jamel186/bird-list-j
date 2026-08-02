@@ -184,7 +184,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "hermit.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -998,8 +998,8 @@ const BIRDS = [
     dateFirstSeen: "2022-01-08",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
-    notes: "Rare. The first time I saw was when I went to Huntley Meadows for a regular outing when I saw a crowd of birders on the boardwalk. I asked what they were seeing and they told me it was the rail. This was my second rail stakeout in Huntley Meadows. We waited and the rail stuck its head out of a clump of cattails before revealing itself completely and sitting still. I took as many photos as I could. I was especially intrigued at its eyes.",
-    photos: [{ file: "vaRail.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Uncommon winter migrant to the area. A very large sparrow, have only seen a couple times at Huntley Meadows. A pretty sparrow.",
+    photos: [{ file: "foxSparrow.JPG", caption: "In a low tree during the winter" }],
     videoUrl: ""
   },
      {
