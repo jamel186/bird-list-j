@@ -374,7 +374,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon winter migrant. Associates with Chickadees and Nuthatches. Hard to see because it is camoflauged.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Climbing upside down on a tree." }],
+    photos: [{ file: "creeper.JPG", caption: "Climbing upside down on a tree." }],
     videoUrl: ""
   },
   {
