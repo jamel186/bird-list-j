@@ -717,7 +717,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Very common during the first two or three weeks of May. Its buzzy song is distinctive. Its white wing patch on both males and females is also distinctive.",
-    photos: [{ file: "blackBlue.JPG", caption: "Singing in a low tree" }],
+    photos: [{ file: "blackBlue.JPG", caption: "Feeding and singing in a low tree" }],
     videoUrl: ""
   },
   {
