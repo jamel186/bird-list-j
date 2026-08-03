@@ -657,7 +657,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["marsh"],
     notes: "A common marshpiper during migration. Differs from its lesser cousin by its longer bill. Learned this from Audubon Magazine, if you imagine the bill being pushed into the bird's head, the Greater's bill would stick out of the back. A bit grotesque, but works.",
-    photos: [{ file: "greaterYellow.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    photos: [{ file: "greaterYellow.JPG", caption: "Feeding amongst the plants in the marsh" }],
     videoUrl: ""
   },
   {
@@ -687,7 +687,7 @@ const BIRDS = [
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
     notes: "Very common breeder in the area. Its pee-a-wee song is heard throughout the summer in forests. Slightly larger than the empids and does not have an eyering.",
-    photos: [{ file: "pewee.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    photos: [{ file: "pewee.JPG", caption: "Sitting on a perch and sallying for flying insects." }],
     videoUrl: ""
   },
   {
@@ -697,7 +697,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Very common warbler in migration and a common breeder in the area. Breeds in marshes and forests that border right by marshes and meadows. Males are recognizable by their bandit masks and their wichity songs.",
-    photos: [{ file: "yellowthroat.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "yellowthroat.JPG", caption: "Sitting on a perch and was singing" }],
     videoUrl: ""
   },
   {
@@ -707,7 +707,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "Common in the right places during the Spring and Summer. Frequently found in Huntley Meadow's Hike & Bike Trail, right near the end of the trail before the observation deck. Very hard to see, as it feeds deep in brambles and shrubs.",
-    photos: [{ file: "whiteEyedVireo.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "whiteEyedVireo.JPG", caption: "Bit blurry, a very active little bird" }],
     videoUrl: ""
   },
   {
