@@ -2508,7 +2508,7 @@ const BIRDS = [
     location: "Mason District Park, VA, USA",
     habitat: ["forest"],
     notes: "Uncommon bird during migration season. Migrates quite early, in late March and April, same season as the Waterthrushes and Pine & Palm Warblers. Saw one in late October associating with Chickadees and Kinglets in a foraging flock",
-    photos: [{file:"blueHeaded.JPG", caption: "Feeding in a mixed species flock, blue head is clearly visible"}],
+    photos: [{file:"blueHeaded.JPG", caption: "Feeding in a mixed species flock, blue head and white eyering is clearly visible"}],
     videoUrl: ""
   },
     {
