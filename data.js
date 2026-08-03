@@ -646,8 +646,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["marsh"],
-    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
-    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    notes: "A common marshpiper during migration. Many are found in Huntley Meadows during April and late August, usually near the muddy edges of the water.",
+    photos: [{ file: "lesserYellow.JPG", caption: "Feeding on the muddy edges of the water" }],
     videoUrl: ""
   },
   {
@@ -656,8 +656,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["marsh"],
-    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
-    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    notes: "A common marshpiper during migration. Differs from its lesser cousin by its longer bill. Learned this from Audubon Magazine, if you imagine the bill being pushed into the bird's head, the Greater's bill would stick out of the back. A bit grotesque, but works.",
+    photos: [{ file: "greaterYellow.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
     videoUrl: ""
   },
   {
@@ -666,8 +666,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["marsh"],
-    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
-    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    notes: "A common marshpiper during migration. Always by itself, although comes at the same time as the Yellowlegs. Browner, smaller, and does not have yellow legs.",
+    photos: [{ file: "solitary.JPG", caption: "Feeding in the shallows" }],
     videoUrl: ""
   },
   {
@@ -686,8 +686,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-29",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "A large flycatcher of open forests. Its wheap call is constantly heard in forests throughout the summer. Has a bright yellow belly and uses snake-skin in its cavity nests as bedding and predator deterrant.",
-    photos: [{ file: "greatCrest.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
+    notes: "Very common breeder in the area. Its pee-a-wee song is heard throughout the summer in forests. Slightly larger than the empids and does not have an eyering.",
+    photos: [{ file: "pewee.JPG", caption: "Sitting on a perch and sallying for flying insects. Note bright yellow belly" }],
     videoUrl: ""
   },
   {
@@ -696,8 +696,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common warbler in migration and a common breeder in the area. Breeds in marshes and forests that border right by marshes and meadows. Males are recognizable by their bandit masks and their wichity songs.",
+    photos: [{ file: "yellowthroat.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -706,8 +706,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Common in the right places during the Spring and Summer. Frequently found in Huntley Meadow's Hike & Bike Trail, right near the end of the trail before the observation deck. Very hard to see, as it feeds deep in brambles and shrubs.",
+    photos: [{ file: "whiteEyedVireo.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -716,8 +716,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-08",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Very common during the first two or three weeks of May. Its buzzy song is distinctive. Its white wing patch on both males and females is also distinctive.",
+    photos: [{ file: "blackBlue.JPG", caption: "Singing in a low tree" }],
     videoUrl: ""
   },
   {
