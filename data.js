@@ -727,7 +727,7 @@ const BIRDS = [
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
     notes: "A common migrating warbler during the last weeks of April and first 2 weeks of May. Its trees trees trees I love trees song is distinctive. Loves to hang out at the very top of the trees",
-    photos: [{ file: "blackGreen.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "blackGreen.JPG", caption: "Feeding amongst a mixed flock of warblers during the fall" }],
     videoUrl: ""
   },
    {
@@ -747,7 +747,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "A common resident of marshes and swamps from April to October. Many are found in Huntley Meadows, hunting in the shallows and spearing small fish and crayfish.",
-    photos: [{ file: "greenHeron.JPG", caption: "Flock of Sanderlings on shore" }],
+    photos: [{ file: "greenHeron.JPG", caption: "Resting on a snag in a cypress swamp" }],
     videoUrl: ""
   },
   {
@@ -756,8 +756,9 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Surprisingly quite common along the Potomac River. Many breed in riverside parks like Mason Neck and Occoquan NWR. There is a breeding pair on my school's monopole as well. Its call is a piercing chirp, surprisingly weak for its size and demeanor.",
-    photos: [{ file: "osprey.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Surprisingly quite common during the Spring and Summer along the Potomac River. Many breed in riverside parks like Mason Neck and Occoquan NWR. There is a breeding pair on my school's monopole as well. Its call is a piercing chirp, surprisingly weak for its size and demeanor.",
+    photos: [{ file: "osprey.JPG", caption: "On its nest by the Patuxent River. Notice how it has plastic bags in its nest" },
+            { file: "ospreyNest.JPG", caption: "The nest at my school" }],
     videoUrl: ""
   },
   {
@@ -809,7 +810,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Common winter resident in places like Huntley Meadows. The smallest duck in North America, and when looking at it you can tell. A handsome little bird.",
-    photos: [{ file: "greenTeal.JPG", caption: "Small flock floating in the shallows" }],
+    photos: [{ file: "greenTeal.JPG", caption: "Small flock floating in the shallows. Notice the beige rump and white stripe on the shoulder of the male" }],
     videoUrl: ""
   },
   {
@@ -819,7 +820,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "river"],
     notes: "Quite common in swamps and woods near streams and waterbodies. Its wheezy fee-bee song is heard in March and April in places like Huntley Meadows. Constantly flicks its tail",
-    photos: [{ file: "phoebe.JPG", caption: "In Holly Tree, backyard" }],
+    photos: [{ file: "phoebe.JPG", caption: "Flicking its tail in a low shrub" }],
     videoUrl: ""
   },
   {
@@ -1436,7 +1437,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["river"],
     notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
-    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    photos: [{ file: "spottedSandpiper.JPG", caption: "Feeding on the rocks by the river's shore" }],
     videoUrl: ""
   },
   {
@@ -1445,7 +1446,7 @@ const BIRDS = [
     dateFirstSeen: "2022-05-08",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "marsh"],
-    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
+    notes: "An uncommon migrant to the area. Frequents the edges of the river rather than marshes.",
     photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
     videoUrl: ""
   },
