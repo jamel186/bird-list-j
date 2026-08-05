@@ -726,8 +726,8 @@ const BIRDS = [
     dateFirstSeen: "2021-10-03",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["forest"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common migrating warbler during the last weeks of April and first 2 weeks of May. Its trees trees trees I love trees song is distinctive. Loves to hang out at the very top of the trees",
+    photos: [{ file: "blackGreen.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
    {
@@ -746,8 +746,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "A common resident of marshes and swamps from April to October. Many are found in Huntley Meadows, hunting in the shallows and spearing small fish and crayfish.",
+    photos: [{ file: "greenHeron.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -756,8 +756,8 @@ const BIRDS = [
     dateFirstSeen: "2020-09-05",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Much smaller than I imagined. Looking at them running along the shore and away from the waves was quite cute.",
-    photos: [{ file: "sanderlingFlock.JPG", caption: "Flock of Sanderlings on shore" }],
+    notes: "Surprisingly quite common along the Potomac River. Many breed in riverside parks like Mason Neck and Occoquan NWR. There is a breeding pair on my school's monopole as well. Its call is a piercing chirp, surprisingly weak for its size and demeanor.",
+    photos: [{ file: "osprey.JPG", caption: "Flock of Sanderlings on shore" }],
     videoUrl: ""
   },
   {
@@ -808,8 +808,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Common winter resident in places like Huntley Meadows. The smallest duck in North America, and when looking at it you can tell. A handsome little bird.",
+    photos: [{ file: "greenTeal.JPG", caption: "Small flock floating in the shallows" }],
     videoUrl: ""
   },
   {
@@ -818,8 +818,8 @@ const BIRDS = [
     dateFirstSeen: "2021-01-23",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "river"],
-    notes: "Quite common in swamps and riparian woodlands. Their booming calls are unmistakable and very loud. There is an active nest in Dyke Marsh which many birders flock to in April. The first owl I ever saw; it was sleeping in a Redcedar tree at Huntley Meadows.",
-    photos: [{ file: "bar1.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Quite common in swamps and woods near streams and waterbodies. Its wheezy fee-bee song is heard in March and April in places like Huntley Meadows. Constantly flicks its tail",
+    photos: [{ file: "phoebe.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
   {
