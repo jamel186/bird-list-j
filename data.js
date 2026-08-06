@@ -1827,7 +1827,7 @@ const BIRDS = [
     location: "Tommy Thompson Park, ON, Canada",
     habitat: ["open woods"],
     notes: "Common in the North, uncommon here in Virginia. At least one is spotted every year in Huntley Meadows.",
-    photos: [{ file: "ameriTree.JPG", caption: "4/3/2023" }],
+    photos: [{ file: "ameriTree.JPG", caption: "Feeding on the ground" }],
     videoUrl: ""
   },
   {
