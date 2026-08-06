@@ -2241,7 +2241,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "river", "urban"],
     notes: "Very common year-round resident in all bodies of water. A couple hundred come to my school's baseball field every morning to feed during the Winter. Their scat litters the ground on my way to school, making it almost like a minefield.",
-    photos: [{file: "canadaGoose.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "canadaGoose.JPG", caption: "Looking at a turtle. Maybe wondering what it would taste like"}],
     videoUrl: ""
   },
   {
