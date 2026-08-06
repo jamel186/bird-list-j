@@ -1426,8 +1426,8 @@ const BIRDS = [
     dateFirstSeen: "2020-05-30",
     location: "Dyke Marsh, VA, USA",
     habitat: ["open woods", "river"],
-    notes: "An uncommon migrant to the area. North America's largest swallow, it is always found near martin houses. Large and has a distinctive short, burry call",
-    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    notes: "An uncommon migrant to the area. Frequently found in open riparian woodlands, in places like Dyke Marsh. An uncommon breeder in the area, more common the farther north you go. Its rollicking song is distinctive.",
+    photos: [],
     videoUrl: ""
   },
   {
@@ -1446,8 +1446,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-08",
     location: "Dyke Marsh, VA, USA",
     habitat: ["river", "marsh"],
-    notes: "An uncommon migrant to the area. Frequents the edges of the river rather than marshes.",
-    photos: [{ file: "purpleMartin.JPG", caption: "Calling outside of its house for the summer" }],
+    notes: "An uncommon migrant to the area. Does not hang out in large flocks. Found in places like Dyke Marsh and other locations along the river. Quite a plain looking swallow.",
+    photos: [{ file: "roughWing.JPG", caption: "Resting on a branch by the river" }],
     videoUrl: ""
   },
   {
@@ -1795,8 +1795,8 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
     notes: "Very common in marshes across the area. The first time I saw them, I was amazed at the red and yellow wing patches of the males and their conk-a-ree songs.",
-    photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
-            { file: "redMergF.JPG", caption: "4/3/2023" }],
+    photos: [{ file: "redBlackM.JPG", caption: "Singing on a cattail" },
+            { file: "redBlackF.JPG", caption: "A well camoflauged female" }],
     videoUrl: ""
   },
   {
@@ -1805,9 +1805,8 @@ const BIRDS = [
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh"],
-    notes: "Very common in marshes across the area. The first time I saw them, I was amazed at the red and yellow wing patches of the males and their conk-a-ree songs.",
-    photos: [{ file: "redMergM.JPG", caption: "4/3/2023" },
-            { file: "redMergF.JPG", caption: "4/3/2023" }],
+    notes: "Very common in marshes and rivers and any body of water. The classic duck",
+    photos: [{ file: "mallard.JPG", caption: "Flock of them at Huntley Meadows" }],
     videoUrl: ""
   },
   {
