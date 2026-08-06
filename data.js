@@ -2199,8 +2199,8 @@ const BIRDS = [
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
-    notes: "A very common backyard bird in the area. .",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "A very common backyard bird in the area. The bright red male and understated female bring a spark of life to the Winter. It is one of the first birds to sing in the Spring.",
+    photos: [{file: "cardinalM.JPG", caption: "A pair in the winter showing off their crimson plumage"}],
     videoUrl: ""
   },
   {
@@ -2209,8 +2209,8 @@ const BIRDS = [
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "A very common bird in bushy areas in both urban neighborhoods and parks. Differentiated from the Mockingbird with its song that repeats phrases only once. Also makes catlike noises. A couple pairs nest in my neighborhood. A cute looking bird",
+    photos: [{file: "catbird.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   
@@ -2220,8 +2220,8 @@ const BIRDS = [
     dateFirstSeen: "2020-05-02",
     location: "Backyard, VA, USA",
     habitat: ["urban", "forest"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Uncommon backyard bird and resident of forests. Lets its presence known by being very brash and garrulous. Makes a variety of noises and is a spark of color in the Winter.",
+    photos: [{file: "blueJay.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2230,7 +2230,7 @@ const BIRDS = [
     dateFirstSeen: "2020-05-02",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open woods"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    notes: "Very common backyard birds in the area. Elegant and demure birds. Their cooing is heard often throughout the Spring and Summer. Yet, they are terrible nest builders. A pair has attempted nesting under our patio 3 times and has failed all 3 times. Seeing the shattered eggs on the ground is something I will never forget.",
     photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
@@ -2240,8 +2240,8 @@ const BIRDS = [
     dateFirstSeen: "2020-06-20",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "river", "urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Very common year-round resident in all bodies of water. A couple hundred come to my school's baseball field every morning to feed during the Winter. Their scat litters the ground on my way to school, making it almost like a minefield.",
+    photos: [{file: "canadaGoose.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
