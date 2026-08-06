@@ -2022,8 +2022,8 @@ const BIRDS = [
     dateFirstSeen: "2021-02-06",
     location: "Huntley Meadows Hike & Bike, VA, USA",
     habitat: ["river"],
-    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
-    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Our national symbol. Quite common year-round resident along the Potomac. Nesting pairs exist in Dyke Marsh and Occoquan.",
+    photos: [{ file: "baldEagle.JPG", caption: "A pair resting in a Sweetgum tree" }],
     videoUrl: ""
   },
   {
@@ -2032,8 +2032,8 @@ const BIRDS = [
     dateFirstSeen: "2021-02-14",
     location: "Patuxent Research Wildlife Refuge, MD, USA",
     habitat: ["river"],
-    notes: "Have only seen once. I know that these birds like bare ground, like beaches or agricultural fields.",
-    photos: [{ file: "pipit.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "Uncommon winter migrant to the area. Prefers calmer waters compared to the other diving ducks. Its gray sides and ring on its bill are distinctive.",
+    photos: [{ file: "ringNeck.JPG", caption: "Floating on the waters near Great Falls" }],
     videoUrl: ""
   },
     {
