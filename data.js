@@ -2166,8 +2166,8 @@ const BIRDS = [
     dateFirstSeen: "2021-12-19",
     location: "Twin Lakes Preserve, NY, USA",
     habitat: ["marsh"],
-    notes: "It was a very cold evening in Long Island. I saw that there was a pond on the road we were traveling on, so I asked if I could go birdwatching in the pond. Surprisingly, there were many ducks, geese, and even swans there. Amongst all the ducks, there was a lone American Wigeon.",
-    photos: [{ file: "wig.JPG", caption: "In Holly Tree, backyard" }],
+    notes: "A common invasive species in the Northeast. Still, a beautiful bird. Saw along with the American Wigeon in Long Island",
+    photos: [{ file: "muteSwan.JPG", caption: "Elegantly floating on the water" }],
     videoUrl: ""
   },
     {
@@ -2189,7 +2189,7 @@ const BIRDS = [
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "forest"],
-    notes: "My first lifer — a bold male pulling worms from the lawn on a rainy morning in early April. Has been a near-daily presence in the yard ever since.",
+    notes: "A very common backyard bird in the area. Forms huge flocks in the Winter and travels around in search of berries. Associates with Cedar Waxwings in my neighborhood. In the summer, many nest in my neighborhood and interestingly sing at dusk.",
     photos: [{ file: "AmericanRobin.JPG", caption: "In Holly Tree, backyard" }],
     videoUrl: ""
   },
@@ -2199,7 +2199,7 @@ const BIRDS = [
     dateFirstSeen: "2020-05-01",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    notes: "A very common backyard bird in the area. .",
     photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
