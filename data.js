@@ -2341,8 +2341,8 @@ const BIRDS = [
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Very common in all kinds of urban environments. Nests in any small crevice it can find. While invasive, they do add a spark of life to urban environments.",
+    photos: [{file: "houseSparrow.JPG", caption: "Flock of them feeding in the brambles. Depicted here is a male"}],
     videoUrl: ""
   },
   {
@@ -2361,8 +2361,8 @@ const BIRDS = [
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Very common resident bird in the area. Its tea-kettle song is heard early in the morning during the spring and early summer. The male and female frequently duets, with the male singing and female making a trilling sound",
+    photos: [{file: "carolinaWren.JPG", caption: "Was duetting in the underbrush. Hard to photograph as it constantly moves around"}],
     videoUrl: ""
   },
   {
