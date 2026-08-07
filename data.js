@@ -2270,7 +2270,7 @@ const BIRDS = [
     dateFirstSeen: "2020-07-03",
     location: "Dyke Marsh, VA, USA",
     habitat: ["scrub", "urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    notes: "Very common resident bird. Found near open fields and lawns all across the region, singing their three parted song mocking other birds' songs. Frequently wags its tail and is quite territorial. Sometimes sings while flying.",
     photos: [{file: "mockingbird.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
@@ -2280,8 +2280,8 @@ const BIRDS = [
     dateFirstSeen: "2020-07-26",
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["open field", "urban", "marsh"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "barnSwallow.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Common summer resident in the area. Frequently nests under bridges and in manmade structures. Found darting through the air over fields and marshes in search of insects.",
+    photos: [{file: "barnSwallow.JPG", caption: "A huge flock of them in Korea during August all sitting on a wire"}],
     videoUrl: ""
   },
   {
@@ -2290,8 +2290,8 @@ const BIRDS = [
     dateFirstSeen: "2020-04-29",
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "turkeyVulture.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Common resident bird. Driving on the highway, I see many of them soaring in the sky and circling over spots. Their light gray undersides on the wings are distinctive.",
+    photos: [{file: "turkeyVulture.JPG", caption: "Soaring in the air"}],
     videoUrl: ""
   },
   {
