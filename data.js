@@ -2250,8 +2250,8 @@ const BIRDS = [
     dateFirstSeen: "2020-06-20",
     location: "Huntley Meadows, VA, USA",
     habitat: ["scrub", "urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Quite common resident bird in the area. Small flocks of about a dozen fly around in forests and fields searching for food. Their iridescent feathers make them look quite pretty.",
+    photos: [{file: "commonGrackle.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2260,8 +2260,8 @@ const BIRDS = [
     dateFirstSeen: "2020-06-20",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Very common bird during the spring and summer. Pairs of these birds slice through the air, chattering away. They gather in large roosts beginning in August.",
+    photos: [{file: "chimneySwift.JPG", caption: "Bad quality but you can see it slicing through the air, almost looks like a bat"}],
     videoUrl: ""
   },
   {
@@ -2271,7 +2271,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["scrub", "urban"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "mockingbird.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
    {
@@ -2281,7 +2281,7 @@ const BIRDS = [
     location: "Meadowlark Botanical Gardens, VA, USA",
     habitat: ["open field", "urban", "marsh"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "barnSwallow.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
@@ -2291,7 +2291,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "turkeyVulture.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
   {
