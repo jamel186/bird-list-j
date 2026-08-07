@@ -2251,7 +2251,7 @@ const BIRDS = [
     location: "Huntley Meadows, VA, USA",
     habitat: ["scrub", "urban"],
     notes: "Quite common resident bird in the area. Small flocks of about a dozen fly around in forests and fields searching for food. Their iridescent feathers make them look quite pretty.",
-    photos: [{file: "commonGrackle.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "commonGrackle.JPG", caption: "A garrulous flock of them calling high in a tree"}],
     videoUrl: ""
   },
   {
@@ -2271,7 +2271,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["scrub", "urban"],
     notes: "Very common resident bird. Found near open fields and lawns all across the region, singing their three parted song mocking other birds' songs. Frequently wags its tail and is quite territorial. Sometimes sings while flying.",
-    photos: [{file: "mockingbird.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "mockingbird.JPG", caption: "Hanging in a low tree during the fall"}],
     videoUrl: ""
   },
    {
@@ -2291,7 +2291,8 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Common resident bird. Driving on the highway, I see many of them soaring in the sky and circling over spots. Their light gray undersides on the wings are distinctive.",
-    photos: [{file: "turkeyVulture.JPG", caption: "Soaring in the air"}],
+    photos: [{file: "turkeySoar.JPG", caption: "Soaring in the air"},
+            {file: "turkeyVulture.JPG", caption: "Landed on a dumpster for some food"}],
     videoUrl: ""
   },
   {
