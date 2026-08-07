@@ -860,8 +860,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-29",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "Very common during the second and third weeks of May, when its dotted song rings in any patch of forest in the area. Very hard to see, as it is tiny and hangs at the very tops of trees.",
+    photos: [{ file: "blackpoll.JPG", caption: "Hard to see, but is foraging" }],
     videoUrl: ""
   },
    {
@@ -880,8 +880,9 @@ const BIRDS = [
     dateFirstSeen: "2021-05-15",
     location: "Glencarlyn Park, VA, USA",
     habitat: ["open field"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "A common resident bird of open fields and large lawns. Gathers in large flocks. A brood parasite, targets forest birds like the Wood Thrush in fragmented habitats. Because of this, the Cowbird is not one of my favorite birds",
+    photos: [{ file: "cowbirdF.JPG", caption: "Checking herself out in our car's side mirrors" },
+            { file: "cowbirdM.JPG", caption: "Pair of males in a tree" }],
     videoUrl: ""
   },
   {
@@ -900,8 +901,9 @@ const BIRDS = [
     dateFirstSeen: "2021-08-14",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest"],
-    notes: "Uncommon. Interestingly I have seen them in marsh habitats when they supposedly breed in swamps and bogs. I saw one at Dyke and another at Jug Bay.",
-    photos: [{ file: "nowa.JPG", caption: "Dyke Marsh, 8/28/21" }],
+    notes: "Common migrant in forests with lots of understory trees. Also common in forest edges. The song is distinctive, often with a sneeze at the end. Frequently fans its tail and shows off its red to onlookers",
+    photos: [{ file: "redstartM.JPG", caption: "Singing in a low tree" },
+            { file: "redstartF.JPG", caption: "Female foraging in a low tree while fanning its tail" }],
     videoUrl: ""
   },
   {
@@ -1375,8 +1377,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-02",
     location: "Backyard, VA, USA",
     habitat: ["open woods"],
-    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
-    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    notes: "Common migrant to the area. More common in the spring than in the fall, its pleased pleased pleased to meetcha song rings in open forests and small woodlots throughout May.",
+    photos: [{ file: "chestnutSided.JPG", caption: "Foraging quickly in a tree" }],
     videoUrl: ""
   },
   {
@@ -2558,8 +2560,8 @@ const BIRDS = [
     dateFirstSeen: "2024-09-21",
     location: "Meadowood Mustang Trailhead, VA, USA",
     habitat: ["forest"],
-    notes: "Rare. A small falcon found in large open fields that have snags for nesting.",
-    photos: [{file:"kestrel.JPG", caption:"A colorful and handsome little falcon resting at the top of a snag"}],
+    notes: "Uncommon. Usually shows up during the second and third weeks of May to Virginia. Has a similar song to the Black-and-white and Cape May. Hangs out at the tops of trees",
+    photos: [{file:"bayBreast.JPG", caption:"Foraging in a low tree"}],
     videoUrl: ""
   },
     {
