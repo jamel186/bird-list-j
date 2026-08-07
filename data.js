@@ -2353,8 +2353,8 @@ const BIRDS = [
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban", "scrub"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    notes: "Very common backyard bird year-round in Virginia. It is one of the first singers of spring. Associates with White-throated Sparrows during the winter.",
+    photos: [{file: "songSparrow.JPG", caption: "Singing in a low tree"}],
     videoUrl: ""
   },
   {
