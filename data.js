@@ -840,8 +840,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "A very common songbird of forests of any size. Its question and answer song is heard throughout the day in the summer. Hangs out at the very tops of trees and makes its nest in a fork in an oak tree.",
+    photos: [{ file: "redEyedVireo.JPG", caption: "Singing its long song" }],
     videoUrl: ""
   },
   {
@@ -870,8 +870,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-01",
     location: "Prince William Forest Park, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "An uncommon migrant and breeder in the area. Its ethereal flute-like song haunts deep forests with large trees. Usually sings at the very tops of trees, so is hard to see",
+    photos: [{ file: "woodThrush.JPG", caption: "Bad quality. Came down low and was feeding a Cowbird chick" }],
     videoUrl: ""
   },
   {
@@ -932,8 +932,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-02",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "A common denizen of forests. Likes to live near trees and stays just above eye level for feeding. Its ker-chip song punctuates the woods all summer long",
+    photos: [{ file: "acadian.JPG", caption: "Making its kerchip calls in a small patch of swampy woods" }],
     videoUrl: ""
   },
   {
