@@ -2467,8 +2467,8 @@ const BIRDS = [
     dateFirstSeen: "2021-05-22",
     location: "Dyke Marsh, VA, USA",
     habitat: ["open woods", "swamp"],
-    notes: "very nice",
-    photos: [{file:"YellowWarbler.JPG"}],
+    notes: "A common migrant to the area but an uncommon breeder. Found often near bodies of water in willows. Its sweet song brightens any day in the Spring",
+    photos: [{file:"YellowWarbler.JPG", caption: "Singing in its breeding grounds in Massachussetts"}],
     videoUrl: ""
   },
   {
