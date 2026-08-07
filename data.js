@@ -453,8 +453,8 @@ const BIRDS = [
     dateFirstSeen: "2020-12-20",
     location: "Mason Neck State Park, VA, USA",
     habitat: ["marsh", "open water"],
-    notes: "very nice",
-    photos: [{ file: "coot.JPG"}],
+    notes: "A common bird on open bodies of water and in marshes during the winter and spring. Has huge feet and dark red eyes",
+    photos: [{ file: "coot.JPG", caption: "Almost menacingly staring with its red eyes"}],
     videoUrl: ""
   },
   {
@@ -2487,8 +2487,8 @@ const BIRDS = [
     dateFirstSeen: "2021-04-04",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest", "open water", "open field"],
-    notes: "very nice",
-    photos: [{file:"TreeSwallow.JPG"}],
+    notes: "Very common migrant and breeding bird in the area. Frequently uses Bluebird boxes for breeding. Feeds over meadows, open fields, bodies of water, and marshes.",
+    photos: [{file:"TreeSwallow.JPG", caption: "Cutely fluffed up on a parking sign in the cool morning"}],
     videoUrl: ""
   },
    {
@@ -2597,8 +2597,8 @@ const BIRDS = [
     dateFirstSeen: "2024-07-28",
     location: "Newbury Salt Marsh, MA, USA",
     habitat: ["marsh"],
-    notes: "very nice",
-    photos: [{file:"marshW.JPG"}],
+    notes: "An uncommon resident bird in the area. Hard to see as it quickly moves in the underbrush of marshes",
+    photos: [{file:"marshW.JPG", caption: "Singing and skulking in the underbrush"}],
     videoUrl: ""
   },
     {
