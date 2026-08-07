@@ -1335,7 +1335,7 @@ const BIRDS = [
     dateFirstSeen: "2022-06-04",
     location: "Shenandoah National Park, VA, USA",
     habitat: ["forest", "open field"],
-    notes: "A rare migrant to the area. Mainly breeds in the Blue Ridge Mountains, in places like Shenandoah and GR Thompson WMA. Have only heard one singing at Shenandoah. Hangs out in the ground under thick underbrush.",
+    notes: "Uncommon in the suburbs, more common in the mountains. Flies solo or as a pair, making its deep croaking call in the mountains.",
     photos: [],
     videoUrl: ""
   },
@@ -1345,8 +1345,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-28",
     location: "Occoquan Bay NWR, VA, USA",
     habitat: ["forest"],
-    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
-    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    notes: "An uncommon migrant and breeder in Virginia. Frequents open or young woodlands near water. Makes its clicking song throughout the day. Feeds on tent caterpillars and apparently vomits its stomach lining every few days.",
+    photos: [],
     videoUrl: ""
   },
    {
@@ -1355,8 +1355,8 @@ const BIRDS = [
     dateFirstSeen: "2022-05-28",
     location: "Occoquan Bay NWR, VA, USA",
     habitat: ["scrub"],
-    notes: "An uncommon migrant to Virginia. Breeds at Huntley Meadows and Meadowood Recreation Area. The only all red bird in North America. Has a song with three different parts, compared to the Scarlet Tanager's song with one burry part.",
-    photos: [{ file: "summerTanager.JPG", caption: "Calling its chebec call in a Cherry tree" }],
+    notes: "Common in the right places as a breeder. Breeds almost exclusively in Occoquan NWR in the area, makings its strange cat like noises and mocking other birds' songs. Notoriously hard to find and take a photo.",
+    photos: [],
     videoUrl: ""
   },
   {
