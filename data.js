@@ -2374,7 +2374,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Not much to say about the humble pigeon. Common in cities because people used to keep them as pets or for food. Quite fast fliers",
-    photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "pigeon.JPG", caption: "In their natural habitat, the streets of NYC"}],
     videoUrl: ""
   },
   {
