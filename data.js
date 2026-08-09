@@ -2344,7 +2344,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Very common in all kinds of urban environments. Nests in any small crevice it can find. While invasive, they do add a spark of life to urban environments.",
-    photos: [{file: "houseSparrow.JPG", caption: "Flock of them feeding in the brambles. Depicted here is a male"}],
+    photos: [{file: "houseSparrow.JPG", caption: "Flock of them feeding in the brambles. Depicted here are two males"}],
     videoUrl: ""
   },
   {
