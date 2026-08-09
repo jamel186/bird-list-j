@@ -942,8 +942,8 @@ const BIRDS = [
     dateFirstSeen: "2021-04-24",
     location: "Huntley Meadows, VA, USA",
     habitat: ["open field", "marsh", "beach"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "Uncommon migrant to the area. Frequents open fields and beaches.",
+    photos: [{ file: "savannah.JPG", caption: "Foraging early in spring migration at Huntley Meadows in the marsh" }],
     videoUrl: ""
   },
   {
@@ -952,8 +952,8 @@ const BIRDS = [
     dateFirstSeen: "2021-04-09",
     location: "Huntley Meadows, VA, USA",
     habitat: ["forest"],
-    notes: "One of my favorite birds. I love the crescendo song of the Ovenbird. And, I find its name funny. Very common in forests during migration season. I believe they breed in Prince William Forest.",
-    photos: [{ file: "oven.JPG", caption: "Glencarlyn Park, 4/28/24" }],
+    notes: "Very common during migration season and as a breeder in the area. Its harsh calls are heard throughout the day. They are very hard to find, as they quickly flit about at the tops of trees.",
+    photos: [{ file: "gnat.JPG", caption: "Quickly took this photo before the gnatcatcher flew away. Handsome little birds" }],
     videoUrl: ""
   },
   {
@@ -2450,7 +2450,7 @@ const BIRDS = [
     location: "Dyke Marsh, VA, USA",
     habitat: ["river"],
     notes: "My nemesis bird for a long while. Was on the hunt for an American Avocet and Hudsonian Whimbrel when I saw a couple of these large white birds dancing in the sky over the river.",
-    photos: [{file: "PurpleFinchMale.JPG", caption:"Resting on a mudflat"}],
+    photos: [{file: "caspian.JPG", caption:"Resting on a mudflat"}],
     videoUrl: ""
   },
   {
