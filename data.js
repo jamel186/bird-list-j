@@ -2443,6 +2443,16 @@ const BIRDS = [
     ],
     videoUrl: ""
   },
+   {
+    commonName: "Caspian Tern",
+    scientificName: "Hydroprogne caspia",
+    dateFirstSeen: "2026-08-08",
+    location: "Dyke Marsh, VA, USA",
+    habitat: ["river"],
+    notes: "My nemesis bird for a long while. Was on the hunt for an American Avocet and Hudsonian Whimbrel when I saw a couple of these large white birds dancing in the sky over the river.",
+    photos: [{file: "PurpleFinchMale.JPG", caption:"Resting on a mudflat"}],
+    videoUrl: ""
+  },
   {
     commonName: "Ruby-throated Hummingbird",
     scientificName: "Archilochus colubris",
