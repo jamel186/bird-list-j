@@ -2304,7 +2304,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Uncommon hawk in the area. Frequents open areas like fields and highways. Sometimes found perched on highway signs.",
-    photos: [{file: "redTail.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "redTail.JPG", caption: "Note the belly band of streaking and white chest"}],
     videoUrl: ""
   },
   {
@@ -2314,7 +2314,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "open field"],
     notes: "Very common in the area. Heard everyday in my neighborhood as they raid trash cans. Gathers in huge flocks in the winter and gets together in large roosts. There is one in Shirlington that has thousands of birds.",
-    photos: [{file: "aCrow.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "aCrow.JPG", caption: "A juvenile on a stadium light at my school"}],
     videoUrl: ""
   },
   {
@@ -2324,7 +2324,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban", "river"],
     notes: "Common during the summer in all areas and in the winter near the river. Like its brother, it gets in huge flocks and roosts together during the summer. There is a large roost in Rosslyn that I used to have front seats to every night.",
-    photos: [{file: "fCrow.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "fCrow.JPG", caption: "Flock of hundreds of them taking off from their summer roost for the morning"}],
     videoUrl: ""
   },
   {
@@ -2334,7 +2334,7 @@ const BIRDS = [
     location: "Backyard, VA, USA",
     habitat: ["urban"],
     notes: "Very common bird in the area, both in urban areas and in large fields. Gets together in large flocks and also makes a call similar to the Killdeer. Invasive.",
-    photos: [{file: "starling.JPG", caption: "In Holly Tree, backyard"}],
+    photos: [{file: "starling.JPG", caption: "Notice the iridescent plumage"}],
     videoUrl: ""
   },
   {
