@@ -2373,7 +2373,7 @@ const BIRDS = [
     dateFirstSeen: "2020-04-30",
     location: "Backyard, VA, USA",
     habitat: ["urban"],
-    notes: "Stunning red male at the feeder, sunflower seed in bill. The female arrived three days later — her rusty blush is underrated.",
+    notes: "Not much to say about the humble pigeon. Common in cities because people used to keep them as pets or for food. Quite fast fliers",
     photos: [{file: "cardinalM.JPG", caption: "In Holly Tree, backyard"}],
     videoUrl: ""
   },
@@ -2383,7 +2383,7 @@ const BIRDS = [
     dateFirstSeen: "2020-05-25",
     location: "Huntley Meadows, VA, USA",
     habitat: ["marsh", "river", "open water"],
-    notes: "Stood motionless in the shallows for over twenty minutes before lunging at a fish with prehistoric precision. One of the most dramatic first sightings I've had.",
+    notes: "Very common in large bodies of water, whether that be marshes or even ponds. A large bird that harpoons for fish",
     photos: [{file: "bheron.JPG"}],
     videoUrl: ""
   },
@@ -2393,7 +2393,7 @@ const BIRDS = [
     dateFirstSeen: "2021-01-16",
     location: "Great Falls, MD, USA",
     habitat: ["scrub", "forest"],
-    notes: "Absolutely electric — the male looks hand-painted. Found him in a thicket near the wetland loop. Spent an hour photographing him as he worked through the brambles.",
+    notes: "The male is an incredible blend of a rainbow of pastel colors. Came as a vagrant in 2021 to Great Falls on the Maryland side. Spent an hour photographing him as he worked through the brambles.",
     photos: [{file:"paintedB.JPG"}],
     videoUrl: ""
   },
