@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — Bird List J</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="shared.css">
+<style>
+  .about-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 2rem 4rem;
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 3rem;
+    align-items: center;
+  }
+
+  .about-text p {
+    font-size: 1rem;
+    line-height: 1.85;
+    color: var(--ink);
+    margin-bottom: 1.25rem;
+  }
+  .about-text p:last-child { margin-bottom: 0; }
+
+  .about-photo {
+    width: 100%;
+    aspect-ratio: 4/5;
+    border-radius: 10px;
+    overflow: hidden;
+    background: linear-gradient(160deg, #e8e6e0 0%, #d4d0c8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .about-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .about-photo svg { opacity: 0.2; }
+
+  .about-photo-label {
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--mist);
+  }
+
+  .about-photo-hint {
+    font-size: 0.68rem;
+    color: var(--mist);
+    opacity: 0.7;
+  }
+
+  @media (max-width: 700px) {
+    .about-section {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      padding: 2rem 1rem 3rem;
+    }
+    .about-photo { order: -1; max-width: 320px; margin: 0 auto; aspect-ratio: 1/1; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="site-logo" href="index.html">Bird List <span>J</span></a>
+  <nav>
+    <a href="index.html">Species</a>
+    <a href="locations.html">Locations</a>
+    <a href="stats.html">Stats</a>
+    <a href="about.html" class="active">About</a>
+  </nav>
+</header>
+
+<div class="banner">
+  <div class="banner-placeholder">
+    <svg width="80" height="80" viewBox="0 0 80 80" fill="none">
+      <ellipse cx="40" cy="50" rx="24" ry="17" fill="#aaa09a"/>
+      <circle cx="54" cy="30" r="14" fill="#aaa09a"/>
+      <polygon points="68,30 80,27 68,36" fill="#888077"/>
+      <circle cx="57" cy="27" r="2.5" fill="#3a3630"/>
+      <path d="M26 54 Q16 64 13 70" stroke="#888077" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <path d="M34 60 Q30 70 28 75" stroke="#888077" stroke-width="3" stroke-linecap="round" fill="none"/>
+    </svg>
+    <span class="banner-placeholder-label">Banner photo</span>
+    <span class="banner-placeholder-hint">Upload a wide photo and replace this placeholder</span>
+  </div>
+</div>
+
+<section class="page-hero">
+  <p class="page-eyebrow">About</p>
+  <h1 class="page-title">The story behind <em>Bird List J.</em></h1>
+</section>
+
+<section class="about-section">
+  <div class="about-text">
+    <p>
+      Write a paragraph here about how you got into birding — what first caught your
+      attention, whether it was a specific bird, a place, or a person who got you started.
+    </p>
+    <p>
+      Add a second paragraph about what this life list means to you — why you started
+      tracking it, what you hope to see next, or a favorite memory from the field.
+    </p>
+  </div>
+
+  <div class="about-photo">
+    <!-- To add your photo, replace this div's contents with:
+         <img src="photos/your-photo.jpg" alt="About me"> -->
+    <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
+      <ellipse cx="28" cy="35" rx="17" ry="12" fill="#aaa09a"/>
+      <circle cx="38" cy="21" r="10" fill="#aaa09a"/>
+      <polygon points="48,21 56,19 48,25" fill="#888077"/>
+      <circle cx="40" cy="19" r="1.8" fill="#3a3630"/>
+    </svg>
+    <span class="about-photo-label">Your photo</span>
+    <span class="about-photo-hint">Upload a portrait and replace this placeholder</span>
+  </div>
+</section>
+
+<footer>Bird List J &nbsp;·&nbsp; Updated June 2025</footer>
+
+</body>
+</html>
