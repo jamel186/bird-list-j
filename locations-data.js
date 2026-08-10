@@ -69,7 +69,7 @@ const LOCATIONS = [
     region: "Lorton, VA, USA",
     photo: "",
     description: "Where it all started.",
-    iconicSpecies: ["Ruddy Duck", "Greater Scaup"]
+    iconicSpecies: ["Ruddy Duck", "Yellow-throated Warbler"]
   },
   {
     name: "Pohick Bay Regional Park",
@@ -231,5 +231,61 @@ const LOCATIONS = [
     photo: "",
     description: "Where it all started.",
     iconicSpecies: ["Great Black-backed Gull", "Ring-billed Gull"]
+  },
+  {
+    name: "Mason Neck Great Marsh Trail",
+    region: "Lorton, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Tundra Swan"]
+  },
+  {
+    name: "Lettuce Lake Park",
+    region: "Tampa, FL, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Black-crowned Night Heron"]
+  },
+  {
+    name: "Grand Hyatt Tampa Bay",
+    region: "Tampa, FL, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Boat-tailed Grackle", "Least Tern"]
+  },
+  {
+    name: "Fort De Soto Park",
+    region: "Tierra Verde, FL, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Willet", "Royal Tern"]
+  },
+  {
+    name: "Honeymoon Island State Park",
+    region: "Dunedin, FL, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["American Oystercatcher", "Common Ground Dove"]
+  },
+  {
+    name: "Tampa International Airport",
+    region: "Tampa, FL, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Western Cattle Egret"]
+  },
+  {
+    name: "Occoquan Bay NWR",
+    region: "Woodbridge, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Prairie Warbler", "Yellow-breasted Chat"]
+  },
+  {
+    name: "Jug Bay Wetlands Sanctuary",
+    region: "Upper Marlboro, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Prothonotary Warbler", "Orchard Oriole"]
   },
 ];
