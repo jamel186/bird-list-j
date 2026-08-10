@@ -2391,7 +2391,7 @@ const BIRDS = [
     commonName: "Painted Bunting",
     scientificName: "Passerina ciris",
     dateFirstSeen: "2021-01-16",
-    location: "Great Falls, MD, USA",
+    location: "Great Falls Tavern, MD, USA",
     habitat: ["scrub", "forest"],
     notes: "The male is an incredible blend of a rainbow of pastel colors. Came as a vagrant in 2021 to Great Falls on the Maryland side. Spent an hour photographing him as he worked through the brambles.",
     photos: [{file:"paintedB.JPG"}],
