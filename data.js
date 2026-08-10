@@ -2528,7 +2528,7 @@ const BIRDS = [
     commonName: "Dollarbird",
     scientificName: "Eurystomus orientalis",
     dateFirstSeen: "2025-07-19",
-    location: "Changgyeonggung, Seoul, South Korea",
+    location: "Changgyeonggung Palace, Seoul, South Korea",
     habitat: ["forest"],
     notes: "It was a hot day. I was walking along a path in the park when I heard some weird sounds. I looked up, and there was a whole family of Dollarbirds in a tree.",
     photos: [{file:"dollarbird.JPG"}],
