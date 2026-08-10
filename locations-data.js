@@ -134,4 +134,46 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Brown Thrasher"]
   },
+  {
+    name: "Glencarlyn Park",
+    region: "Arlington, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Wood Thrush", "Brown-headed Cowbird"]
+  },
+  {
+    name: "Neighborhood",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Oriental Magpie", "Brown-eared Bulbul", "Large-billed Crow"]
+  },
+  {
+    name: "Waryong Park",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Azure-winged Magpie", "Asian Tit", "Oriental Turtle-Dove"]
+  },
+  {
+    name: "Cheonggyecheon",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Gray Heron", "Little Egret"]
+  },
+  {
+    name: "Bomun Lake",
+    region: "Gyeongju, Gyeongsangbuk-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Eastern Spot-bellied Duck", "Great Cormorant"]
+  },
+  {
+    name: "Pohang Coast",
+    region: "Pohang, Gyeongsangbuk-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Black-tailed Gull"]
+  },
 ];
