@@ -92,4 +92,46 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Painted Bunting"]
   },
+  {
+    name: "Patuxent Research Wildlife Refuge",
+    region: "Laurel, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Pine Warbler"]
+  },
+  {
+    name: "Sandy Point State Park",
+    region: "Annapolis, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["American Pipit"]
+  },
+  {
+    name: "Quiet Waters Park",
+    region: "Annapolis, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Horned Grebe"]
+  },
+  {
+    name: "Kennilworth Aquatic Gardens",
+    region: "DC, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Common Merganser"]
+  },
+  {
+    name: "Fort CF Smith Park",
+    region: "Arlington, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Great Horned Owl"]
+  },
+  {
+    name: "National Arboretum",
+    region: "DC, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Brown Thrasher"]
+  },
 ];
