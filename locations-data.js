@@ -176,4 +176,39 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Black-tailed Gull"]
   },
+  {
+    name: "Seoul Forest",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Little Heron", "Great Egret"]
+  },
+  {
+    name: "Bukhansan National Park",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Great Spotted Woodpecker"]
+  },
+  {
+    name: "Namsan Outdoor Botanical Garden",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Ring-necked Pheasant", "Vinous-throated Parrotbill"]
+  },
+  {
+    name: "Olympic Forest",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Chinese Blackbird"]
+  },
+  {
+    name: "Shenandoah National Park",
+    region: "Front Royal, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Acadian Flycatcher", "Hooded Warbler", "Kentucky Warbler"]
+  },
 ];
