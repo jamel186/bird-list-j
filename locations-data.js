@@ -16,24 +16,31 @@
 
 const LOCATIONS = [
   {
-    name: "Huntley Meadows Park",
+    name: "Huntley Meadows",
     region: "Alexandria, VA, USA",
     photo: "",
     description: "One of my most-visited spots and where several early lifers came from.",
-    iconicSpecies: ["Great Blue Heron", "Wood Duck"]
+    iconicSpecies: ["Red-winged Blackbird", "Hooded Merganser"]
   },
   {
-    name: "Brazos Bend State Park",
-    region: "Needville, TX, USA",
+    name: "Huntley Meadows Hike & Bike",
+    region: "Alexandria, VA, USA",
     photo: "",
-    description: "A Gulf Coast park known for its lakes, alligators, and dense brushy trails. Spring migration here is spectacular — this is where I found some of my most colorful lifers.",
-    iconicSpecies: ["Painted Bunting", "Roseate Spoonbill"]
+    description: "One of my most-visited spots and where several early lifers came from.",
+    iconicSpecies: ["White-eyed Vireo", "Indigo Bunting"]
+  },
+  {
+    name: "Dyke Marsh",
+    region: "Alexandria, VA, USA",
+    photo: "",
+    description: "Right by the river",
+    iconicSpecies: ["Eastern Warbling Vireo", "Barred Owl", "Northern Rough-winged Swallow"]
   },
   {
     name: "Backyard",
     region: "VA, USA",
     photo: "",
-    description: "Where it all started. A modest suburban yard with a few feeders and a holly tree that somehow keeps producing new species every year.",
-    iconicSpecies: ["American Robin", "Northern Cardinal", "Ruby-throated Hummingbird"]
+    description: "Where it all started.",
+    iconicSpecies: ["American Robin", "Northern Cardinal"]
   }
 ];
