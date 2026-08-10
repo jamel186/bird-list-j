@@ -211,4 +211,25 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Acadian Flycatcher", "Hooded Warbler", "Kentucky Warbler"]
   },
+  {
+    name: "Twin Lakes Preserve",
+    region: "Wantagh, NY, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Mute Swan", "American Wigeon"]
+  },
+  {
+    name: "Jamaica Bay NWR",
+    region: "Broad Channel, NY, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Snow Goose", "Brant"]
+  },
+  {
+    name: "Central Park",
+    region: "Manhattan, NY, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Great Black-backed Gull", "Ring-billed Gull"]
+  },
 ];
