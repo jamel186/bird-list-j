@@ -400,4 +400,53 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Marsh Wren"]
   },
+  {
+    name: "Mckee Beshers Hughes Hollow",
+    region: "Poolesville, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Hooded Merganser", "Prothonotary Warbler", "Yellow-throated Vireo"]
+  },
+  {
+    name: "Old North Bridge",
+    region: "Concord, MA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Northern Harrier"]
+  },
+  {
+    name: "Manassas Battlefield Brawner Farm",
+    region: "Lorton, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Grasshopper Sparrow", "Eastern Meadowlark"]
+  },
+  {
+    name: "Changgyeonggung Palace",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Dollarbird"]
+  },
+  {
+    name: "Monticello Park",
+    region: "Alexandria, VA, USA",
+    photo: "",
+    description: "One of my most-visited spots and where several early lifers came from.",
+    iconicSpecies: ["Northern Parula", "Black-throated Blue Warbler"]
+  },
+  {
+    name: "Mason District Park",
+    region: "Annandale, VA, USA",
+    photo: "",
+    description: "One of my most-visited spots and where several early lifers came from.",
+    iconicSpecies: ["Red-breasted Nuthatch", "Pileated Woodpecker"]
+  },
+  {
+    name: "Great Falls Park",
+    region: "Great Falls, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Red-flanked Bluetail", "Ring-necked Duck"]
+  },
 ];
