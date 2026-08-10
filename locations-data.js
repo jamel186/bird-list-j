@@ -128,6 +128,13 @@ const LOCATIONS = [
     iconicSpecies: ["Great Horned Owl"]
   },
   {
+    name: "Central Library",
+    region: "Arlington, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Ruby-throated Hummingbird", "American Goldfinch"]
+  },
+  {
     name: "National Arboretum",
     region: "DC, USA",
     photo: "",
@@ -434,6 +441,13 @@ const LOCATIONS = [
     photo: "",
     description: "One of my most-visited spots and where several early lifers came from.",
     iconicSpecies: ["Northern Parula", "Black-throated Blue Warbler"]
+  },
+  {
+    name: "Green Spring Gardens",
+    region: "Alexandria, VA, USA",
+    photo: "",
+    description: "One of my most-visited spots and where several early lifers came from.",
+    iconicSpecies: ["Mississippi Kite", "Ruby-throated Hummingbird"]
   },
   {
     name: "Mason District Park",
