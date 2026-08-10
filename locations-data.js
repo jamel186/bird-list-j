@@ -288,4 +288,116 @@ const LOCATIONS = [
     description: "Where it all started.",
     iconicSpecies: ["Prothonotary Warbler", "Orchard Oriole"]
   },
+  {
+    name: "Seoripul Park",
+    region: "Seoul, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Eurasian Jay"]
+  },
+  {
+    name: "Odaesan National Park",
+    region: "Pyeongchang-gun, Gangwon-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Blue-and-white Flycatcher", "Varied Tit"]
+  },
+  {
+    name: "Gyeongpo Lake",
+    region: "Gangneung, Gangwon-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Oriental Reed Warbler", "Great Egret"]
+  },
+  {
+    name: "Pension",
+    region: "Seogwipo, Jeju-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Blue Rock Thrush"]
+  },
+  {
+    name: "Gotjawal Provincial Park",
+    region: "Seogwipo, Jeju-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Japanese Bush Warbler", "Warbling White-eye"]
+  },
+  {
+    name: "Mara-do",
+    region: "Seogwipo, Jeju-do, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Pleske's Grasshopper Warbler", "Pacific Swift"]
+  },
+  {
+    name: "Ganghwa-do Mudflats",
+    region: "Ganghwa-gun, Incheon, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Common Greenshank", "Black-faced Spoonbill"]
+  },
+  {
+    name: "Ganghwa-do South Fields",
+    region: "Ganghwa-gun, Incheon, South Korea",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Eastern Cattle-Egret", "Medium Egret"]
+  },
+  {
+    name: "Tommy Thompson Park",
+    region: "Toronto, Ontario, Canada",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Long-tailed Duck", "Red-breasted Merganser"]
+  },
+  {
+    name: "Presque Isle State Park",
+    region: "Erie, PA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Common Loon"]
+  },
+  {
+    name: "National Colonial Farm",
+    region: "Accokeek, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Eastern Meadowlark", "Brown-headed Cowbird"]
+  },
+  {
+    name: "Shohei Bridge",
+    region: "Tokyo, Japan",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Oriental Greenfinch"]
+  },
+  {
+    name: "Meadowood Mustang Trailhead",
+    region: "Lorton, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Summer Tanager", "Eastern Meadowlark"]
+  },
+  {
+    name: "Hammonasset Beach State Park",
+    region: "New Haven, CT, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Willow Flycatcher", "Common Tern"]
+  },
+  {
+    name: "Wells Reserve at Laudholm",
+    region: "Kennebunkport, ME, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Piping Plover"]
+  },
+  {
+    name: "Newbury Salt Marsh",
+    region: "Newbury, MA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Marsh Wren"]
+  },
 ];
