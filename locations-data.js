@@ -19,7 +19,7 @@ const LOCATIONS = [
     name: "Huntley Meadows Park",
     region: "Alexandria, VA, USA",
     photo: "",
-    description: "A freshwater wetland tucked into the middle of Fairfax County — boardwalks wind through marsh and open water where herons, ducks, and rails are reliable almost year-round. One of my most-visited spots and where several early lifers came from.",
+    description: "One of my most-visited spots and where several early lifers came from.",
     iconicSpecies: ["Great Blue Heron", "Wood Duck"]
   },
   {
@@ -31,7 +31,7 @@ const LOCATIONS = [
   },
   {
     name: "Backyard",
-    region: "Alexandria, VA, USA",
+    region: "VA, USA",
     photo: "",
     description: "Where it all started. A modest suburban yard with a few feeders and a holly tree that somehow keeps producing new species every year.",
     iconicSpecies: ["American Robin", "Northern Cardinal", "Ruby-throated Hummingbird"]
