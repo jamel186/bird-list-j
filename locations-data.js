@@ -42,5 +42,54 @@ const LOCATIONS = [
     photo: "",
     description: "Where it all started.",
     iconicSpecies: ["American Robin", "Northern Cardinal"]
-  }
+  },
+  {
+    name: "Anacostia Park",
+    region: "DC, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["American Goldfinch"]
+  },
+  {
+    name: "Meadowlark Botanical Gardens",
+    region: "Vienna, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Eastern Bluebird", "Pine Siskin"]
+  },
+  {
+    name: "Prince William Forest Park",
+    region: "Triangle, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Wood Thrush"]
+  },
+  {
+    name: "Mason Neck State Park",
+    region: "Lorton, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Ruddy Duck", "Greater Scaup"]
+  },
+  {
+    name: "Pohick Bay Regional Park",
+    region: "Lorton, VA, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Lesser Scaup", "Winter Wren"]
+  },
+  {
+    name: "Theodore Roosevelt Island",
+    region: "DC, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Prothonotary Warbler", "Wood Duck"]
+  },
+  {
+    name: "Great Falls Tavern",
+    region: "Potomac, MD, USA",
+    photo: "",
+    description: "Where it all started.",
+    iconicSpecies: ["Painted Bunting"]
+  },
 ];
