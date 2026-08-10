@@ -1184,7 +1184,7 @@ const BIRDS = [
     commonName: "Black-tailed Gull",
     scientificName: "Larus crassirostris",
     dateFirstSeen: "2021-07-14",
-    location: "Somewhere on the coast, Gyeongsangbuk-do, South Korea",
+    location: "Pohang Coast, Gyeongsangbuk-do, South Korea",
     habitat: ["forest"],
     notes: "Very common on the shores of Korea during the summer, both on rocky shores and mudflats.",
     photos: [{ file: "blackTailGull.JPG", caption: "On the mudflats feeding on crabs" }],
