@@ -69,7 +69,9 @@ const LOCATIONS = [
   {
     name: "Prince William Forest Park",
     region: "Triangle, VA, USA",
-    photos: [{ file:"", caption:"" }],
+    photos: [{ file:"princeScenic.jpg", caption:"The Scenic Drive in the fall" },
+            { file:"princeOrenda.jpg", caption:"The North Orenda Road in the fall, with its wide trails" },
+            { file:"princeCreek.jpg", caption:"The creek in the winter" }],
     description: "A large, mature piedmont forest. Going in feels like I've traveled deep into the mountains, when in reality it's only been about half an hour. Has a creek running through. The habitat is all forest, with some creekside habitat and open habitat in the parking lots. Often did the Laurel Loop and Birch Bluff trails. Recently started to go on Laurel Loop and then go on the North Orenda Road for a little bit. A nice road because it is wide and has gravel (no need to worry about ticks!)",
     iconicSpecies: ["Wood Thrush"]
   },
