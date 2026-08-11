@@ -47,21 +47,21 @@ const LOCATIONS = [
     name: "Anacostia Park",
     region: "DC, USA",
     photo: "",
-    description: "Where it all started.",
+    description: "Have only visited once. Don't remember much; all I remember is a trail by the river that had thistles and many Goldfinches.",
     iconicSpecies: ["American Goldfinch"]
   },
   {
     name: "Meadowlark Botanical Gardens",
     region: "Vienna, VA, USA",
     photo: "",
-    description: "Where it all started.",
+    description: "I used to visit this park every single week for nearly five months. It is a beautiful small park with many flowers in the Spring and Summer. Many of my early lifers came from here and has a variety of habitats, from meadow to forest to lawn to ponds.",
     iconicSpecies: ["Eastern Bluebird", "Pine Siskin"]
   },
   {
     name: "Prince William Forest Park",
     region: "Triangle, VA, USA",
     photo: "",
-    description: "Where it all started.",
+    description: "A large, mature piedmont forest. Going in feels like I've traveled deep into the mountains, when in reality it's only been about half an hour. Has a creek running through. The habitat is all forest, with some creekside habitat and open habitat in the parking lots. Often did the Laurel Loop and Birch Bluff trails. Recently started to go on Laurel Loop and then go on the North Orenda Road for a little bit. A nice road because it is wide and has gravel (no need to worry about ticks!)",
     iconicSpecies: ["Wood Thrush"]
   },
   {
