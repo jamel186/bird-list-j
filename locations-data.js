@@ -18,14 +18,19 @@ const LOCATIONS = [
   {
     name: "Huntley Meadows",
     region: "Alexandria, VA, USA",
-    photos: [{ file:"", caption:"" }],
+    photos: [{ file:"huntleyMarsh", caption:"The view from the boardwalk" },
+            { file:"huntleyForest", caption:"The forest that the trail cuts through" },
+            { file:"huntleyWater", caption:"The section with open water" },
+            { file:"huntleyMudflat", caption:"Sometimes in the late summer, the open water section turns into mudflats. Here you can see egrets in the distance" }],
     description: "One of my most-visited spots and where many of my early lifers came from. The first part of the trail is through swampy woods dominated by Sweetgum and Northern Red Oak. Then there is a boardwalk that goes through marsh with cattails and Swamp Rose Mallow. There is an area of open water that turns to mudflats in the late summer; perfect for shorebirds. Finally, there is an observation tower next to a small field with a Bluebird box",
     iconicSpecies: ["Red-winged Blackbird", "Hooded Merganser"]
   },
   {
     name: "Huntley Meadows Hike & Bike",
     region: "Alexandria, VA, USA",
-    photos: [{ file:"", caption:"" }],
+    photos: [{ file:"huntleyPath", caption:"The very straight path in May" },
+            { file:"huntleyMeadow", caption:"The meadow early in the spring" },
+            { file:"huntleyObs", caption:"The view from one of the observation decks" }],
     description: "One of my favorite places to visit. The trail is completely paved and very straight (you can look down and see the end of it from over a mile away). The trail mainly goes through swampy woodlands. There is a large meadow near the beginning that has Indigo Buntings. There are also thickets and Bigtooth Aspen stands scattered throughout the trail. The trail ends at an observation deck where you can look out at the open water of the marsh. There is also another large field near the end and a trail that goes to another observation deck. The latter trail has Prothonotary Warblers and White-eyed Vireos.",
     iconicSpecies: ["White-eyed Vireo", "Indigo Bunting"]
   },
