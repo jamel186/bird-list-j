@@ -40,7 +40,7 @@ const LOCATIONS = [
     name: "Backyard",
     region: "VA, USA",
     photo: "",
-    description: "Where it all started.",
+    description: "Where it all started. Average suburban backyard that has all of the common species. Interestingly, there are many Catbirds and Cedar Waxwings in my neighborhood. Sometimes, in the winter, a Cooper's Hawk can be seen on snowy days.",
     iconicSpecies: ["American Robin", "Northern Cardinal"]
   },
   {
