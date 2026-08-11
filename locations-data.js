@@ -46,7 +46,7 @@ const LOCATIONS = [
   {
     name: "Backyard",
     region: "VA, USA",
-    photos: [{ file:"", caption:"" }],
+    photos: [],
     description: "Where it all started. Average suburban backyard that has all of the common species. Interestingly, there are many Catbirds and Cedar Waxwings in my neighborhood. Sometimes, in the winter, a Cooper's Hawk can be seen on snowy days.",
     iconicSpecies: ["American Robin", "Northern Cardinal"]
   },
@@ -60,7 +60,9 @@ const LOCATIONS = [
   {
     name: "Meadowlark Botanical Gardens",
     region: "Vienna, VA, USA",
-    photos: [{ file:"", caption:"" }],
+    photos: [{ file:"meadowlarkMeadows.jpg", caption:"The meadows that have many sparrows and finches in the winter. Filled with goldenrod, senna, and bonoset" },
+            { file:"meadowlarkForest.jpg", caption:"Tall Tulip Poplars comprise the majority of the forest" },
+            { file:"meadowlarkPond.jpg", caption:"A small woodland pond surrounded by reeds" }],
     description: "I used to visit this park every single week for nearly five months. It is a beautiful small park with many flowers in the Spring and Summer. Many of my early lifers came from here and has a variety of habitats, from meadow to forest to lawn to ponds.",
     iconicSpecies: ["Eastern Bluebird", "Pine Siskin"]
   },
