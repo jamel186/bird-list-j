@@ -33,7 +33,7 @@ const LOCATIONS = [
     name: "Dyke Marsh",
     region: "Alexandria, VA, USA",
     photo: "",
-    description: "Right by the river",
+    description: "A wooded trail right by the river. The beginning of the trail has many large trees spaced out evenly; perfect habitat for orioles. The sylvan trail then goes right by the river, providing a great view of the marsh. The islands in the distance often have Bald Eagles perched on them. Red-winged Blackbirds constantly sing. Near the end, there is an observation deck to look at the open water. There is always a Kingbird there and skinks in the wooden bridge posts. Sometimes, you can hear Sora calling early in the morning.",
     iconicSpecies: ["Eastern Warbling Vireo", "Barred Owl", "Northern Rough-winged Swallow"]
   },
   {
