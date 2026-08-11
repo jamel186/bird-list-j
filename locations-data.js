@@ -26,7 +26,7 @@ const LOCATIONS = [
     name: "Huntley Meadows Hike & Bike",
     region: "Alexandria, VA, USA",
     photo: "",
-    description: "One of my most-visited spots and where several early lifers came from.",
+    description: "One of my favorite places to visit. The trail is completely paved and very straight (you can look down and see the end of it from over a mile away). The trail mainly goes through swampy woodlands. There is a large meadow near the beginning that has Indigo Buntings. There are also thickets and Bigtooth Aspen stands scattered throughout the trail. The trail ends at an observation deck where you can look out at the open water of the marsh. There is also another large field near the end and a trail that goes to another observation deck. The latter trail has Prothonotary Warblers and White-eyed Vireos.",
     iconicSpecies: ["White-eyed Vireo", "Indigo Bunting"]
   },
   {
