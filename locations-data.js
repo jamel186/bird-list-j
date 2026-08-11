@@ -19,7 +19,7 @@ const LOCATIONS = [
     name: "Huntley Meadows",
     region: "Alexandria, VA, USA",
     photo: "",
-    description: "One of my most-visited spots and where several early lifers came from.",
+    description: "One of my most-visited spots and where many of my early lifers came from. The first part of the trail is through swampy woods dominated by Sweetgum and Northern Red Oak. Then there is a boardwalk that goes through marsh with cattails and Swamp Rose Mallow. There is an area of open water that turns to mudflats in the late summer; perfect for shorebirds. Finally, there is an observation tower next to a small field with a Bluebird box",
     iconicSpecies: ["Red-winged Blackbird", "Hooded Merganser"]
   },
   {
