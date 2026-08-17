@@ -107,7 +107,7 @@ const LOCATIONS = [
     name: "Patuxent Research Wildlife Refuge",
     region: "Laurel, MD, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "A large wildlife refuge in Maryland. Has an interesting mix of habitats, almost feels like I'm in New England. Mainly mesic upland forests, but also has many lakes, marshes, and riparian woodland habitats. Also has meadows and scrub, as powerlines cut through the refuge. A nice, large park that feels like I'm in the wilderness. The only annoying thing is the constant sound of traffic, as a highway cuts through the refuge.",
     iconicSpecies: ["Pine Warbler"]
   },
   {
