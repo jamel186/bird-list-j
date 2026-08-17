@@ -345,7 +345,7 @@ document.getElementById('hero-stats').innerHTML=`
   <div class="stat"><span class="stat-number">${LOCATIONS.length}</span><span class="stat-label">Locations</span></div>
   <div class="stat"><span class="stat-number">${[...new Set(LOCATIONS.flatMap(l=>l.iconicSpecies))].length}</span><span class="stat-label">Featured species</span></div>`;
 
-const PAGE_SIZE=25;
+const PAGE_SIZE=9;
 let currentPage=1;
 
 function buildPaginationInto(pagContainer,totalPages,goToPage){
