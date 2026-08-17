@@ -135,21 +135,21 @@ const LOCATIONS = [
     name: "Fort CF Smith Park",
     region: "Arlington, VA, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "When I went, there was a breeding pair of Great Horned Owls. This was many years ago now, so I'm not sure if they are still there. A small wooded park with a wildflower meadow and forest with tall trees. Supposedly quite good during migration season, as there is a small stream for warblers to bathe in.",
     iconicSpecies: ["Great Horned Owl"]
   },
   {
     name: "Central Library",
     region: "Arlington, VA, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "A large library that I used to frequent. Has a small native plant garden out front which was where I saw my first hummingbird.",
     iconicSpecies: ["Ruby-throated Hummingbird", "American Goldfinch"]
   },
   {
     name: "National Arboretum",
     region: "DC, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "Adjacent to Kennilworth in eastern Washington DC. A great park because of the variety. There are tracts of forest, orchard like plantations of decorative trees, meadows, lakes, and flowers. This varied habitat makes for a great stopover site during migration season. The vast fields were where I saw my first Field Sparrow. The pool in front of the columns have breeding American Toads.",
     iconicSpecies: ["Brown Thrasher"]
   },
   {
