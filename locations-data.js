@@ -93,7 +93,7 @@ const LOCATIONS = [
     name: "Theodore Roosevelt Island",
     region: "DC, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "Where it all started. The first park I visited for birdwatching purposes. A small, forested island in the Potomac River right next to Rosslyn and Georgetown. Has a Bald Cypress swamp, the northernmost Bald Cypress swamp in the world. Primarily riparian woodland habitat, around the statue of Theodore Roosevelt is a great place to find birds during migration season. The drained pools have many thrushes in them.",
     iconicSpecies: ["Prothonotary Warbler", "Wood Duck"]
   },
   {
