@@ -86,7 +86,7 @@ const LOCATIONS = [
     name: "Pohick Bay Regional Park",
     region: "Lorton, VA, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "Another forest park on Mason Neck. More hilly than Mason Neck State Park, offers views of Gunston Cove, which, similar to Belmont Bay, has many diving ducks during the winter. The boat launch is a good place to see these ducks.",
     iconicSpecies: ["Lesser Scaup", "Winter Wren"]
   },
   {
