@@ -114,14 +114,14 @@ const LOCATIONS = [
     name: "Sandy Point State Park",
     region: "Annapolis, MD, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "A nice beach park along the Chesapeake Bay in Annapolis. Has a large stand phragmite marsh as well. I went in the dead of winter, where I saw my first American Pipits. Quite good during migration season, as it is right along the water.",
     iconicSpecies: ["American Pipit"]
   },
   {
     name: "Quiet Waters Park",
     region: "Annapolis, MD, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "After visiting Sandy Point, went here because I wasn't satisfied with just the American Pipits. The park is a small forest with rolling hills and views of the Chesapeake. Where I saw my first Horned Grebe.",
     iconicSpecies: ["Horned Grebe"]
   },
   {
