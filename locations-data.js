@@ -128,7 +128,7 @@ const LOCATIONS = [
     name: "Kennilworth Aquatic Gardens",
     region: "DC, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "Adjacent to the National Arboretum. A collection of small ponds with many marsh plants like lotus growing in them. Has many wading birds and apparently many shorebirds during migration season. Also has a boardwalk that leads to a muddy edge of the Anacostia River, where I saw my first Common Mergansers.",
     iconicSpecies: ["Common Merganser"]
   },
   {
