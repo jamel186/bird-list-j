@@ -79,7 +79,7 @@ const LOCATIONS = [
     name: "Mason Neck State Park",
     region: "Lorton, VA, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "A nice, large mature forest on Mason Neck, not too far away from my home. Offers riparian woodland and upland woodland habitat along with views of Belmont Bay, a sheltered bay with many diving ducks during the winter.",
     iconicSpecies: ["Ruddy Duck", "Yellow-throated Warbler"]
   },
   {
