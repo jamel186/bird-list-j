@@ -100,7 +100,7 @@ const LOCATIONS = [
     name: "Great Falls Tavern",
     region: "Potomac, MD, USA",
     photos: [{ file:"", caption:"" }],
-    description: "Where it all started.",
+    description: "This stretch of the C&O Canal offers views of Great Falls. It was where I found a Painted Bunting in the dead of winter. Also has the Billy Goat Trail. Has an interesting Chestnut Oak savanna on Olmsted Island, one of only few in the world.",
     iconicSpecies: ["Painted Bunting"]
   },
   {
